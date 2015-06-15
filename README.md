@@ -6,7 +6,7 @@ NPMaki is a forked version of Maki - a point of interest icon set designed and m
 
 ## src
 
-NPMaki's source [SVG][] files are in the `src` subdirectory. To create pixel-perfect icons at different sizes, each icon is designed 3 times for 12, 18, and 24 pixels wide/tall.
+NPMaki's source [SVG](http://en.wikipedia.org/wiki/Scalable_Vector_Graphics) files are in the `src` subdirectory. To create pixel-perfect icons at different sizes, each icon is designed 3 times for 12, 18, and 24 pixels wide/tall.
 
 ## renders
 
@@ -14,14 +14,9 @@ PNG renders of all of the SVGs are in the `renders` directory. High-resolution (
 
 ## render.sh
 
-You can use the SVGs and PNGs in this repository as they are without building anything, however a render script is included to assist designers/developers who want to modify or create NPMaki icons. It will render SVGs to PNGs at 100% and 200% resolution, create sprites used by [NPMap.js](https://github.com/nationalparkservice/npmap.js), [NPMap Builder](https://github.com/nationalparkservice/npmap-builder], and the [Places Editor](https://github.com/nationalparkservice/places-editor) and generate corresponding CSS styles for the sprites.
+You can use the SVGs and PNGs in this repository as they are without building anything, however a render script is included to assist designers/developers who want to modify or create NPMaki icons. It will render SVGs to PNGs at 100% and 200% resolution, create sprites used by [NPMap.js](https://github.com/nationalparkservice/npmap.js), [NPMap Builder](https://github.com/nationalparkservice/npmap-builder), and the [Places Editor](https://github.com/nationalparkservice/places-editor) and generate corresponding CSS styles for the sprites.
 
-The script requires [Bash][http://www.gnu.org/software/bash/bash.html], [Inkscape][http://inkscape.org], and [ImageMagick][http://www.imagemagick.org/] to function correctly. Each icon must have an appropriate entry in `www/npmaki.json` to be rendered correctly.
-
-[SVG]: http://en.wikipedia.org/wiki/Scalable_Vector_Graphics
-[Inkscape]: http://inkscape.org
-[Bash]: http://www.gnu.org/software/bash/bash.html
-[ImageMagick]: http://www.imagemagick.org/
+The script requires [Bash](http://www.gnu.org/software/bash/bash.html), [Inkscape](http://inkscape.org), and [ImageMagick](http://www.imagemagick.org/) to function correctly. Each icon must have an appropriate entry in `www/npmaki.json` to be rendered correctly.
 
 You can run the script like this:
 
