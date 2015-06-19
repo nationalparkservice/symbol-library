@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Icons" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g opacity="0.5">
+	<polygon points="22,9 22,11 20,13 18,13 18,12 20,12 21,11 21,9 	"/>
+	<path d="M20,6V4l-2,2l-3,3.8V9l-3-1V7l-1-1h-1L9,7v4H3l-1,1v5h1v-4l1-1h1l-1,2v1v8l1,1l1-1v-6l3,6l1,1l1-1l-3-7h7v7l1,1l1-1v-8l3-6
+		l3,1l1-1L20,6z M12,11V9l2.8,0.9L14,11H12z"/>
+	<circle cx="10.5" cy="3.5" r="1.5"/>
+</g>
+<g opacity="0.75">
+	<polygon points="21,8 21,10 19,12 17,12 17,11 19,11 20,10 20,8 	"/>
+	<path d="M19,5V3l-2,2l-3,3.8V8l-3-1V6l-1-1H9L8,6v4H2l-1,1v5h1v-4l1-1h1l-1,2v1v8l1,1l1-1v-6l3,6l1,1l1-1l-3-7h7v7l1,1l1-1v-8l3-6
+		l3,1l1-1L19,5z M11,10V8l2.8,0.9L13,10H11z"/>
+	<circle cx="9.5" cy="2.5" r="1.5"/>
+</g>
+<g>
+	<polygon fill="#FFFFFF" points="20,7 20,9 18,11 16,11 16,10 18,10 19,9 19,7 	"/>
+	<path fill="#FFFFFF" d="M18,4V2l-2,2l-3,3.8V7l-3-1V5L9,4H8L7,5v4H1l-1,1v5h1v-4l1-1h1l-1,2v1v8l1,1l1-1v-6l3,6l1,1l1-1l-3-7h7v7
+		l1,1l1-1v-8l3-6l3,1l1-1L18,4z M10,9V7l2.8,0.9L12,9H10z"/>
+	<circle fill="#FFFFFF" cx="8.5" cy="1.5" r="1.5"/>
+</g>
+</svg>
