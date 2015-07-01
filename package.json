@@ -8,10 +8,7 @@
     "test": "tap test/*.js"
   },
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/nationalparkservice/npmaki.git"
-  },
+  "repository": "npmaki",
   "devDependencies": {
     "tap": "~0.4.9"
   }
