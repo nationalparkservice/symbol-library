@@ -1,14 +1,14 @@
 {
   "author": "National Park Service",
-  "name": "npmaki",
-  "description": "A web-friendly symbolset for the National Park Service.",
+  "name": "npmap-symbol-library",
+  "description": "National Park Service map symbols optimized for the web.",
   "version": "1.0.0",
-  "homepage": "http://www.nps.gov/npmap/tools/npmaki/",
+  "homepage": "http://www.nps.gov/npmap/tools/npmap-symbol-library/",
   "scripts": {
     "test": "tap test/*.js"
   },
   "main": "index.js",
-  "repository": "npmaki",
+  "repository": "npmap-symbol-library",
   "devDependencies": {
     "tap": "~0.4.9"
   }
