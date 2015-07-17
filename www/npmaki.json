@@ -802,6 +802,20 @@
     "icon": "visitor-center-white"
   },
   {
+    "name": "Waterfall (Black)",
+    "tags": [
+      "waterfall"
+    ],
+    "icon": "waterfall-black"
+  },
+  {
+    "name": "Waterfall (White)",
+    "tags": [
+      "waterfall"
+    ],
+    "icon": "waterfall-white"
+  },
+  {
     "name": "Wheelchair Accessible (Black)",
     "tags": [
       "wheelchair accessible"
