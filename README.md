@@ -1,6 +1,6 @@
 # NPMap Symbol Library
 
-[![Build Status](https://travis-ci.org/nationalparkservice/npmap-symbol-library.png?branch=gh-pages)](https://travis-ci.org/nationalparkservice/npmap-symbol-library)
+[![Circle CI](https://circleci.com/gh/nationalparkservice/npmap-symbol-library.svg?style=svg)](https://circleci.com/gh/nationalparkservice/npmap-symbol-library)
 
 National Park Service [map symbols](http://www.nps.gov/hfc/carto/map-symbols.cfm) optimized for the web.
 
