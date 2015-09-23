@@ -39,3 +39,6 @@ You can run the script like this:
     npm install
     cd npmap-symbol-library
     bash render.sh
+
+
+..
