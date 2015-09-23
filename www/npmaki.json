@@ -1,5 +1,23 @@
 [
   {
+    "name": "AED (Black)",
+    "tags": [
+      "aed",
+      "automated external defibrillator",
+      "defibrillator"
+    ],
+    "icon": "aed-black"
+  },
+  {
+    "name": "AED (White)",
+    "tags": [
+      "aed",
+      "automated external defibrillator",
+      "defibrillator"
+    ],
+    "icon": "aed-white"
+  },
+  {
     "name": "Airport (Black)",
     "tags": [
       "airport",
@@ -242,6 +260,42 @@
     "icon": "drinking-water-white"
   },
   {
+    "name": "Entrance (Black)",
+    "tags": [
+      "entrance",
+      "building"
+    ],
+    "icon": "entrance-black"
+  },
+  {
+    "name": "Entrance (White)",
+    "tags": [
+      "entrance",
+      "building"
+    ],
+    "icon": "entrance-white"
+  },
+  {
+    "name": "Entrance Station (Black)",
+    "tags": [
+      "entrance station",
+      "entry",
+      "gateway",
+      "portal"
+    ],
+    "icon": "entrance-station-black"
+  },
+  {
+    "name": "Entrance Station (White)",
+    "tags": [
+      "entrance station",
+      "entry",
+      "gateway",
+      "portal"
+    ],
+    "icon": "entrance-station-white"
+  },
+  {
     "name": "First Aid (Black)",
     "tags": [
       "first aid",
@@ -272,6 +326,40 @@
       "recreation"
     ],
     "icon": "fishing-white"
+  },
+  {
+    "name": "Flagpole (Black)",
+    "tags": [
+      "flagpole",
+      "flag"
+    ],
+    "icon": "flagpole-black"
+  },
+  {
+    "name": "Flagpole (White)",
+    "tags": [
+      "flagpole",
+      "flag"
+    ],
+    "icon": "flagpole-white"
+  },
+  {
+    "name": "Food Cache (Black)",
+    "tags": [
+      "food cache",
+      "food box",
+      "food stoage"
+    ],
+    "icon": "food-cache-black"
+  },
+  {
+    "name": "Food Cache (White)",
+    "tags": [
+      "food cache",
+      "food box",
+      "food stoage"
+    ],
+    "icon": "food-cache-white"
   },
   {
     "name": "Food Service (Black)",
@@ -404,6 +492,24 @@
       "service"
     ],
     "icon": "information-white"
+  },
+  {
+    "name": "Laundry (Black)",
+    "tags": [
+      "laundry",
+      "laundromat",
+      "service"
+    ],
+    "icon": "laundry-black"
+  },
+  {
+    "name": "Laundry (White)",
+    "tags": [
+      "laundry",
+      "laundromat",
+      "service"
+    ],
+    "icon": "laundry-white"
   },
   {
     "name": "Litter Receptacle (Black)",
@@ -540,6 +646,24 @@
       "radiator water"
     ],
     "icon": "radiator-water-white"
+  },
+  {
+    "name": "Railroad Crossing (Black)",
+    "tags": [
+      "railroad",
+      "crossing",
+      "rr xing"
+    ],
+    "icon": "rr-xing-black"
+  },
+  {
+    "name": "Railroad Crossing (White)",
+    "tags": [
+      "railroad",
+      "crossing",
+      "rr xing"
+    ],
+    "icon": "rr-xing-white"
   },
   {
     "name": "Ranger Station (Black)",
@@ -714,6 +838,22 @@
     "icon": "snowmobile-trail-white"
   },
   {
+    "name": "Spring (Black)",
+    "tags": [
+      "spring",
+      "seep"
+    ],
+    "icon": "spring-black"
+  },
+  {
+    "name": "Spring (White)",
+    "tags": [
+      "spring",
+      "seep"
+    ],
+    "icon": "spring-white"
+  },
+  {
     "name": "Stable (Black)",
     "tags": [
       "stable"
@@ -726,6 +866,24 @@
       "stable"
     ],
     "icon": "stable-white"
+  },
+  {
+    "name": "Statue (Black)",
+    "tags": [
+      "statue",
+      "monument",
+      "sculpture"
+    ],
+    "icon": "statue-black"
+  },
+  {
+    "name": "Statue (White)",
+    "tags": [
+      "statue",
+      "monument",
+      "sculpture"
+    ],
+    "icon": "statue-white"
   },
   {
     "name": "Store (Black)",
