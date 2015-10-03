@@ -2,7 +2,7 @@
 
 [![Circle CI](https://circleci.com/gh/nationalparkservice/npmap-symbol-library.svg?style=svg)](https://circleci.com/gh/nationalparkservice/npmap-symbol-library)
 
-National Park Service [map symbols](http://www.nps.gov/hfc/carto/map-symbols.cfm) optimized for the web.
+National Park Service [map symbols](http://www.nps.gov/hfc/carto/map-symbols.cfm) optimized for the web. Read more about this project on the [NPMap website](http://www.nps.gov/npmap/tools/npmap-symbol-library/).
 
 ## New Symbols
 
@@ -12,9 +12,9 @@ Add requests for new symbols as an [issue](https://github.com/nationalparkservic
 
 The Symbol Library uses a semantic versioning scheme:
 
-* 0.0.z: bugfixes, modifications
-* 0.y.0: icons added
-* x.0.0: icons removed, sprite scheme changed, or major features added
+* 0.0.z: Bugfixes and modifications
+* 0.y.0: Icons added
+* x.0.0: Icons removed, sprite scheme changed, or major features added
 
 ## File Structure
 
@@ -34,11 +34,8 @@ You can use the SVGs and PNGs in this repository as they are without building an
 
 The script requires Node, [Bash](http://www.gnu.org/software/bash/bash.html), [Inkscape](http://inkscape.org), and [ImageMagick](http://www.imagemagick.org/). In addition, each icon must have an appropriate entry in `www/npmaki.json` to be rendered correctly.
 
-You can run the script like this:
+After installing the required prerequisites, you can run the script like this:
 
-    npm install
     cd npmap-symbol-library
+    npm install
     bash render.sh
-
-
-..
