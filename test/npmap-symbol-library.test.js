@@ -1,43 +1,39 @@
-var fs = require('fs'),
-  test = require('tap').test,
-  https = require('https');
+var fs = require('fs');
+var test = require('tap').test;
 
-test('NPMaki', function(t) {
-  var json;
+test('NPMap Symbol Library', function (t) {
+  var jsonBuilder;
+  var jsonStandalone;
 
-  t.doesNotThrow(function() {
-    json = JSON.parse(fs.readFileSync(__dirname + '/../www/npmaki.json'));
+  t.doesNotThrow(function () {
+    jsonBuilder = JSON.parse(fs.readFileSync(__dirname + '/../www/npmap-builder/npmap-symbol-library.json'));
   }, 'JSON is invalid');
-  json.forEach(function(f) {
+  t.doesNotThrow(function () {
+    jsonStandalone = JSON.parse(fs.readFileSync(__dirname + '/../www/standalone/npmap-symbol-library.json'));
+  }, 'JSON is invalid');
+  jsonBuilder.forEach(function (f) {
     t.equal(typeof f.name, 'string', 'name property');
     t.equal(typeof f.icon, 'string', 'icon property');
     t.equal(typeof f.tags, 'object', 'tags property');
-    [12, 18, 24].forEach(function(size) {
-      t.doesNotThrow(function() {
-        fs.statSync(__dirname + '/../src/' + f.icon + '-' + size + '.svg');
-        fs.statSync(__dirname + '/../renders/' + f.icon + '-' + size + '.png');
-        fs.statSync(__dirname + '/../renders/' + f.icon + '-' + size + '@2x.png');
+    [12, 18, 24].forEach(function (size) {
+      t.doesNotThrow(function () {
+        fs.statSync(__dirname + '/../src/npmap-builder/' + f.icon + '-' + size + '.svg');
+        fs.statSync(__dirname + '/../renders/npmap-builder/' + f.icon + '-' + size + '.png');
+        fs.statSync(__dirname + '/../renders/npmap-builder/' + f.icon + '-' + size + '@2x.png');
+      }, 'source file present');
+    });
+  });
+  jsonStandalone.forEach(function (f) {
+    t.equal(typeof f.name, 'string', 'name property');
+    t.equal(typeof f.icon, 'string', 'icon property');
+    t.equal(typeof f.tags, 'object', 'tags property');
+    [16, 24, 32].forEach(function (size) {
+      t.doesNotThrow(function () {
+        fs.statSync(__dirname + '/../src/standalone/' + f.icon + '-' + size + '.svg');
+        fs.statSync(__dirname + '/../renders/standalone/' + f.icon + '-' + size + '.png');
+        fs.statSync(__dirname + '/../renders/standalone/' + f.icon + '-' + size + '@2x.png');
       }, 'source file present');
     });
   });
   t.end();
 });
-
-/*
-test('production endpoint', function(t) {
-  var body = '';
-
-  https.get('http://www.nps.gov/lib/npmaki/www/npmaki.json', function(res) {
-    t.equal(res.statusCode, 200, 'HTTP=' + res.statusCode);
-    res.on('data', function(chunk) {
-      body += chunk;
-    });
-    res.on('end', function() {
-      t.doesNotThrow(function() {
-        JSON.parse(body.toString());
-      }, 'JSON is valid');
-      t.end();
-    });
-  });
-});
-*/

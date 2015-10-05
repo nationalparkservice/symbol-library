@@ -1,8 +1,7 @@
 #!/bin/bash
 set -e -u
 
-# Usage:
-#   ./render.sh [png|sprite|css]
+# Usage: ./render.sh [png|sprite|css]
 
 # Config
 pngdirbuilder=`pwd`"/renders/npmap-builder"  # PNGs will be created, possibly overwritten, here
