@@ -4,7 +4,7 @@
 
 National Park Service [map symbols](http://www.nps.gov/hfc/carto/map-symbols.cfm) optimized for the web. Read more about this project on the [NPMap website](http://www.nps.gov/npmap/tools/npmap-symbol-library/).
 
-## New Symbols
+## New symbols
 
 Add requests for new symbols as an [issue](https://github.com/nationalparkservice/npmap-symbol-library/issues/new). Newly developed symbols will be bundled into periodic releases.
 
@@ -16,13 +16,16 @@ The Symbol Library uses a semantic versioning scheme:
 * 0.y.0: Icons added
 * x.0.0: Icons removed, sprite scheme changed, or major features added
 
-## File Structure
+## File structure
 
 This repository was originally forked from Mapbox's [Maki](https://github.com/mapbox/maki) project, so the file structure is similar.
 
 ### src
 
-Source [SVG](http://en.wikipedia.org/wiki/Scalable_Vector_Graphics) files are in the `src` subdirectory. To create pixel-perfect icons at different sizes, each icon is designed 3 times for 16, 24, and 32 pixels wide/tall.
+Source [SVG](http://en.wikipedia.org/wiki/Scalable_Vector_Graphics) files are in the `src` subdirectory. To create pixel-perfect icons at different sizes, each icon is designed 6 times to support two different use cases:
+
+1. At 12, 18, and 24 pixels wide/tall for use in [NPMap Builder](https://github.com/nationalparkservice/npmap-builder/)
+2. At 16, 24, and 32 pixels wide/tall, with a drop shadow, for use in [Park Tiles](https://github.com/nationalparkservice/park-tiles/)
 
 ### renders
 
