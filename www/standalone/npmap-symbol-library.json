@@ -6,7 +6,8 @@
       "automated external defibrillator",
       "defibrillator"
     ],
-    "icon": "aed-black"
+    "icon": "aed-black",
+    "release": "2.0"
   },
   {
     "name": "AED (White)",
@@ -15,7 +16,18 @@
       "automated external defibrillator",
       "defibrillator"
     ],
-    "icon": "aed-white"
+    "icon": "aed-white",
+    "release": "2.0"
+  },
+  {
+    "name": "AED (Slate)",
+    "tags": [
+      "aed",
+      "automated external defibrillator",
+      "defibrillator"
+    ],
+    "icon": "aed-slate",
+    "release": "2.0"
   },
   {
     "name": "Airport (Black)",
@@ -24,7 +36,8 @@
       "plane",
       "travel"
     ],
-    "icon": "airport-black"
+    "icon": "airport-black",
+    "release": "1.0"
   },
   {
     "name": "Airport (White)",
@@ -33,7 +46,18 @@
       "plane",
       "travel"
     ],
-    "icon": "airport-white"
+    "icon": "airport-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Airport (Slate)",
+    "tags": [
+      "airport",
+      "plane",
+      "travel"
+    ],
+    "icon": "airport-slate",
+    "release": "1.0"
   },
   {
     "name": "Amphitheater (Black)",
@@ -42,7 +66,8 @@
       "theater",
       "leisure"
     ],
-    "icon": "amphitheater-black"
+    "icon": "amphitheater-black",
+    "release": "1.0"
   },
   {
     "name": "Amphitheater (White)",
@@ -51,7 +76,18 @@
       "theater",
       "leisure"
     ],
-    "icon": "amphitheater-white"
+    "icon": "amphitheater-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Amphitheater (Slate)",
+    "tags": [
+      "amphitheater",
+      "theater",
+      "leisure"
+    ],
+    "icon": "amphitheater-slate",
+    "release": "1.0"
   },
   {
     "name": "Bike Trail (Black)",
@@ -60,7 +96,8 @@
       "cycling",
       "trail"
     ],
-    "icon": "bicycle-trail-black"
+    "icon": "bicycle-trail-black",
+    "release": "1.0"
   },
   {
     "name": "Bike Trail (White)",
@@ -69,7 +106,18 @@
       "cycling",
       "trail"
     ],
-    "icon": "bicycle-trail-white"
+    "icon": "bicycle-trail-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Bike Trail (Slate)",
+    "tags": [
+      "bike",
+      "cycling",
+      "trail"
+    ],
+    "icon": "bicycle-trail-slate",
+    "release": "1.0"
   },
   {
     "name": "Boat Launch (Black)",
@@ -78,7 +126,8 @@
       "sailing",
       "recreation"
     ],
-    "icon": "boat-launch-black"
+    "icon": "boat-launch-black",
+    "release": "1.0"
   },
   {
     "name": "Boat Launch (White)",
@@ -87,7 +136,18 @@
       "sailing",
       "recreation"
     ],
-    "icon": "boat-launch-white"
+    "icon": "boat-launch-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Boat Launch (Slate)",
+    "tags": [
+      "boats",
+      "sailing",
+      "recreation"
+    ],
+    "icon": "boat-launch-slate",
+    "release": "1.0"
   },
   {
     "name": "Boat Tour (Black)",
@@ -96,7 +156,8 @@
       "sailing",
       "recreation"
     ],
-    "icon": "boat-tour-black"
+    "icon": "boat-tour-black",
+    "release": "1.0"
   },
   {
     "name": "Boat Tour (White)",
@@ -105,7 +166,18 @@
       "sailing",
       "recreation"
     ],
-    "icon": "boat-tour-white"
+    "icon": "boat-tour-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Boat Tour (Slate)",
+    "tags": [
+      "boats",
+      "sailing",
+      "recreation"
+    ],
+    "icon": "boat-tour-slate",
+    "release": "1.0"
   },
   {
     "name": "Bus and Shuttle Stop (Black)",
@@ -114,7 +186,8 @@
       "shuttle",
       "transportation"
     ],
-    "icon": "bus-stop-black"
+    "icon": "bus-stop-black",
+    "release": "1.0"
   },
   {
     "name": "Bus and Shuttle Stop (White)",
@@ -123,21 +196,42 @@
       "shuttle",
       "transportation"
     ],
-    "icon": "bus-stop-white"
+    "icon": "bus-stop-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Bus and Shuttle Stop (Slate)",
+    "tags": [
+      "bus",
+      "shuttle",
+      "transportation"
+    ],
+    "icon": "bus-stop-slate",
+    "release": "1.0"
   },
   {
     "name": "Campfire (Black)",
     "tags": [
       "campfire"
     ],
-    "icon": "campfire-black"
+    "icon": "campfire-black",
+    "release": "1.0"
   },
   {
     "name": "Campfire (White)",
     "tags": [
       "campfire"
     ],
-    "icon": "campfire-white"
+    "icon": "campfire-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Campfire (Slate)",
+    "tags": [
+      "campfire"
+    ],
+    "icon": "campfire-slate",
+    "release": "1.0"
   },
   {
     "name": "Camping (Black)",
@@ -146,7 +240,8 @@
       "campsite",
       "tent"
     ],
-    "icon": "campground-black"
+    "icon": "campground-black",
+    "release": "1.0"
   },
   {
     "name": "Camping (White)",
@@ -155,7 +250,18 @@
       "campsite",
       "tent"
     ],
-    "icon": "campground-white"
+    "icon": "campground-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Camping (Slate)",
+    "tags": [
+      "camp",
+      "campsite",
+      "tent"
+    ],
+    "icon": "campground-slate",
+    "release": "1.0"
   },
   {
     "name": "Campsite (Black)",
@@ -164,7 +270,8 @@
       "campsite",
       "tent"
     ],
-    "icon": "campsite-black"
+    "icon": "campsite-black",
+    "release": "1.0"
   },
   {
     "name": "Campsite (White)",
@@ -173,7 +280,18 @@
       "campsite",
       "tent"
     ],
-    "icon": "campsite-white"
+    "icon": "campsite-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Campsite (Slate)",
+    "tags": [
+      "camp",
+      "campsite",
+      "tent"
+    ],
+    "icon": "campsite-white",
+    "release": "1.0"
   },
   {
     "name": "Canoe Access (Black)",
@@ -182,7 +300,8 @@
       "canoe",
       "recreation"
     ],
-    "icon": "canoe-access-black"
+    "icon": "canoe-access-black",
+    "release": "1.0"
   },
   {
     "name": "Canoe Access (White)",
@@ -191,7 +310,18 @@
       "canoe",
       "recreation"
     ],
-    "icon": "canoe-access-white"
+    "icon": "canoe-access-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Canoe Access (Slate)",
+    "tags": [
+      "canoe access",
+      "canoe",
+      "recreation"
+    ],
+    "icon": "canoe-access-slate",
+    "release": "1.0"
   },
   {
     "name": "Cross Country Ski Trail (Black)",
@@ -200,7 +330,8 @@
       "skiing",
       "cross country"
     ],
-    "icon": "cross-country-ski-trail-black"
+    "icon": "cross-country-ski-trail-black",
+    "release": "1.0"
   },
   {
     "name": "Cross Country Ski Trail (White)",
@@ -209,7 +340,18 @@
       "skiing",
       "cross country"
     ],
-    "icon": "cross-country-ski-trail-white"
+    "icon": "cross-country-ski-trail-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Cross Country Ski Trail (Slate)",
+    "tags": [
+      "cross country ski trail",
+      "skiing",
+      "cross country"
+    ],
+    "icon": "cross-country-ski-trail-slate",
+    "release": "1.0"
   },
   {
     "name": "Downhill Skiing (Black)",
@@ -218,7 +360,8 @@
       "ski",
       "recreation"
     ],
-    "icon": "downhill-skiing-black"
+    "icon": "downhill-skiing-black",
+    "release": "1.0"
   },
   {
     "name": "Downhill Skiing (White)",
@@ -227,7 +370,18 @@
       "ski",
       "recreation"
     ],
-    "icon": "downhill-skiing-white"
+    "icon": "downhill-skiing-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Downhill Skiing (Slate)",
+    "tags": [
+      "downhill skiing",
+      "ski",
+      "recreation"
+    ],
+    "icon": "downhill-skiing-slate",
+    "release": "1.0"
   },
   {
     "name": "Drinking Water (Black)",
@@ -235,7 +389,8 @@
       "drinking water",
       "water"
     ],
-    "icon": "drinking-water-black"
+    "icon": "drinking-water-black",
+    "release": "1.0"
   },
   {
     "name": "Drinking Water (White)",
@@ -243,7 +398,17 @@
       "drinking water",
       "water"
     ],
-    "icon": "drinking-water-white"
+    "icon": "drinking-water-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Drinking Water (Slate)",
+    "tags": [
+      "drinking water",
+      "water"
+    ],
+    "icon": "drinking-water-slate",
+    "release": "1.0"
   },
   {
     "name": "Entrance (Black)",
@@ -251,7 +416,8 @@
       "entrance",
       "building"
     ],
-    "icon": "entrance-black"
+    "icon": "entrance-black",
+    "release": "2.0"
   },
   {
     "name": "Entrance (White)",
@@ -259,7 +425,17 @@
       "entrance",
       "building"
     ],
-    "icon": "entrance-white"
+    "icon": "entrance-white",
+    "release": "2.0"
+  },
+  {
+    "name": "Entrance (Slate)",
+    "tags": [
+      "entrance",
+      "building"
+    ],
+    "icon": "entrance-slate",
+    "release": "2.0"
   },
   {
     "name": "Entrance Station (Black)",
@@ -269,7 +445,8 @@
       "gateway",
       "portal"
     ],
-    "icon": "entrance-station-black"
+    "icon": "entrance-station-black",
+    "release": "2.0"
   },
   {
     "name": "Entrance Station (White)",
@@ -279,7 +456,19 @@
       "gateway",
       "portal"
     ],
-    "icon": "entrance-station-white"
+    "icon": "entrance-station-white",
+    "release": "2.0"
+  },
+  {
+    "name": "Entrance Station (Slate)",
+    "tags": [
+      "entrance station",
+      "entry",
+      "gateway",
+      "portal"
+    ],
+    "icon": "entrance-station-slate",
+    "release": "2.0"
   },
   {
     "name": "First Aid (Black)",
@@ -287,7 +476,8 @@
       "first aid",
       "medical"
     ],
-    "icon": "first-aid-black"
+    "icon": "first-aid-black",
+    "release": "1.0"
   },
   {
     "name": "First Aid (White)",
@@ -295,7 +485,17 @@
       "first aid",
       "medical"
     ],
-    "icon": "first-aid-white"
+    "icon": "first-aid-white",
+    "release": "1.0"
+  },
+  {
+    "name": "First Aid (Slate)",
+    "tags": [
+      "first aid",
+      "medical"
+    ],
+    "icon": "first-aid-slate",
+    "release": "1.0"
   },
   {
     "name": "Fishing (Black)",
@@ -303,7 +503,8 @@
       "fishing",
       "recreation"
     ],
-    "icon": "fishing-black"
+    "icon": "fishing-black",
+    "release": "1.0"
   },
   {
     "name": "Fishing (White)",
@@ -311,7 +512,17 @@
       "fishing",
       "recreation"
     ],
-    "icon": "fishing-white"
+    "icon": "fishing-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Fishing (Slate)",
+    "tags": [
+      "fishing",
+      "recreation"
+    ],
+    "icon": "fishing-slate",
+    "release": "1.0"
   },
   {
     "name": "Flagpole (Black)",
@@ -319,7 +530,8 @@
       "flagpole",
       "flag"
     ],
-    "icon": "flagpole-black"
+    "icon": "flagpole-black",
+    "release": "2.0"
   },
   {
     "name": "Flagpole (White)",
@@ -327,7 +539,17 @@
       "flagpole",
       "flag"
     ],
-    "icon": "flagpole-white"
+    "icon": "flagpole-white",
+    "release": "2.0"
+  },
+  {
+    "name": "Flagpole (Slate)",
+    "tags": [
+      "flagpole",
+      "flag"
+    ],
+    "icon": "flagpole-slate",
+    "release": "2.0"
   },
   {
     "name": "Food Cache (Black)",
@@ -336,7 +558,8 @@
       "food box",
       "food stoage"
     ],
-    "icon": "food-cache-black"
+    "icon": "food-cache-black",
+    "release": "2.0"
   },
   {
     "name": "Food Cache (White)",
@@ -345,7 +568,18 @@
       "food box",
       "food stoage"
     ],
-    "icon": "food-cache-white"
+    "icon": "food-cache-white",
+    "release": "2.0"
+  },
+  {
+    "name": "Food Cache (Slate)",
+    "tags": [
+      "food cache",
+      "food box",
+      "food stoage"
+    ],
+    "icon": "food-cache-slate",
+    "release": "2.0"
   },
   {
     "name": "Food Service (Black)",
@@ -354,7 +588,8 @@
       "restaurant",
       "dining"
     ],
-    "icon": "food-service-black"
+    "icon": "food-service-black",
+    "release": "1.0"
   },
   {
     "name": "Food Service (White)",
@@ -363,7 +598,18 @@
       "restaurant",
       "dining"
     ],
-    "icon": "food-service-white"
+    "icon": "food-service-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Food Service (Slate)",
+    "tags": [
+      "food",
+      "restaurant",
+      "dining"
+    ],
+    "icon": "food-service-slate",
+    "release": "1.0"
   },
   {
     "name": "Four Wheel Drive (Black)",
@@ -371,7 +617,8 @@
       "4 wheel drive",
       "off road"
     ],
-    "icon": "four-wheel-drive-road-black"
+    "icon": "four-wheel-drive-road-black",
+    "release": "1.0"
   },
   {
     "name": "Four Wheel Drive (White)",
@@ -379,7 +626,17 @@
       "4 wheel drive",
       "off road"
     ],
-    "icon": "four-wheel-drive-road-white"
+    "icon": "four-wheel-drive-road-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Four Wheel Drive (Slate)",
+    "tags": [
+      "4 wheel drive",
+      "off road"
+    ],
+    "icon": "four-wheel-drive-road-slate",
+    "release": "1.0"
   },
   {
     "name": "Gas Station (Black)",
@@ -388,7 +645,8 @@
       "fuel",
       "service"
     ],
-    "icon": "gas-station-black"
+    "icon": "gas-station-black",
+    "release": "1.0"
   },
   {
     "name": "Gas Station (White)",
@@ -397,7 +655,18 @@
       "fuel",
       "service"
     ],
-    "icon": "gas-station-white"
+    "icon": "gas-station-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Gas Station (Slate)",
+    "tags": [
+      "gas",
+      "fuel",
+      "service"
+    ],
+    "icon": "gas-station-slate",
+    "release": "1.0"
   },
   {
     "name": "Golfing (Black)",
@@ -405,7 +674,8 @@
       "golfing",
       "golf"
     ],
-    "icon": "golfing-black"
+    "icon": "golfing-black",
+    "release": "1.0"
   },
   {
     "name": "Golfing (White)",
@@ -413,7 +683,17 @@
       "golifing",
       "golf"
     ],
-    "icon": "golfing-white"
+    "icon": "golfing-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Golfing (Slate)",
+    "tags": [
+      "golifing",
+      "golf"
+    ],
+    "icon": "golfing-slate",
+    "release": "1.0"
   },
   {
     "name": "Horseback Riding (Black)",
@@ -422,7 +702,8 @@
       "horeseback rental",
       "horseback tour"
     ],
-    "icon": "horseback-riding-black"
+    "icon": "horseback-riding-black",
+    "release": "1.0"
   },
   {
     "name": "Horseback Riding (White)",
@@ -431,21 +712,42 @@
       "horeseback rental",
       "horseback tour"
     ],
-    "icon": "horseback-riding-white"
+    "icon": "horseback-riding-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Horseback Riding (Slate)",
+    "tags": [
+      "horseback riding",
+      "horeseback rental",
+      "horseback tour"
+    ],
+    "icon": "horseback-riding-slate",
+    "release": "1.0"
   },
   {
     "name": "Hospital (Black)",
     "tags": [
       "hospital"
     ],
-    "icon": "hospital-black"
+    "icon": "hospital-black",
+    "release": "1.0"
   },
   {
     "name": "Hospital (White)",
     "tags": [
       "hospital"
     ],
-    "icon": "hospital-white"
+    "icon": "hospital-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Hospital (Slate)",
+    "tags": [
+      "hospital"
+    ],
+    "icon": "hospital-slate",
+    "release": "1.0"
   },
   {
     "name": "Ice Skating (Black)",
@@ -453,7 +755,8 @@
       "ice skating",
       "skating"
     ],
-    "icon": "ice-skating-black"
+    "icon": "ice-skating-black",
+    "release": "1.0"
   },
   {
     "name": "Ice Skating (White)",
@@ -461,7 +764,17 @@
       "ice skating",
       "skating"
     ],
-    "icon": "ice-skating-white"
+    "icon": "ice-skating-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Ice Skating (Slate)",
+    "tags": [
+      "ice skating",
+      "skating"
+    ],
+    "icon": "ice-skating-slate",
+    "release": "1.0"
   },
   {
     "name": "Information (Black)",
@@ -469,7 +782,8 @@
       "information",
       "service"
     ],
-    "icon": "information-black"
+    "icon": "information-black",
+    "release": "1.0"
   },
   {
     "name": "Information (White)",
@@ -477,7 +791,17 @@
       "information",
       "service"
     ],
-    "icon": "information-white"
+    "icon": "information-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Information (Slate)",
+    "tags": [
+      "information",
+      "service"
+    ],
+    "icon": "information-slate",
+    "release": "1.0"
   },
   {
     "name": "Laundry (Black)",
@@ -486,7 +810,8 @@
       "laundromat",
       "service"
     ],
-    "icon": "laundry-black"
+    "icon": "laundry-black",
+    "release": "2.0"
   },
   {
     "name": "Laundry (White)",
@@ -495,7 +820,18 @@
       "laundromat",
       "service"
     ],
-    "icon": "laundry-white"
+    "icon": "laundry-white",
+    "release": "2.0"
+  },
+  {
+    "name": "Laundry (Slate)",
+    "tags": [
+      "laundry",
+      "laundromat",
+      "service"
+    ],
+    "icon": "laundry-slate",
+    "release": "2.0"
   },
   {
     "name": "Litter Receptacle (Black)",
@@ -503,7 +839,8 @@
       "litter receptacle",
       "trash can"
     ],
-    "icon": "litter-receptacle-black"
+    "icon": "litter-receptacle-black",
+    "release": "1.0"
   },
   {
     "name": "Litter Receptacle (White)",
@@ -511,7 +848,17 @@
       "litter receptacle",
       "trash can"
     ],
-    "icon": "litter-receptacle-white"
+    "icon": "litter-receptacle-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Litter Receptacle (Slate)",
+    "tags": [
+      "litter receptacle",
+      "trash can"
+    ],
+    "icon": "litter-receptacle-slate",
+    "release": "1.0"
   },
   {
     "name": "Lodging (Black)",
@@ -520,7 +867,8 @@
       "motel",
       "lodging"
     ],
-    "icon": "lodging-black"
+    "icon": "lodging-black",
+    "release": "1.0"
   },
   {
     "name": "Lodging (White)",
@@ -529,35 +877,66 @@
       "motel",
       "lodging"
     ],
-    "icon": "lodging-white"
+    "icon": "lodging-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Lodging (Slate)",
+    "tags": [
+      "hotel",
+      "motel",
+      "lodging"
+    ],
+    "icon": "lodging-slate",
+    "release": "1.0"
   },
   {
     "name": "Marina (Black)",
     "tags": [
       "marina"
     ],
-    "icon": "marina-black"
+    "icon": "marina-black",
+    "release": "1.0"
   },
   {
     "name": "Marina (White)",
     "tags": [
       "marina"
     ],
-    "icon": "marina-white"
+    "icon": "marina-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Marina (Slate)",
+    "tags": [
+      "marina"
+    ],
+    "icon": "marina-slate",
+    "release": "1.0"
   },
   {
     "name": "Motor Bike Trail (Black)",
     "tags": [
       "motor bike trail"
     ],
-    "icon": "motor-bike-trail-black"
+    "icon": "motor-bike-trail-black",
+    "release": "1.0"
   },
   {
     "name": "Motor Bike Trail (White)",
     "tags": [
       "motor bike trail"
     ],
-    "icon": "motor-bike-trail-white"
+    "icon": "motor-bike-trail-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Motor Bike Trail (Slate)",
+    "tags": [
+      "motor bike trail"
+    ],
+    "icon": "motor-bike-trail-slate",
+    "release": "1.0"
   },
   {
     "name": "Parking (Black)",
@@ -565,7 +944,8 @@
       "parking",
       "park"
     ],
-    "icon": "parking-black"
+    "icon": "parking-black",
+    "release": "1.0"
   },
   {
     "name": "Parking (White)",
@@ -573,21 +953,41 @@
       "parking",
       "park"
     ],
-    "icon": "parking-white"
+    "icon": "parking-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Parking (Slate)",
+    "tags": [
+      "parking",
+      "park"
+    ],
+    "icon": "parking-slate",
+    "release": "1.0"
   },
   {
     "name": "Pets on Leash (Black)",
     "tags": [
       "pets on leash"
     ],
-    "icon": "pets-on-leash-black"
+    "icon": "pets-on-leash-black",
+    "release": "1.0"
   },
   {
     "name": "Pets on Leash (White)",
     "tags": [
       "pets on leash"
     ],
-    "icon": "pets-on-leash-white"
+    "icon": "pets-on-leash-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Pets on Leash (Slate)",
+    "tags": [
+      "pets on leash"
+    ],
+    "icon": "pets-on-leash-slate",
+    "release": "1.0"
   },
   {
     "name": "Picnic Area (Black)",
@@ -595,7 +995,8 @@
       "picnic",
       "recreation"
     ],
-    "icon": "picnic-area-black"
+    "icon": "picnic-area-black",
+    "release": "1.0"
   },
   {
     "name": "Picnic Area (White)",
@@ -603,35 +1004,65 @@
       "picnic",
       "recreation"
     ],
-    "icon": "picnic-area-white"
+    "icon": "picnic-area-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Picnic Area (Slate)",
+    "tags": [
+      "picnic",
+      "recreation"
+    ],
+    "icon": "picnic-area-slate",
+    "release": "1.0"
   },
   {
     "name": "Post Office (Black)",
     "tags": [
       "post office"
     ],
-    "icon": "post-office-black"
+    "icon": "post-office-black",
+    "release": "1.0"
   },
   {
     "name": "Post Office (White)",
     "tags": [
       "post office"
     ],
-    "icon": "post-office-white"
+    "icon": "post-office-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Post Office (Slate)",
+    "tags": [
+      "post office"
+    ],
+    "icon": "post-office-slate",
+    "release": "1.0"
   },
   {
     "name": "Radiator Water (Black)",
     "tags": [
       "radiator water"
     ],
-    "icon": "radiator-water-black"
+    "icon": "radiator-water-black",
+    "release": "1.0"
   },
   {
     "name": "Radiator Water (White)",
     "tags": [
       "radiator water"
     ],
-    "icon": "radiator-water-white"
+    "icon": "radiator-water-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Radiator Water (Slate)",
+    "tags": [
+      "radiator water"
+    ],
+    "icon": "radiator-water-slate",
+    "release": "1.0"
   },
   {
     "name": "Railroad Crossing (Black)",
@@ -640,7 +1071,8 @@
       "crossing",
       "rr xing"
     ],
-    "icon": "rr-xing-black"
+    "icon": "rr-xing-black",
+    "release": "2.0"
   },
   {
     "name": "Railroad Crossing (White)",
@@ -649,35 +1081,66 @@
       "crossing",
       "rr xing"
     ],
-    "icon": "rr-xing-white"
+    "icon": "rr-xing-white",
+    "release": "2.0"
+  },
+  {
+    "name": "Railroad Crossing (Slate)",
+    "tags": [
+      "railroad",
+      "crossing",
+      "rr xing"
+    ],
+    "icon": "rr-xing-slate",
+    "release": "2.0"
   },
   {
     "name": "Ranger Station (Black)",
     "tags": [
       "ranger station"
     ],
-    "icon": "ranger-station-black"
+    "icon": "ranger-station-black",
+    "release": "1.0"
   },
   {
     "name": "Ranger Station (White)",
     "tags": [
       "ranger station"
     ],
-    "icon": "ranger-station-white"
+    "icon": "ranger-station-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Ranger Station (Slate)",
+    "tags": [
+      "ranger station"
+    ],
+    "icon": "ranger-station-slate",
+    "release": "1.0"
   },
   {
     "name": "Recycling (Black)",
     "tags": [
       "recycling"
     ],
-    "icon": "recycling-black"
+    "icon": "recycling-black",
+    "release": "1.0"
   },
   {
     "name": "Recycling (White)",
     "tags": [
       "recycling"
     ],
-    "icon": "recycling-white"
+    "icon": "recycling-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Recycling (Slate)",
+    "tags": [
+      "recycling"
+    ],
+    "icon": "recycling-slate",
+    "release": "1.0"
   },
   {
     "name": "Restroom (Black)",
@@ -686,7 +1149,8 @@
       "bathroom",
       "toilet"
     ],
-    "icon": "restrooms-black"
+    "icon": "restrooms-black",
+    "release": "1.0"
   },
   {
     "name": "Restroom (White)",
@@ -695,133 +1159,234 @@
       "bathroom",
       "toilet"
     ],
-    "icon": "restrooms-white"
+    "icon": "restrooms-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Restroom (Slate)",
+    "tags": [
+      "restroom",
+      "bathroom",
+      "toilet"
+    ],
+    "icon": "restrooms-slate",
+    "release": "1.0"
   },
   {
     "name": "RV Campground (Black)",
     "tags": [
       "rv campground"
     ],
-    "icon": "rv-campground-black"
+    "icon": "rv-campground-black",
+    "release": "1.0"
   },
   {
     "name": "RV Campground (White)",
     "tags": [
       "rv campground"
     ],
-    "icon": "rv-campground-white"
+    "icon": "rv-campground-white",
+    "release": "1.0"
+  },
+  {
+    "name": "RV Campground (Slate)",
+    "tags": [
+      "rv campground"
+    ],
+    "icon": "rv-campground-slate",
+    "release": "1.0"
   },
   {
     "name": "Sailing (Black)",
     "tags": [
       "sailing"
     ],
-    "icon": "sailing-black"
+    "icon": "sailing-black",
+    "release": "1.0"
   },
   {
     "name": "Sailing (White)",
     "tags": [
       "sailing"
     ],
-    "icon": "sailing-white"
+    "icon": "sailing-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Sailing (Slate)",
+    "tags": [
+      "sailing"
+    ],
+    "icon": "sailing-slate",
+    "release": "1.0"
   },
   {
     "name": "Sanitary Dump Station (Black)",
     "tags": [
       "sanitary dump station"
     ],
-    "icon": "sanitary-disposal-station-black"
+    "icon": "sanitary-disposal-station-black",
+    "release": "1.0"
   },
   {
     "name": "Sanitary Dump Station (White)",
     "tags": [
       "sanitary dump station"
     ],
-    "icon": "sanitary-disposal-station-white"
+    "icon": "sanitary-disposal-station-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Sanitary Dump Station (Slate)",
+    "tags": [
+      "sanitary dump station"
+    ],
+    "icon": "sanitary-disposal-station-slate",
+    "release": "1.0"
   },
   {
     "name": "Scuba Diving (Black)",
     "tags": [
       "scuba diving"
     ],
-    "icon": "scuba-diving-black"
+    "icon": "scuba-diving-black",
+    "release": "1.0"
   },
   {
     "name": "Scuba Diving (White)",
     "tags": [
       "scuba diving"
     ],
-    "icon": "scuba-diving-white"
+    "icon": "scuba-diving-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Scuba Diving (Slate)",
+    "tags": [
+      "scuba diving"
+    ],
+    "icon": "scuba-diving-slate",
+    "release": "1.0"
   },
   {
     "name": "Self Guided Trail (Black)",
     "tags": [
       "trail"
     ],
-    "icon": "self-guiding-trail-black"
+    "icon": "self-guiding-trail-black",
+    "release": "1.0"
   },
   {
     "name": "Self Guided Trail (White)",
     "tags": [
       "trail"
     ],
-    "icon": "self-guiding-trail-white"
+    "icon": "self-guiding-trail-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Self Guided Trail (Slate)",
+    "tags": [
+      "trail"
+    ],
+    "icon": "self-guiding-trail-slate",
+    "release": "1.0"
   },
   {
     "name": "Shelter (Black)",
     "tags": [
       "shelter"
     ],
-    "icon": "shelter-black"
+    "icon": "shelter-black",
+    "release": "1.0"
   },
   {
     "name": "Shelter (White)",
     "tags": [
       "shelter"
     ],
-    "icon": "shelter-white"
+    "icon": "shelter-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Shelter (Slate)",
+    "tags": [
+      "shelter"
+    ],
+    "icon": "shelter-slate",
+    "release": "1.0"
   },
   {
     "name": "Showers (Black)",
     "tags": [
       "showers"
     ],
-    "icon": "showers-black"
+    "icon": "showers-black",
+    "release": "1.0"
   },
   {
     "name": "Showers (White)",
     "tags": [
       "showers"
     ],
-    "icon": "showers-white"
+    "icon": "showers-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Showers (Slate)",
+    "tags": [
+      "showers"
+    ],
+    "icon": "showers-slate",
+    "release": "1.0"
   },
   {
     "name": "Sledding (Black)",
     "tags": [
       "sledding"
     ],
-    "icon": "sledding-black"
+    "icon": "sledding-black",
+    "release": "1.0"
   },
   {
     "name": "Sledding (White)",
     "tags": [
       "sledding"
     ],
-    "icon": "sledding-white"
+    "icon": "sledding-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Sledding (Slate)",
+    "tags": [
+      "sledding"
+    ],
+    "icon": "sledding-slate",
+    "release": "1.0"
   },
   {
     "name": "Snowmobile Trail (Black)",
     "tags": [
       "snowmobile trail"
     ],
-    "icon": "snowmobile-trail-black"
+    "icon": "snowmobile-trail-black",
+    "release": "1.0"
   },
   {
     "name": "Snowmobile Trail (White)",
     "tags": [
       "snowmobile trail"
     ],
-    "icon": "snowmobile-trail-white"
+    "icon": "snowmobile-trail-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Snowmobile Trail (Slate)",
+    "tags": [
+      "snowmobile trail"
+    ],
+    "icon": "snowmobile-trail-slate",
+    "release": "1.0"
   },
   {
     "name": "Spring (Black)",
@@ -829,7 +1394,8 @@
       "spring",
       "seep"
     ],
-    "icon": "spring-black"
+    "icon": "spring-black",
+    "release": "2.0"
   },
   {
     "name": "Spring (White)",
@@ -837,21 +1403,41 @@
       "spring",
       "seep"
     ],
-    "icon": "spring-white"
+    "icon": "spring-white",
+    "release": "2.0"
+  },
+  {
+    "name": "Spring (Slate)",
+    "tags": [
+      "spring",
+      "seep"
+    ],
+    "icon": "spring-slate",
+    "release": "2.0"
   },
   {
     "name": "Stable (Black)",
     "tags": [
       "stable"
     ],
-    "icon": "stable-black"
+    "icon": "stable-black",
+    "release": "1.0"
   },
   {
     "name": "Stable (White)",
     "tags": [
       "stable"
     ],
-    "icon": "stable-white"
+    "icon": "stable-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Stable (Slate)",
+    "tags": [
+      "stable"
+    ],
+    "icon": "stable-slate",
+    "release": "1.0"
   },
   {
     "name": "Statue (Black)",
@@ -860,7 +1446,8 @@
       "monument",
       "sculpture"
     ],
-    "icon": "statue-black"
+    "icon": "statue-black",
+    "release": "2.0"
   },
   {
     "name": "Statue (White)",
@@ -869,7 +1456,18 @@
       "monument",
       "sculpture"
     ],
-    "icon": "statue-white"
+    "icon": "statue-white",
+    "release": "2.0"
+  },
+  {
+    "name": "Statue (Slate)",
+    "tags": [
+      "statue",
+      "monument",
+      "sculpture"
+    ],
+    "icon": "statue-slate",
+    "release": "2.0"
   },
   {
     "name": "Store (Black)",
@@ -878,7 +1476,8 @@
       "food",
       "shopping"
     ],
-    "icon": "store-black"
+    "icon": "store-black",
+    "release": "1.0"
   },
   {
     "name": "Store (White)",
@@ -887,104 +1486,185 @@
       "food",
       "shopping"
     ],
-    "icon": "store-white"
+    "icon": "store-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Store (Slate)",
+    "tags": [
+      "store",
+      "food",
+      "shopping"
+    ],
+    "icon": "store-slate",
+    "release": "1.0"
   },
   {
     "name": "Swimming (Black)",
     "tags": [
       "swimming"
     ],
-    "icon": "swimming-black"
+    "icon": "swimming-black",
+    "release": "1.0"
   },
   {
     "name": "Swimming (White)",
     "tags": [
       "swimming"
     ],
-    "icon": "swimming-white"
+    "icon": "swimming-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Swimming (Slate)",
+    "tags": [
+      "swimming"
+    ],
+    "icon": "swimming-slate",
+    "release": "1.0"
   },
   {
     "name": "Telephone (Black)",
     "tags": [
       "telephone"
     ],
-    "icon": "telephone-black"
+    "icon": "telephone-black",
+    "release": "1.0"
   },
   {
     "name": "Telephone (White)",
     "tags": [
       "telephone"
     ],
-    "icon": "telephone-white"
+    "icon": "telephone-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Telephone (Slate)",
+    "tags": [
+      "telephone"
+    ],
+    "icon": "telephone-slate",
+    "release": "1.0"
   },
   {
     "name": "Trailhead (Black)",
     "tags": [
       "trailhead"
     ],
-    "icon": "trailhead-black"
+    "icon": "trailhead-black",
+    "release": "1.0"
   },
   {
     "name": "Trailhead (White)",
     "tags": [
       "trailhead"
     ],
-    "icon": "trailhead-white"
+    "icon": "trailhead-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Trailhead (Slate)",
+    "tags": [
+      "trailhead"
+    ],
+    "icon": "trailhead-slate",
+    "release": "1.0"
   },
   {
     "name": "Visitor Center (Black)",
     "tags": [
       "visitor center"
     ],
-    "icon": "visitor-center-black"
+    "icon": "visitor-center-black",
+    "release": "1.0"
   },
   {
     "name": "Visitor Center (White)",
     "tags": [
       "visitor center"
     ],
-    "icon": "visitor-center-white"
+    "icon": "visitor-center-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Visitor Center (Slate)",
+    "tags": [
+      "visitor center"
+    ],
+    "icon": "visitor-center-slate",
+    "release": "1.0"
   },
   {
     "name": "Waterfall (Black)",
     "tags": [
       "waterfall"
     ],
-    "icon": "waterfall-black"
+    "icon": "waterfall-black",
+    "release": "1.0"
   },
   {
     "name": "Waterfall (White)",
     "tags": [
       "waterfall"
     ],
-    "icon": "waterfall-white"
+    "icon": "waterfall-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Waterfall (Slate)",
+    "tags": [
+      "waterfall"
+    ],
+    "icon": "waterfall-slate",
+    "release": "1.0"
   },
   {
     "name": "Wheelchair Accessible (Black)",
     "tags": [
       "wheelchair accessible"
     ],
-    "icon": "wheelchair-accessible-black"
+    "icon": "wheelchair-accessible-black",
+    "release": "1.0"
   },
   {
     "name": "Wheelchair Accessible (White)",
     "tags": [
       "wheelchair accessible"
     ],
-    "icon": "wheelchair-accessible-white"
+    "icon": "wheelchair-accessible-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Wheelchair Accessible (Slate)",
+    "tags": [
+      "wheelchair accessible"
+    ],
+    "icon": "wheelchair-accessible-slate",
+    "release": "1.0"
   },
   {
     "name": "Wind Surfing (Black)",
     "tags": [
       "wind surfing"
     ],
-    "icon": "wind-surfing-black"
+    "icon": "wind-surfing-black",
+    "release": "1.0"
   },
   {
     "name": "Wind Surfing (White)",
     "tags": [
       "wind surfing"
     ],
-    "icon": "wind-surfing-white"
+    "icon": "wind-surfing-white",
+    "release": "1.0"
+  },
+  {
+    "name": "Wind Surfing (Slate)",
+    "tags": [
+      "wind surfing"
+    ],
+    "icon": "wind-surfing-slate",
+    "release": "1.0"
   }
 ]
