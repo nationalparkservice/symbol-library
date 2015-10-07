@@ -7,14 +7,15 @@ test('NPMap Symbol Library', function (t) {
 
   t.doesNotThrow(function () {
     jsonBuilder = JSON.parse(fs.readFileSync(__dirname + '/../www/npmap-builder/npmap-symbol-library.json'));
-  }, 'JSON is invalid');
+  }, 'NPMap Builder JSON is invalid');
   t.doesNotThrow(function () {
     jsonStandalone = JSON.parse(fs.readFileSync(__dirname + '/../www/standalone/npmap-symbol-library.json'));
-  }, 'JSON is invalid');
+  }, 'Standalone JSON is invalid');
   jsonBuilder.forEach(function (f) {
     t.equal(typeof f.name, 'string', 'name property');
     t.equal(typeof f.icon, 'string', 'icon property');
     t.equal(typeof f.tags, 'object', 'tags property');
+    t.equal(typeof f.version, 'string', 'version property');
     [12, 18, 24].forEach(function (size) {
       t.doesNotThrow(function () {
         fs.statSync(__dirname + '/../src/npmap-builder/' + f.icon + '-' + size + '.svg');
@@ -27,6 +28,7 @@ test('NPMap Symbol Library', function (t) {
     t.equal(typeof f.name, 'string', 'name property');
     t.equal(typeof f.icon, 'string', 'icon property');
     t.equal(typeof f.tags, 'object', 'tags property');
+    t.equal(typeof f.version, 'string', 'version property');
     [16, 24, 32].forEach(function (size) {
       t.doesNotThrow(function () {
         fs.statSync(__dirname + '/../src/standalone/' + f.icon + '-' + size + '.svg');
