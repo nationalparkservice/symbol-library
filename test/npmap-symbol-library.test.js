@@ -14,8 +14,8 @@ test('NPMap Symbol Library', function (t) {
   jsonBuilder.forEach(function (f) {
     t.equal(typeof f.name, 'string', 'name property');
     t.equal(typeof f.icon, 'string', 'icon property');
+    t.equal(typeof f.release, 'string', 'release property');
     t.equal(typeof f.tags, 'object', 'tags property');
-    t.equal(typeof f.version, 'string', 'version property');
     [12, 18, 24].forEach(function (size) {
       t.doesNotThrow(function () {
         fs.statSync(__dirname + '/../src/npmap-builder/' + f.icon + '-' + size + '.svg');
@@ -27,8 +27,8 @@ test('NPMap Symbol Library', function (t) {
   jsonStandalone.forEach(function (f) {
     t.equal(typeof f.name, 'string', 'name property');
     t.equal(typeof f.icon, 'string', 'icon property');
+    t.equal(typeof f.release, 'string', 'release property');
     t.equal(typeof f.tags, 'object', 'tags property');
-    t.equal(typeof f.version, 'string', 'version property');
     [16, 24, 32].forEach(function (size) {
       t.doesNotThrow(function () {
         fs.statSync(__dirname + '/../src/standalone/' + f.icon + '-' + size + '.svg');
