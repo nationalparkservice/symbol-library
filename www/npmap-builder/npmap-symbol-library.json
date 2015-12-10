@@ -846,6 +846,32 @@
     "release": "1.0.0"
   },
   {
+    "name": "Scenic Viewpoint (Black)",
+    "tags": [
+      "scenic viewpoint",
+      "overlook",
+      "observation point",
+      "vista",
+      "viewing area",
+      "lookout"
+    ],
+    "icon": "scenic-viewpoint-black",
+    "release": "2.1.0"
+  },
+  {
+    "name": "Scenic Viewpoint (White)",
+    "tags": [
+      "scenic viewpoint",
+      "overlook",
+      "observation point",
+      "vista",
+      "viewing area",
+      "lookout"
+    ],
+    "icon": "scenic-viewpoint-white",
+    "release": "2.1.0"
+  },
+  {
     "name": "Scuba Diving (Black)",
     "tags": [
       "scuba diving"
@@ -1064,6 +1090,24 @@
     "release": "1.0.0"
   },
   {
+    "name": "Tunnel (Black)",
+    "tags": [
+      "tunnel",
+      "covered passageway"
+    ],
+    "icon": "tunnel-black",
+    "release": "2.1.0"
+  },
+  {
+    "name": "Tunnel (White)",
+    "tags": [
+      "tunnel",
+      "covered passageway"
+    ],
+    "icon": "tunnel-white",
+    "release": "2.1.0"
+  },
+  {
     "name": "Visitor Center (Black)",
     "tags": [
       "visitor center"
@@ -1094,6 +1138,24 @@
     ],
     "icon": "waterfall-white",
     "release": "1.0.0"
+  },
+  {
+    "name": "Webcam (Black)",
+    "tags": [
+      "webcam",
+      "weather camera"
+    ],
+    "icon": "webcam-black",
+    "release": "2.1.0"
+  },
+  {
+    "name": "Webcam (White)",
+    "tags": [
+      "webcam",
+      "weather camera"
+    ],
+    "icon": "webcam-white",
+    "release": "2.1.0"
   },
   {
     "name": "Wheelchair Accessible (Black)",
