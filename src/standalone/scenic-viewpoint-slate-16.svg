@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>scenic-viewpoint-slate-16</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="scenic-viewpoint" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="scenic-viewpoint-slate-16" sketch:type="MSArtboardGroup">
+            <g id="viewpoint-copy-2" sketch:type="MSLayerGroup" transform="translate(4.000000, 2.000000)" fill-opacity="0.5" fill="#1A1918">
+                <path d="M3.311125,7.51696552 C3.311125,8.3462069 2.64975,9.01986207 1.834,9.01986207 C1.019875,9.01986207 0.3585,8.3462069 0.3585,7.51696552 C0.3585,6.68606897 1.019875,6.01241379 1.834,6.01241379 C2.64975,6.01241379 3.311125,6.68606897 3.311125,7.51696552" id="Fill-3" sketch:type="MSShapeGroup"></path>
+                <path d="M4.276375,7.0617931 L4.276375,7.97048276 L11.766,8.53489655 L11.766,6.49737931 L4.276375,7.0617931" id="Fill-4" sketch:type="MSShapeGroup"></path>
+                <path d="M2.6725,5.13517241 L3.44275,5.592 L6.499375,1.33489655 L4.770375,0.316965517 L2.6725,5.13517241" id="Fill-5" sketch:type="MSShapeGroup"></path>
+                <path d="M4.174,6.66951724 L9.72175,4.05103448 L8.72075,2.28662069 L3.72875,5.88165517 L4.174,6.66951724 Z" id="Fill-6" sketch:type="MSShapeGroup"></path>
+                <path d="M2.6725,9.89544828 L3.44275,9.44027586 L6.499375,13.6973793 L4.770375,14.7153103 L2.6725,9.89544828" id="Fill-7" sketch:type="MSShapeGroup"></path>
+                <path d="M3.72875,9.15062069 L4.174,8.36275862 L9.72175,10.9812414 L8.72075,12.7456552 L3.72875,9.15062069" id="Fill-8" sketch:type="MSShapeGroup"></path>
+            </g>
+            <g id="viewpoint-copy" sketch:type="MSLayerGroup" transform="translate(3.000000, 1.000000)" fill-opacity="0.75" fill="#1A1918">
+                <path d="M3.311125,7.51696552 C3.311125,8.3462069 2.64975,9.01986207 1.834,9.01986207 C1.019875,9.01986207 0.3585,8.3462069 0.3585,7.51696552 C0.3585,6.68606897 1.019875,6.01241379 1.834,6.01241379 C2.64975,6.01241379 3.311125,6.68606897 3.311125,7.51696552" id="Fill-3" sketch:type="MSShapeGroup"></path>
+                <path d="M4.276375,7.0617931 L4.276375,7.97048276 L11.766,8.53489655 L11.766,6.49737931 L4.276375,7.0617931" id="Fill-4" sketch:type="MSShapeGroup"></path>
+                <path d="M2.6725,5.13517241 L3.44275,5.592 L6.499375,1.33489655 L4.770375,0.316965517 L2.6725,5.13517241" id="Fill-5" sketch:type="MSShapeGroup"></path>
+                <path d="M4.174,6.66951724 L9.72175,4.05103448 L8.72075,2.28662069 L3.72875,5.88165517 L4.174,6.66951724 Z" id="Fill-6" sketch:type="MSShapeGroup"></path>
+                <path d="M2.6725,9.89544828 L3.44275,9.44027586 L6.499375,13.6973793 L4.770375,14.7153103 L2.6725,9.89544828" id="Fill-7" sketch:type="MSShapeGroup"></path>
+                <path d="M3.72875,9.15062069 L4.174,8.36275862 L9.72175,10.9812414 L8.72075,12.7456552 L3.72875,9.15062069" id="Fill-8" sketch:type="MSShapeGroup"></path>
+            </g>
+            <g id="viewpoint" sketch:type="MSLayerGroup" transform="translate(2.000000, 0.000000)" fill="#E6E6E6">
+                <path d="M3.311125,7.51696552 C3.311125,8.3462069 2.64975,9.01986207 1.834,9.01986207 C1.019875,9.01986207 0.3585,8.3462069 0.3585,7.51696552 C0.3585,6.68606897 1.019875,6.01241379 1.834,6.01241379 C2.64975,6.01241379 3.311125,6.68606897 3.311125,7.51696552" id="Fill-3" sketch:type="MSShapeGroup"></path>
+                <path d="M4.276375,7.0617931 L4.276375,7.97048276 L11.766,8.53489655 L11.766,6.49737931 L4.276375,7.0617931" id="Fill-4" sketch:type="MSShapeGroup"></path>
+                <path d="M2.6725,5.13517241 L3.44275,5.592 L6.499375,1.33489655 L4.770375,0.316965517 L2.6725,5.13517241" id="Fill-5" sketch:type="MSShapeGroup"></path>
+                <path d="M4.174,6.66951724 L9.72175,4.05103448 L8.72075,2.28662069 L3.72875,5.88165517 L4.174,6.66951724 Z" id="Fill-6" sketch:type="MSShapeGroup"></path>
+                <path d="M2.6725,9.89544828 L3.44275,9.44027586 L6.499375,13.6973793 L4.770375,14.7153103 L2.6725,9.89544828" id="Fill-7" sketch:type="MSShapeGroup"></path>
+                <path d="M3.72875,9.15062069 L4.174,8.36275862 L9.72175,10.9812414 L8.72075,12.7456552 L3.72875,9.15062069" id="Fill-8" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
