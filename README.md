@@ -6,7 +6,7 @@ National Park Service [map symbols](http://www.nps.gov/hfc/carto/map-symbols.cfm
 
 ## New symbols
 
-Add requests for new symbols as an [issue](https://github.com/nationalparkservice/npmap-symbol-library/issues/new). Newly developed symbols will be bundled into periodic releases. A more detailed release checklist can be found [here]().
+Add requests for new symbols as an [issue](https://github.com/nationalparkservice/npmap-symbol-library/issues/new). Newly developed symbols will be bundled into periodic releases. A more detailed release checklist can be found [here](https://github.com/nationalparkservice/npmap-symbol-library/wiki/Symbol-Library-release-checklist).
 
 ## Versioning
 
