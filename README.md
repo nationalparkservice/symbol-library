@@ -6,7 +6,7 @@ National Park Service [map symbols](http://www.nps.gov/hfc/carto/map-symbols.cfm
 
 ## New symbols
 
-Add requests for new symbols as an [issue](https://github.com/nationalparkservice/npmap-symbol-library/issues/new). Newly developed symbols will be bundled into periodic releases.
+Add requests for new symbols as an [issue](https://github.com/nationalparkservice/npmap-symbol-library/issues/new). Newly developed symbols will be bundled into periodic releases. A more detailed release checklist can be found [here]().
 
 ## Versioning
 
@@ -15,6 +15,13 @@ The Symbol Library uses a semantic versioning scheme:
 * 0.0.z: Bugfixes and modifications
 * 0.y.0: Icons added
 * x.0.0: Icons removed, sprite scheme changed, or major features added
+
+## Changelog
+
+* [1.0.0]()
+* [2.0.0](https://github.com/nationalparkservice/npmap-symbol-library/issues?q=milestone%3A2.0.0+is%3Aclosed)
+* [2.1.0](https://github.com/nationalparkservice/npmap-symbol-library/issues?q=milestone%3A2.1.0+is%3Aclosed)
+
 
 ## File structure
 
