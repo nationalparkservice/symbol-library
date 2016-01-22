@@ -40,6 +40,32 @@
     "release": "1.0.0"
   },
   {
+    "name": "All-Terrain Trail (Black)",
+    "tags": [
+      "all terrain vehicle trail",
+      "atv",
+      "off road",
+      "ohv",
+      "orv trail",
+      "quad"
+    ],
+    "icon": "all-terrain-trail-black",
+    "release": "2.2.0"
+  },
+  {
+    "name": "All-Terrain Trail (White)",
+    "tags": [
+      "all terrain vehicle trail",
+      "atv",
+      "off road",
+      "ohv",
+      "orv trail",
+      "quad"
+    ],
+    "icon": "all-terrain-trail-white",
+    "release": "2.2.0"
+  },
+  {
     "name": "Amphitheater (Black)",
     "tags": [
       "amphitheater",
@@ -60,6 +86,28 @@
     "release": "1.0.0"
   },
   {
+    "name": "ATM (Black)",
+    "tags": [
+      "atm",
+      "automated teller machine",
+      "cash",
+      "cash dispenser"
+    ],
+    "icon": "atm-black",
+    "release": "2.2.0"
+  },
+  {
+    "name": "ATM (White)",
+    "tags": [
+      "atm",
+      "automated teller machine",
+      "cash",
+      "cash dispenser"
+    ],
+    "icon": "atm-white",
+    "release": "2.2.0"
+  },
+  {
     "name": "Bear (Black)",
     "tags": [
       "bear"
@@ -74,6 +122,28 @@
     ],
     "icon": "bear-white",
     "release": "1.0.0"
+  },
+  {
+    "name": "Beach Access (Black)",
+    "tags": [
+      "beach",
+      "coast",
+      "shore",
+      "strand"
+    ],
+    "icon": "beach-access-black",
+    "release": "2.2.0"
+  },
+  {
+    "name": "Beach Access (White)",
+    "tags": [
+      "beach",
+      "coast",
+      "shore",
+      "strand"
+    ],
+    "icon": "beach-access-white",
+    "release": "2.2.0"
   },
   {
     "name": "Bike Trail (Black)",
@@ -134,6 +204,28 @@
     ],
     "icon": "boat-tour-white",
     "release": "1.0.0"
+  },
+  {
+    "name": "Bookstore (Black)",
+    "tags": [
+      "book",
+      "reading",
+      "shop",
+      "shopping"
+    ],
+    "icon": "bookstore-black",
+    "release": "2.2.0"
+  },
+  {
+    "name": "Bookstore (White)",
+    "tags": [
+      "book",
+      "reading",
+      "shop",
+      "shopping"
+    ],
+    "icon": "bookstore-white",
+    "release": "2.2.0"
   },
   {
     "name": "Bus and Shuttle Stop (Black)",
@@ -232,6 +324,28 @@
     "release": "1.0.0"
   },
   {
+    "name": "Cave (Black)",
+    "tags": [
+      "cave",
+      "cave entrance",
+      "cavern",
+      "grotto"
+    ],
+    "icon": "cave-black",
+    "release": "2.2.0"
+  },
+  {
+    "name": "Cave (White)",
+    "tags": [
+      "cave",
+      "cave entrance",
+      "cavern",
+      "grotto"
+    ],
+    "icon": "cave-white",
+    "release": "2.2.0"
+  },
+  {
     "name": "Cross Country Ski Trail (Black)",
     "tags": [
       "cross country ski trail",
@@ -250,6 +364,28 @@
     ],
     "icon": "cross-country-ski-trail-white",
     "release": "1.0.0"
+  },
+  {
+    "name": "Dam (Black)",
+    "tags": [
+      "dam",
+      "breakwater",
+      "dike",
+      "jetty"
+    ],
+    "icon": "dam-black",
+    "release": "2.2.0"
+  },
+  {
+    "name": "Dam (White)",
+    "tags": [
+      "dam",
+      "breakwater",
+      "dike",
+      "jetty"
+    ],
+    "icon": "dam-white",
+    "release": "2.2.0"
   },
   {
     "name": "Downhill Skiing (Black)",
@@ -272,6 +408,26 @@
     "release": "1.0.0"
   },
   {
+    "name": "Dot (Black)",
+    "tags": [
+      "circle marker",
+      "generic",
+      "dot"
+    ],
+    "icon": "dot-black",
+    "release": "2.2.0"
+  },
+  {
+    "name": "Dot (White)",
+    "tags": [
+      "circle marker",
+      "generic",
+      "dot"
+    ],
+    "icon": "dot-white",
+    "release": "2.2.0"
+  },
+  {
     "name": "Drinking Water (Black)",
     "tags": [
       "drinking water",
@@ -288,6 +444,24 @@
     ],
     "icon": "drinking-water-white",
     "release": "1.0.0"
+  },
+  {
+    "name": "Emergency Telephone (Black)",
+    "tags": [
+      "emergency telephone",
+      "phone"
+    ],
+    "icon": "emergency-telephone-black",
+    "release": "2.2.0"
+  },
+  {
+    "name": "Emergency Telephone (White)",
+    "tags": [
+      "emergency telephone",
+      "phone"
+    ],
+    "icon": "emergency-telephone-white",
+    "release": "2.2.0"
   },
   {
     "name": "Entrance (Black)",
@@ -480,10 +654,34 @@
     "release": "1.0.0"
   },
   {
+    "name": "Historic Feature (Black)",
+    "tags": [
+      "historic",
+      "site",
+      "ruin",
+      "monument",
+      "memorial"
+    ],
+    "icon": "historic-feature-black",
+    "release": "2.2.0"
+  },
+  {
+    "name": "Historic Feature (White)",
+    "tags": [
+      "historic",
+      "site",
+      "ruin",
+      "monument",
+      "memorial"
+    ],
+    "icon": "historic-feature-white",
+    "release": "2.2.0"
+  },
+  {
     "name": "Horseback Riding (Black)",
     "tags": [
       "horseback riding",
-      "horeseback rental",
+      "horseback rental",
       "horseback tour"
     ],
     "icon": "horseback-riding-black",
@@ -493,7 +691,7 @@
     "name": "Horseback Riding (White)",
     "tags": [
       "horseback riding",
-      "horeseback rental",
+      "horseback rental",
       "horseback tour"
     ],
     "icon": "horseback-riding-white",
@@ -552,6 +750,32 @@
     "release": "1.0.0"
   },
   {
+    "name": "Interpretive Exhibit (Black)",
+    "tags": [
+      "information",
+      "attraction",
+      "exhibit",
+      "wayside",
+      "interpretive sign",
+      "tourist attraction"
+    ],
+    "icon": "interpretive-exhibit-black",
+    "release": "2.2.0"
+  },
+  {
+    "name": "Interpretive Exhibit (White)",
+    "tags": [
+      "information",
+      "attraction",
+      "exhibit",
+      "wayside",
+      "interpretive sign",
+      "tourist attraction"
+    ],
+    "icon": "interpretive-exhibit-white",
+    "release": "2.2.0"
+  },
+  {
     "name": "Laundry (Black)",
     "tags": [
       "laundry",
@@ -570,6 +794,44 @@
     ],
     "icon": "laundry-white",
     "release": "2.0.0"
+  },
+  {
+    "name": "Library (Black)",
+    "tags": [
+      "book",
+      "reading",
+      "information"
+    ],
+    "icon": "library-black",
+    "release": "2.2.0"
+  },
+  {
+    "name": "Library (White)",
+    "tags": [
+      "book",
+      "reading",
+      "information"
+    ],
+    "icon": "library-white",
+    "release": "2.2.0"
+  },
+  {
+    "name": "Lighthouse (Black)",
+    "tags": [
+      "lighthouse",
+      "beacon"
+    ],
+    "icon": "lighthouse-black",
+    "release": "2.2.0"
+  },
+  {
+    "name": "Lighthouse (White)",
+    "tags": [
+      "lighthouse",
+      "beacon"
+    ],
+    "icon": "lighthouse-white",
+    "release": "2.2.0"
   },
   {
     "name": "Litter Receptacle (Black)",
@@ -610,6 +872,26 @@
     "release": "1.0.0"
   },
   {
+    "name": "Lookout Tower (Black)",
+    "tags": [
+      "lookout tower",
+      "fire tower",
+      "water tower"
+    ],
+    "icon": "lookout-tower-black",
+    "release": "2.2.0"
+  },
+  {
+    "name": "Lookout Tower (White)",
+    "tags": [
+      "lookout tower",
+      "fire tower",
+      "water tower"
+    ],
+    "icon": "lookout-tower-white",
+    "release": "2.2.0"
+  },
+  {
     "name": "Marina (Black)",
     "tags": [
       "marina"
@@ -626,6 +908,34 @@
     "release": "1.0.0"
   },
   {
+    "name": "Mechanic (Black)",
+    "tags": [
+      "mechanic",
+      "auto shop",
+      "boat house",
+      "bus barn",
+      "maintenance",
+      "utility building",
+      "workshop"
+    ],
+    "icon": "mechanic-black",
+    "release": "2.2.0"
+  },
+  {
+    "name": "Mechanic (White)",
+    "tags": [
+      "mechanic",
+      "auto shop",
+      "boat house",
+      "bus barn",
+      "maintenance",
+      "utility building",
+      "workshop"
+    ],
+    "icon": "mechanic-white",
+    "release": "2.2.0"
+  },
+  {
     "name": "Motor Bike Trail (Black)",
     "tags": [
       "motor bike trail"
@@ -640,6 +950,26 @@
     ],
     "icon": "motor-bike-trail-white",
     "release": "1.0.0"
+  },
+  {
+    "name": "Museum (Black)",
+    "tags": [
+      "history",
+      "nature",
+      "tourist attraction"
+    ],
+    "icon": "museum-black",
+    "release": "2.2.0"
+  },
+  {
+    "name": "Museum (White)",
+    "tags": [
+      "history",
+      "nature",
+      "tourist attraction"
+    ],
+    "icon": "museum-white",
+    "release": "2.2.0"
   },
   {
     "name": "Parking (Black)",
@@ -692,6 +1022,24 @@
     ],
     "icon": "picnic-area-white",
     "release": "1.0.0"
+  },
+  {
+    "name": "Playground (Black)",
+    "tags": [
+      "play area",
+      "playpark"
+    ],
+    "icon": "playground-black",
+    "release": "2.2.0"
+  },
+  {
+    "name": "Playground (White)",
+    "tags": [
+      "play area",
+      "playpark"
+    ],
+    "icon": "playground-white",
+    "release": "2.2.0"
   },
   {
     "name": "Post Office (Black)",
@@ -888,6 +1236,26 @@
     "release": "1.0.0"
   },
   {
+    "name": "Sea Plane (Black)",
+    "tags": [
+      "airport",
+      "float landing",
+      "float plane"
+    ],
+    "icon": "sea-plane-black",
+    "release": "2.2.0"
+  },
+  {
+    "name": "Sea Plane (White)",
+    "tags": [
+      "airport",
+      "float landing",
+      "float plane"
+    ],
+    "icon": "sea-plane-white",
+    "release": "2.2.0"
+  },
+  {
     "name": "Self Guided Trail (Black)",
     "tags": [
       "trail"
@@ -920,6 +1288,24 @@
     "release": "1.0.0"
   },
   {
+    "name": "Shelter Cabin (Black)",
+    "tags": [
+      "shelter cabin",
+      "cottage"
+    ],
+    "icon": "shelter-cabin-black",
+    "release": "2.2.0"
+  },
+  {
+    "name": "Shelter Cabin (White)",
+    "tags": [
+      "shelter cabin",
+      "cottage"
+    ],
+    "icon": "shelter-cabin-white",
+    "release": "2.2.0"
+  },
+  {
     "name": "Showers (Black)",
     "tags": [
       "showers"
@@ -934,6 +1320,32 @@
     ],
     "icon": "showers-white",
     "release": "1.0.0"
+  },
+  {
+    "name": "Sign (Black)",
+    "tags": [
+      "sign",
+      "directional",
+      "regulatory",
+      "marker",
+      "milepost",
+      "gateway"
+    ],
+    "icon": "sign-black",
+    "release": "2.2.0"
+  },
+  {
+    "name": "Sign (White)",
+    "tags": [
+      "sign",
+      "directional",
+      "regulatory",
+      "marker",
+      "milepost",
+      "gateway"
+    ],
+    "icon": "sign-white",
+    "release": "2.2.0"
   },
   {
     "name": "Sledding (Black)",
@@ -966,6 +1378,24 @@
     ],
     "icon": "snowmobile-trail-white",
     "release": "1.0.0"
+  },
+  {
+    "name": "Souvenir (Black)",
+    "tags": [
+      "souvenir",
+      "gift shop"
+    ],
+    "icon": "souvenir-black",
+    "release": "2.2.0"
+  },
+  {
+    "name": "Souvenir (White)",
+    "tags": [
+      "souvenir",
+      "gift shop"
+    ],
+    "icon": "souvenir-white",
+    "release": "2.2.0"
   },
   {
     "name": "Spring (Black)",
@@ -1074,6 +1504,26 @@
     "release": "1.0.0"
   },
   {
+    "name": "Theater (Black)",
+    "tags": [
+      "cinema",
+      "movie theater",
+      "film"
+    ],
+    "icon": "theater-black",
+    "release": "2.2.0"
+  },
+  {
+    "name": "Theater (White)",
+    "tags": [
+      "cinema",
+      "movie theater",
+      "film"
+    ],
+    "icon": "theater-white",
+    "release": "2.2.0"
+  },
+  {
     "name": "Trailhead (Black)",
     "tags": [
       "trailhead"
@@ -1088,6 +1538,26 @@
     ],
     "icon": "trailhead-white",
     "release": "1.0.0"
+  },
+  {
+    "name": "Trash Dumpster (Black)",
+    "tags": [
+      "trash",
+      "waste",
+      "dumpster"
+    ],
+    "icon": "trash-dumpster-black",
+    "release": "2.2.0"
+  },
+  {
+    "name": "Trash Dumpster (White)",
+    "tags": [
+      "trash",
+      "waste",
+      "dumpster"
+    ],
+    "icon": "trash-dumpster-white",
+    "release": "2.2.0"
   },
   {
     "name": "Tunnel (Black)",
@@ -1106,6 +1576,26 @@
     ],
     "icon": "tunnel-white",
     "release": "2.1.0"
+  },
+  {
+    "name": "Vehicle Ferry (Black)",
+    "tags": [
+      "vehicle ferry",
+      "ferry terminal",
+      "boat terminal"
+    ],
+    "icon": "vehicle-ferry-black",
+    "release": "2.2.0"
+  },
+  {
+    "name": "Vehicle Ferry (White)",
+    "tags": [
+      "vehicle ferry",
+      "ferry terminal",
+      "boat terminal"
+    ],
+    "icon": "vehicle-ferry-white",
+    "release": "2.2.0"
   },
   {
     "name": "Visitor Center (Black)",
@@ -1174,6 +1664,26 @@
     "release": "1.0.0"
   },
   {
+    "name": "Wi-Fi (Black)",
+    "tags": [
+      "wifi",
+      "wireless internet",
+      "online"
+    ],
+    "icon": "wi-fi-black",
+    "release": "2.2.0"
+  },
+  {
+    "name": "Wi-Fi (White)",
+    "tags": [
+      "wifi",
+      "wireless internet",
+      "online"
+    ],
+    "icon": "wi-fi-white",
+    "release": "2.2.0"
+  },
+  {
     "name": "Wind Surfing (Black)",
     "tags": [
       "wind surfing"
@@ -1188,6 +1698,24 @@
     ],
     "icon": "wind-surfing-white",
     "release": "1.0.0"
+  },
+  {
+    "name": "Zebra Mussel Decontamination Station (Black)",
+    "tags": [
+      "decontamination",
+      "water recreation"
+    ],
+    "icon": "zebra-mussel-decontamination-station-black",
+    "release": "2.2.0"
+  },
+  {
+    "name": "Zebra Mussel Decontamination Station (White)",
+    "tags": [
+      "decontamination",
+      "water recreation"
+    ],
+    "icon": "zebra-mussel-decontamination-station-white",
+    "release": "2.2.0"
   },
   {
     "name": "Letter 'A' (Black)",
