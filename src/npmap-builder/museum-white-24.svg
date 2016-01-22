@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>museum-white-24</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="museum" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="museum-white-24" sketch:type="MSArtboardGroup" fill="#FFFFFF">
+            <path d="M4,6.47058824 L21,6.47058824 L21,8.11764706 L4,8.11764706 L4,6.47058824 Z M4.85,16.3529412 L20.15,16.3529412 L21,18 L4,18 L4.85,16.3529412 Z M5.7,6.47058824 L12.5,4 L19.3,6.47058824 L5.7,6.47058824 Z M5.7,8.11764706 L8.25,8.11764706 L8.25,16.3529412 L5.7,16.3529412 L5.7,8.11764706 Z M9.95,8.11764706 L11.65,8.11764706 L11.65,16.3529412 L9.95,16.3529412 L9.95,8.11764706 Z M13.35,8.11764706 L15.05,8.11764706 L15.05,16.3529412 L13.35,16.3529412 L13.35,8.11764706 Z M16.75,8.11764706 L19.3,8.11764706 L19.3,16.3529412 L16.75,16.3529412 L16.75,8.11764706 Z" id="symbol" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
