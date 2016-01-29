@@ -19,7 +19,7 @@
   only screen and (min-device-pixel-ratio : 2) {
     .npmaki-icon {
       background-image:url(images/npmap-symbol-library-sprite@2x.png);
-      background-size: 270px 1225px; /* Replaced automatically by render.sh */
+      background-size: 1416px 1601px; /* Replaced automatically by render.sh */
     }
   }
 }
