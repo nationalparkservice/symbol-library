@@ -2,7 +2,7 @@
   "author": "National Park Service",
   "name": "npmap-symbol-library",
   "description": "National Park Service map symbols optimized for the web.",
-  "version": "2.2.0",
+  "version": "2.2.2",
   "homepage": "http://www.nps.gov/npmap/tools/npmap-symbol-library/",
   "scripts": {
     "test": "tap test/*.js"
