@@ -19,10 +19,10 @@ The Symbol Library uses a semantic versioning scheme:
 ## Changelog
 
 * 1.0.0
-* [2.0.0](https://github.com/nationalparkservice/npmap-symbol-library/issues?q=is%3Aclosed+milestone%3A%22Release+2.0.0%22)
-* [2.1.0](https://github.com/nationalparkservice/npmap-symbol-library/issues?q=is%3Aclosed+milestone%3A%22Release+2.1.0%22)
+* 2.0.0
+* 2.1.0
 * 2.2.2
-* [2.2.3](https://github.com/nationalparkservice/npmap-symbol-library/issues?q=is%3Aclosed+milestone%3A%22Release+2.2.3%22)
+* 2.2.3
 * 2.3.0
 
 
