@@ -1,22 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 18 18" enable-background="new 0 0 18 18" xml:space="preserve">
-<g id="shadows">
-	<g opacity="0.2">
-		<polygon points="4.214,7.393 4.214,8.322 16.286,3.679 16.286,2.75 		"/>
-		<polygon points="6.071,14.821 6.071,7.393 5.143,7.393 5.143,15.75 16.286,15.75 16.286,14.821 		"/>
-		<polygon points="7.929,13.893 8.857,13.893 8.857,12.964 8.857,11.107 9.786,12.036 9.786,12.964 9.786,13.893 10.714,13.893 
-			10.714,12.036 9.786,11.107 12.571,11.107 12.571,13.893 13.5,13.893 13.5,10.179 14.429,8.322 16.286,8.322 14.429,6.465 
-			11.643,9.25 7.929,9.25 		"/>
-		<rect x="4.214" y="2.75" fill="none" width="12.071" height="13"/>
-	</g>
-</g>
-<g id="icons">
-	<polygon fill="#FFFFFF" points="3.464,6.643 3.464,7.571 15.536,2.929 15.536,2 	"/>
-	<polygon fill="#FFFFFF" points="5.321,14.071 5.321,6.643 4.393,6.643 4.393,15 15.536,15 15.536,14.071 	"/>
-	<polygon fill="#FFFFFF" points="7.179,13.143 8.107,13.143 8.107,12.214 8.107,10.357 9.036,11.286 9.036,12.214 9.036,13.143 
-		9.964,13.143 9.964,11.286 9.036,10.357 11.821,10.357 11.821,13.143 12.75,13.143 12.75,9.429 13.679,7.571 15.536,7.571 
-		13.679,5.714 10.893,8.5 7.179,8.5 	"/>
-</g>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="18px" height="18px" viewBox="0 0 18 18" enable-background="new 0 0 18 18" xml:space="preserve">
+<polygon fill="#FFFFFF" points="3.5,6.6 3.5,7.6 15.5,2.9 15.5,2 "/>
+<polygon fill="#FFFFFF" points="5.3,14.1 5.3,6.6 4.4,6.6 4.4,15 15.5,15 15.5,14.1 "/>
+<polygon fill="#FFFFFF" points="7.2,13.1 8.1,13.1 8.1,12.2 8.1,10.4 9,11.3 9,12.2 9,13.1 10,13.1 10,11.3 9,10.4 11.8,10.4 
+	11.8,13.1 12.8,13.1 12.8,9.4 13.7,7.6 15.5,7.6 13.7,5.7 10.9,8.5 7.2,8.5 "/>
 </svg>

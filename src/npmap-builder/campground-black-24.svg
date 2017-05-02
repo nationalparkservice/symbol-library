@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
-<g id="shadows">
-</g>
-<g id="icons">
-	<g opacity="0.2">
-		<path d="M17.3,19.7l-5.5-11l-5.3,11H5v0.7l13.7,0v-0.7H17.3z M8.6,19.7l3.2-6.1l3.2,6.1H8.6z"/>
-	</g>
-	<polygon opacity="0.2" points="19.4,17.6 19.4,17.6 13.9,6.7 13.3,7.9 18.7,18.3 19.8,18.3 19.4,17.6 	"/>
-	<polygon opacity="0.2" points="21.6,15.4 21.6,15.4 16.2,4.6 15.6,5.8 20.9,16.1 22,16.1 	"/>
-	<g>
-		<path d="M16.3,18.7l-5.5-11l-5.3,11H4v0.7l13.7,0v-0.7H16.3z M7.6,18.7l3.2-6.1l3.2,6.1H7.6z"/>
-	</g>
-	<polygon points="18.4,16.6 18.4,16.6 12.9,5.7 12.3,6.9 17.7,17.3 18.8,17.3 18.4,16.6 	"/>
-	<polygon points="20.6,14.4 20.6,14.4 15.2,3.6 14.6,4.8 19.9,15.1 21,15.1 	"/>
-</g>
-<g id="guides" display="none">
-</g>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<path d="M16.3,18.7l-5.5-11l-5.3,11H4v0.7h13.7v-0.7H16.3z M7.6,18.7l3.2-6.1l3.2,6.1H7.6z"/>
+<polygon points="12.9,5.7 12.3,6.9 17.7,17.3 18.8,17.3 "/>
+<polygon points="15.2,3.6 14.6,4.8 19.9,15.1 21,15.1 "/>
 </svg>

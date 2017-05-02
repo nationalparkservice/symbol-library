@@ -1,23 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 18 18" enable-background="new 0 0 18 18" xml:space="preserve">
-<g id="shadows">
-	<g opacity="0.2">
-		<rect x="7.8" y="2.8" width="1.6" height="1.6"/>
-		<path d="M14.3,6.8V5.2l-3.2,3.3H9.4V6.8l1.6,0.8V6.8L9.4,6V5.2H8.6H7.8v3.3H4.6v4.1h0.8v3.2h0.8v-3.2H7l0.8,3.2h0.8l-0.8-3.2v-0.8
-			h4.1v4.1h0.8v-4.1l0.4-1.6h0.4h0.8h0.8V9.2V8.4h0.8V7.6L14.3,6.8z M5.4,10.1V9.2h0.8L5.4,10.1z M14.3,9.2h-0.8h-0.2l0.2-0.8h0.8
-			V9.2z"/>
-	</g>
-</g>
-<g id="icons">
-	<g>
-		<rect x="7.1" y="2" width="1.6" height="1.6"/>
-		<path d="M13.6,6.1V4.4l-3.2,3.2H8.7V6.1l1.6,0.8V6.1L8.7,5.2V4.4H7.9H7.1v3.2H3.8v4.1h0.8V15h0.8v-3.2h0.8L7.1,15h0.8l-0.8-3.2
-			v-0.8h4.1V15h0.8v-4.1l0.4-1.6h0.4h0.8h0.8V8.5V7.7h0.8V6.9L13.6,6.1z M4.6,9.3V8.5h0.8L4.6,9.3z M13.6,8.5h-0.8h-0.2l0.2-0.8h0.8
-			V8.5z"/>
-	</g>
-</g>
-<g id="guides">
-</g>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="18px" height="18px" viewBox="0 0 18 18" enable-background="new 0 0 18 18" xml:space="preserve">
+<rect x="7.1" y="2" width="1.6" height="1.6"/>
+<path d="M13.6,6.1V4.4l-3.2,3.2H8.7V6.1l1.6,0.8V6.1L8.7,5.2V4.4H7.9H7.1v3.2H3.8v4.1l0.2,0V15h1v-3.2h1.2L7.1,15h0.8l-0.8-3.2V11
+	h4.1v4H12v-4.1l0.4-1.6h0.4h0.8h0.8V8.5V7.7h0.8V6.9L13.6,6.1z M4.6,9.3V8.5h0.8L4.6,9.3z M13.6,8.5h-0.8h-0.2l0.2-0.8h0.8V8.5z"/>
 </svg>

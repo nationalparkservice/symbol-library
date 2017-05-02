@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 18 18" enable-background="new 0 0 18 18" xml:space="preserve">
-<g id="shadows">
-	<polygon opacity="0.2" points="13.036,7.99 13.036,5.071 14.893,5.071 14.893,3.214 12.107,3.214 12.107,5.071 12.107,7.327 
-		10.25,6 3.75,10.643 5.607,10.643 5.607,15.286 14.893,15.286 14.893,10.643 16.75,10.643 	"/>
-</g>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="18px" height="18px" viewBox="0 0 18 18" enable-background="new 0 0 18 18" xml:space="preserve">
 <g id="icons">
-	<polygon fill="#FFFFFF" points="12.286,7.24 12.286,4.321 14.143,4.321 14.143,2.464 11.357,2.464 11.357,4.321 11.357,6.577 
-		9.5,5.25 3,9.893 4.857,9.893 4.857,14.536 14.143,14.536 14.143,9.893 16,9.893 	"/>
-	<polygon fill="#2D500D" points="10.429,10.821 10.196,10.821 9.5,13.607 8.571,13.607 7.643,13.607 7.643,12.679 7.875,12.679 
-		8.571,9.893 9.5,9.893 10.429,9.893 	"/>
-	<rect x="9.5" y="8.036" fill="#2D500D" width="1.857" height="0.929"/>
+	<polygon fill="#FFFFFF" points="12.3,7.2 12.3,4.3 14.1,4.3 14.1,2.5 11.4,2.5 11.4,4.3 11.4,6.6 9.5,5.2 3,9.9 4.9,9.9 4.9,14.5 
+		14.1,14.5 14.1,9.9 16,9.9 	"/>
+	<polygon fill="#2D500D" points="10.4,10.8 10.2,10.8 9.5,13.6 8.6,13.6 7.6,13.6 7.6,12.7 7.9,12.7 8.6,9.9 9.5,9.9 10.4,9.9 	"/>
+	<rect x="9.5" y="8" fill="#2D500D" width="1.9" height="0.9"/>
 </g>
 </svg>

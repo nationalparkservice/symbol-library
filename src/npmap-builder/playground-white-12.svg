@@ -1,12 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
-    <title>playground-white-12</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="playground" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="playground-white-12" sketch:type="MSArtboardGroup" fill="#FFFFFF">
-            <path d="M3.16169499,1 L5.11930596,4.57810782 L5.11930596,4.57810782 L5.6607268,4.19900087 L3.91052824,1 L3.16169499,1 L3.16169499,1 Z M8.24358878,8.26196017 L6.666562,9.43690868 L7.01616128,9.96166992 L8.58043443,8.80809559 L8.24358878,8.26196017 Z M7.45559072,6.40654592 C7.5614662,6.32618633 7.68311037,6.26355312 7.82164956,6.26355312 L9.56183695,6.26591664 C9.89973742,6.26591664 10.1734368,6.55426575 10.1734368,6.9076116 C10.1734368,7.26332096 9.89973742,7.54930655 9.56183695,7.54930655 L8.10886495,7.54694304 L6.25491774,8.92014661 C5.60164351,9.41412174 5.20517363,8.87169451 5.20517363,8.87169451 L3.74994896,7.34368055 C3.50666063,7.03642329 3.55847203,6.45263451 3.8513191,6.19501112 L5.86520587,4.68945057 C6.06569348,4.51455029 6.36304589,4.54173074 6.53199612,4.74972026 C6.69982002,4.96007331 6.67278798,5.27323935 6.47230037,5.4493214 L5.18377327,6.4384534 L6.10962054,7.3992232 L7.45559072,6.40654592 Z M3.17439184,6.23164564 C3.66885285,6.23164564 4.06982807,5.81093955 4.06982807,5.29214749 C4.06982807,4.7745372 3.66885285,4.35501287 3.17439184,4.35501287 C2.68105716,4.35501287 2.28120828,4.7745372 2.28120828,5.29214749 C2.28120828,5.81093955 2.68105716,6.23164564 3.17439184,6.23164564 Z" id="symbol" sketch:type="MSShapeGroup"></path>
-        </g>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="12px" height="12px"
+	 viewBox="0 0 12 12" enable-background="new 0 0 12 12" xml:space="preserve">
+<path id="Fill-3-Copy" sketch:type="MSShapeGroup" fill="#FFFFFF" d="M3.4,6.3c0.5,0,0.9-0.4,0.9-0.9c0-0.5-0.4-0.9-0.9-0.9
+	C3,4.4,2.6,4.8,2.6,5.3C2.6,5.8,3,6.3,3.4,6.3"/>
+<polygon fill="#FFFFFF" points="3.4,1 5.4,4.6 5.4,4.6 5.9,4.2 4.2,1 3.4,1 "/>
+<path fill="#FFFFFF" d="M7.7,6C7.8,5.9,8,6,8.1,6h1.7c0.3,0,0.6,0.1,0.6,0.5c0,0.4-0.3,0.5-0.6,0.5H8.4c0,0-1.7,1.1-2.3,1.5
+	C5.6,8.8,5.3,8.7,5,8.4c-0.2-0.3-1-1-1-1C3.8,7.1,3.8,6.5,4.1,6.2l2-1.5c0.2-0.2,0.5-0.1,0.7,0.1C7,5,6.9,5.3,6.7,5.5l-1.3,1L6.4,7
+	L7.7,6z"/>
+<ellipse fill="#FFFFFF" cx="3.4" cy="5.3" rx="0.9" ry="0.9"/>
+<rect x="7" y="9" fill="#FFFFFF" width="1" height="1"/>
+<rect x="8" y="8" fill="#FFFFFF" width="1" height="1"/>
 </svg>

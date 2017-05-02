@@ -1,23 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 18 18" enable-background="new 0 0 18 18" xml:space="preserve">
-<g id="shadows">
-	<g opacity="0.2">
-		<path d="M15.8,12l-0.9-3.7l-2.8,2.8L14,12c-0.4,1-1.8,1.8-2.8,2.1V6.5V5.5h0.9V3.7h-0.9V2.8H9.3v0.9H8.4v1.9h0.9v0.9v7.7
-			c-1-0.3-2.4-1.1-2.8-2.1l1.9-0.9L5.6,8.3L4.7,12h1.5l-0.5,0.2c0.5,1.7,1.9,3.1,3.6,3.4v0.1h1.9v-0.1c1.7-0.4,3.1-1.7,3.6-3.4
-			L14.3,12H15.8z M10.7,5.5H9.8C9.5,5.5,9.3,5.3,9.3,5V4.2c0-0.3,0.2-0.5,0.5-0.5h0.9c0.3,0,0.5,0.2,0.5,0.5V5
-			C11.2,5.3,11,5.5,10.7,5.5z"/>
-	</g>
-</g>
-<g id="icons">
-	<g>
-		<path fill="#FFFFFF" d="M15.1,11.3l-0.9-3.7l-2.8,2.8l1.9,0.9c-0.4,1-1.8,1.8-2.8,2.1V5.7V4.8h0.9V2.9h-0.9V2H8.6v0.9H7.6v1.9h0.9
-			v0.9v7.7c-1-0.3-2.4-1.1-2.8-2.1l1.9-0.9L4.9,7.6l-0.9,3.7h1.5L5,11.5c0.5,1.7,1.9,3.1,3.6,3.4V15h1.9v-0.1
-			c1.7-0.4,3.1-1.7,3.6-3.4l-0.5-0.2H15.1z M9.9,4.8H9.1c-0.3,0-0.5-0.2-0.5-0.5V3.4c0-0.3,0.2-0.5,0.5-0.5h0.9
-			c0.3,0,0.5,0.2,0.5,0.5v0.9C10.4,4.6,10.2,4.8,9.9,4.8z"/>
-	</g>
-</g>
-<g id="guides">
-</g>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="18px" height="18px" viewBox="0 0 18 18" enable-background="new 0 0 18 18" xml:space="preserve">
+<path fill="#FFFFFF" d="M15.1,11.3l-0.9-3.7L12,10.4l1.2,0.9c-0.4,1-1.8,1.8-2.8,2.1V5.7V4.8L12,5V3l-1.6-0.1V2H8.6v0.9L7,3v2
+	l1.4-0.2v0.9v7.7c-1-0.3-2.4-1.1-2.8-2.1L7,10.4L4.8,7.6l-0.9,3.7h1.5l-0.5,0.2c0.5,1.7,1.9,3.1,3.6,3.4V15h1.9v-0.1
+	c1.7-0.4,3.1-1.7,3.6-3.4l-0.5-0.2H15.1z M9.8,4.8H9.1c-0.3,0-0.5-0.2-0.5-0.5V3.4c0-0.3,0.2-0.5,0.5-0.5h0.9c0.3,0,0.5,0.2,0.5,0.5
+	v0.9C10.3,4.6,10.1,4.8,9.8,4.8z"/>
 </svg>
