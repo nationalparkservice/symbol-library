@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
-<g id="shadows">
-	<g opacity="0.2">
-		<path d="M13.8,12.5c1.4,0,2.7-1.4,2.7-2.8c0-1.4-1.3-2.6-2.7-2.6H10v5.4H13.8z M14,4c3.2,0,6.1,2.6,6.1,5.8c0,3.2-3,5.8-6.2,5.8
-			H10V21H6.9V4H14z"/>
-	</g>
-</g>
-<g id="icons">
-	<g>
-		<path d="M12.8,11.5c1.4,0,2.7-1.4,2.7-2.8c0-1.4-1.3-2.6-2.7-2.6H9v5.4H12.8z M13,3c3.2,0,6.1,2.6,6.1,5.8c0,3.2-3,5.8-6.2,5.8H9
-			V20H5.9V3H13z"/>
-	</g>
-</g>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<path d="M12.8,11.5c1.4,0,2.7-1.4,2.7-2.8s-1.3-2.6-2.7-2.6H9v5.4H12.8z M13,3c3.2,0,6.1,2.6,6.1,5.8s-3,5.8-6.2,5.8H9V20H5.9V3H13z
+	"/>
 </svg>

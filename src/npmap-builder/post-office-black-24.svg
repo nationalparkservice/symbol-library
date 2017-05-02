@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
-<g id="shadows">
-	<g opacity="0.2">
-		<path d="M21,6.3H6H5v1v10.4v0.9v0h17v0v-0.9V7.3v-1H21z M21,17.1h-0.6v-0.8h-0.8v-0.8h-0.8v-0.8h-0.8V14h-0.8v-0.8h-0.8v-0.8v-0.8
-			h0.8V11h0.8v-0.8h0.8V9.4h0.8V8.6h0.8V7.9H21V17.1z M6,7.9h0.6v0.8h0.8v0.8h0.8v0.8h0.8V11h0.8v0.8h0.8v0.8v0.8H9.6V14H8.9v0.8
-			H8.1v0.8H7.3v0.8H6.5v0.8H6V7.9z M15.8,11.7H15v0.8h-0.8v0.8h-1.5v-0.8H12v-0.8h-0.8V11h-0.8v-0.8H9.6V9.4H8.9V8.6H8.1V7.9H7.3
-			V7.3h12.4v0.6h-0.8v0.8h-0.8v0.8h-0.8v0.8h-0.8V11h-0.8V11.7z M7.3,17.1h0.8v-0.8h0.8v-0.8h0.8v-0.8h0.8V14h0.8v-0.8H12V14H15
-			v-0.8h0.8V14h0.8v0.8h0.8v0.8h0.8v0.8h0.8v0.8h0.8v0.6H7.3V17.1z"/>
-	</g>
-</g>
-<g id="icons">
-	<g>
-		<path d="M20,5.3H5H4v1v10.4v0.9v0h17v0v-0.9V6.3v-1H20z M20,16.1h-0.6v-0.8h-0.8v-0.8h-0.8v-0.8h-0.8V13h-0.8v-0.8h-0.8v-0.8v-0.8
-			h0.8V10h0.8V9.2h0.8V8.4h0.8V7.6h0.8V6.9H20V16.1z M5,6.9h0.6v0.8h0.8v0.8h0.8v0.8h0.8V10h0.8v0.8h0.8v0.8v0.8H8.6V13H7.9v0.8H7.1
-			v0.8H6.3v0.8H5.5v0.8H5V6.9z M14.8,10.7H14v0.8h-0.8v0.8h-1.5v-0.8H11v-0.8h-0.8V10H9.4V9.2H8.6V8.4H7.9V7.6H7.1V6.9H6.3V6.3h12.4
-			v0.6h-0.8v0.8h-0.8v0.8h-0.8v0.8h-0.8V10h-0.8V10.7z M6.3,16.1h0.8v-0.8h0.8v-0.8h0.8v-0.8h0.8V13h0.8v-0.8H11V13H14v-0.8h0.8V13
-			h0.8v0.8h0.8v0.8h0.8v0.8h0.8v0.8h0.8v0.6H6.3V16.1z"/>
-	</g>
-</g>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<path d="M4,5v13h17V5H4z M18.5,6.5L13,12h-1L6.5,6.5H18.5z M5.5,7.5l4,4l-4,4V7.5z M6.5,16.5l4-4L11,13h3l0.5-0.5l4,4H6.5z
+	 M19.5,15.5l-4-4l4-4V15.5z"/>
 </svg>

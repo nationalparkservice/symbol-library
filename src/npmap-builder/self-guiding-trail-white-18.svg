@@ -1,50 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 18 18" enable-background="new 0 0 18 18" xml:space="preserve">
-<g id="shadows">
-	<g opacity="0.2">
-		<rect x="12.107" y="14.821" width="0.929" height="0.929"/>
-		<rect x="13.964" y="14.821" width="0.929" height="0.929"/>
-		<rect x="15.821" y="14.821" width="0.929" height="0.929"/>
-		<rect x="15.821" y="12.964" width="0.929" height="0.929"/>
-		<rect x="15.821" y="11.107" width="0.929" height="0.929"/>
-		<rect x="15.821" y="9.25" width="0.929" height="0.929"/>
-		<rect x="15.821" y="7.393" width="0.929" height="0.928"/>
-		<rect x="15.821" y="5.536" width="0.929" height="0.929"/>
-		<rect x="15.821" y="3.679" width="0.929" height="0.928"/>
-		<rect x="13.964" y="3.679" width="0.929" height="0.928"/>
-		<rect x="12.107" y="3.679" width="0.929" height="0.928"/>
-		<rect x="10.25" y="2.75" width="0.929" height="2.786"/>
-		<rect x="9.321" y="3.679" width="0.929" height="0.928"/>
-		<rect x="10.25" y="10.179" width="0.929" height="5.571"/>
-		<rect x="11.179" y="9.25" width="0.928" height="1.857"/>
-		<rect x="12.107" y="8.321" width="0.929" height="1.857"/>
-		<polygon points="8.393,6.464 8.393,4.607 6.536,4.607 6.536,6.464 7.464,6.464 		"/>
-		<polygon points="6.536,7.393 7.464,7.393 9.321,9.25 9.321,10.179 7.464,8.321 7.464,11.107 8.393,15.75 7.464,15.75 
-			6.536,12.036 5.607,12.036 4.662,15.678 3.75,15.75 4.679,11.107 5.607,9.25 3.75,9.25 3.75,6.464 4.679,5.536 5.607,6.464 		"/>
-		<rect x="3.75" y="2.75" fill="none" width="13" height="13"/>
-	</g>
-</g>
-<g id="icons">
-	<rect x="11.357" y="14.071" fill="#FFFFFF" width="0.929" height="0.929"/>
-	<rect x="13.214" y="14.071" fill="#FFFFFF" width="0.929" height="0.929"/>
-	<rect x="15.071" y="14.071" fill="#FFFFFF" width="0.929" height="0.929"/>
-	<rect x="15.071" y="12.214" fill="#FFFFFF" width="0.929" height="0.929"/>
-	<rect x="15.071" y="10.357" fill="#FFFFFF" width="0.929" height="0.929"/>
-	<rect x="15.071" y="8.5" fill="#FFFFFF" width="0.929" height="0.929"/>
-	<rect x="15.071" y="6.643" fill="#FFFFFF" width="0.929" height="0.928"/>
-	<rect x="15.071" y="4.786" fill="#FFFFFF" width="0.929" height="0.929"/>
-	<rect x="15.071" y="2.929" fill="#FFFFFF" width="0.929" height="0.928"/>
-	<rect x="13.214" y="2.929" fill="#FFFFFF" width="0.929" height="0.928"/>
-	<rect x="11.357" y="2.929" fill="#FFFFFF" width="0.929" height="0.928"/>
-	<rect x="9.5" y="2" fill="#FFFFFF" width="0.929" height="2.786"/>
-	<rect x="8.571" y="2.929" fill="#FFFFFF" width="0.929" height="0.928"/>
-	<rect x="9.5" y="9.429" fill="#FFFFFF" width="0.929" height="5.571"/>
-	<rect x="10.429" y="8.5" fill="#FFFFFF" width="0.928" height="1.857"/>
-	<rect x="11.357" y="7.571" fill="#FFFFFF" width="0.929" height="1.857"/>
-	<polygon fill="#FFFFFF" points="7.643,5.714 7.643,3.857 5.786,3.857 5.786,5.714 6.714,5.714 	"/>
-	<polygon fill="#FFFFFF" points="5.786,6.643 6.714,6.643 8.571,8.5 8.571,9.429 6.714,7.571 6.714,10.357 7.643,15 6.714,15 
-		5.786,11.286 4.857,11.286 3.912,14.928 3,15 3.929,10.357 4.857,8.5 3,8.5 3,5.714 3.929,4.786 4.857,5.714 	"/>
-</g>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="18px" height="18px" viewBox="0 0 18 18" enable-background="new 0 0 18 18" xml:space="preserve">
+<rect x="11" y="14" fill="#FFFFFF" width="1" height="1"/>
+<rect x="13" y="14" fill="#FFFFFF" width="1" height="1"/>
+<rect x="15" y="14" fill="#FFFFFF" width="1" height="1"/>
+<rect x="15" y="12" fill="#FFFFFF" width="1" height="1"/>
+<rect x="15" y="10" fill="#FFFFFF" width="1" height="1"/>
+<rect x="15" y="8" fill="#FFFFFF" width="1" height="1"/>
+<rect x="15" y="6" fill="#FFFFFF" width="1" height="1"/>
+<rect x="15" y="3" fill="#FFFFFF" width="1" height="1"/>
+<rect x="13" y="3" fill="#FFFFFF" width="1" height="1"/>
+<rect x="11" y="3" fill="#FFFFFF" width="1" height="1"/>
+<rect x="9" y="2" fill="#FFFFFF" width="1" height="3"/>
+<rect x="8" y="3" fill="#FFFFFF" width="1" height="1"/>
+<rect x="9" y="11" fill="#FFFFFF" width="1" height="4"/>
+<polygon fill="#FFFFFF" points="11,8 12,8 10,11 9,11 "/>
+<polygon fill="#FFFFFF" points="8,6 8,4 6,4 6,6 "/>
+<polygon fill="#FFFFFF" points="5.8,6.6 6.7,6.6 8.6,8.5 8.6,9.4 6.7,7.6 6.7,10.4 7.6,15 6.7,15 5.8,11.3 4.9,11.3 3.9,14.9 3,15 
+	3.9,10.4 4.9,8.5 3,8.5 3,5.7 3.9,4.8 4.9,5.7 "/>
 </svg>

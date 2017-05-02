@@ -1,18 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
-    <title>tunnel-black-12</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="tunnel" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="tunnel-black-12" sketch:type="MSArtboardGroup" fill="#000000">
-            <g id="HFC-Tunnel" sketch:type="MSLayerGroup" transform="translate(3.000000, 1.000000)">
-                <path d="M2.45878261,5.61031034 L2.45878261,4.19713793 C2.45878261,3.62310345 2.91269565,3.15703448 3.47617391,3.15703448 C4.03652174,3.15703448 4.49043478,3.62310345 4.49043478,4.19713793 L4.49043478,5.61031034 L2.45878261,5.61031034" id="Fill-3" sketch:type="MSShapeGroup"></path>
-                <path d="M3.54921739,0.906862069 C5.02469565,0.906862069 6.22052174,2.13189655 6.22052174,3.64341379 L6.22052174,7.17206897 L6.98121739,7.17206897 L6.97913043,3.64341379 C6.97913043,1.70431034 5.44208696,0.131862069 3.54921739,0.131862069 C1.65530435,0.131862069 0.119304348,1.70431034 0.119304348,3.64341379 L0.117217391,7.1742069 L0.876869565,7.17206897 L0.876869565,3.64341379 C0.876869565,2.13189655 2.07373913,0.906862069 3.54921739,0.906862069" id="Fill-4" sketch:type="MSShapeGroup"></path>
-                <path d="M3.68173913,5.91282759 L3.26747826,5.91282759 L3.2173913,6.21 L3.73495652,6.21 L3.68173913,5.91282759" id="Fill-5" sketch:type="MSShapeGroup"></path>
-                <path d="M3.81008696,6.66431034 L3.14330435,6.66431034 L3.06608696,7.109 L3.88313043,7.109 L3.81008696,6.66431034" id="Fill-6" sketch:type="MSShapeGroup"></path>
-                <path d="M3.98330435,7.70868966 L2.96591304,7.70868966 L2.86782609,8.30410345 L4.08452174,8.30410345 L3.98330435,7.70868966" id="Fill-7" sketch:type="MSShapeGroup"></path>
-            </g>
-        </g>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="12px" height="12px"
+	 viewBox="0 0 12 12" enable-background="new 0 0 12 12" xml:space="preserve">
+<path id="Fill-3" sketch:type="MSShapeGroup" d="M5.3,7V5.5c0-0.6,0.5-1.1,1.1-1.1c0.6,0,1.1,0.5,1.1,1.1V7H5.3"/>
+<path id="Fill-4" sketch:type="MSShapeGroup" d="M6.5,1.9c1.6,0,2.9,1.3,2.9,3v3.9h0.8l0-3.9C10.3,2.7,8.6,1,6.5,1
+	C4.4,1,2.7,2.7,2.7,4.9l0,3.9l0.8,0V4.9C3.6,3.2,4.9,1.9,6.5,1.9"/>
+<path id="Fill-5" sketch:type="MSShapeGroup" d="M6.6,7.4H6.2L6.1,7.7h0.6L6.6,7.4"/>
+<path id="Fill-6" sketch:type="MSShapeGroup" d="M6.8,8.2H6.1L6,8.7h0.9L6.8,8.2"/>
+<path id="Fill-7" sketch:type="MSShapeGroup" d="M7,9.3H5.9L5.7,10h1.3L7,9.3"/>
 </svg>

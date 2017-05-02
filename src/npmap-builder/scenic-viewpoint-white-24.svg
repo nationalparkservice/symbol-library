@@ -1,20 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
-    <title>scenic-viewpoint-white-24</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="scenic-viewpoint" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="scenic-viewpoint-white-24" sketch:type="MSArtboardGroup">
-            <g id="viewpoint" sketch:type="MSLayerGroup" transform="translate(6.000000, 3.000000)" fill="#FFFFFF">
-                <path d="M3.58705208,8.51922759 C3.58705208,9.45903448 2.8705625,10.2225103 1.98683333,10.2225103 C1.10486458,10.2225103 0.388375,9.45903448 0.388375,8.51922759 C0.388375,7.57754483 1.10486458,6.81406897 1.98683333,6.81406897 C2.8705625,6.81406897 3.58705208,7.57754483 3.58705208,8.51922759" id="Fill-3" sketch:type="MSShapeGroup"></path>
-                <path d="M4.63273958,8.00336552 L4.63273958,9.03321379 L12.7465,9.67288276 L12.7465,7.36369655 L4.63273958,8.00336552" id="Fill-4" sketch:type="MSShapeGroup"></path>
-                <path d="M2.89520833,5.81986207 L3.72964583,6.3376 L7.04098958,1.51288276 L5.16790625,0.359227586 L2.89520833,5.81986207" id="Fill-5" sketch:type="MSShapeGroup"></path>
-                <path d="M4.52183333,7.55878621 L10.5318958,4.59117241 L9.44747917,2.59150345 L4.03947917,6.66587586 L4.52183333,7.55878621 Z" id="Fill-6" sketch:type="MSShapeGroup"></path>
-                <path d="M2.89520833,11.2148414 L3.72964583,10.6989793 L7.04098958,15.5236966 L5.16790625,16.6773517 L2.89520833,11.2148414" id="Fill-7" sketch:type="MSShapeGroup"></path>
-                <path d="M4.03947917,10.3707034 L4.52183333,9.4777931 L10.5318958,12.4454069 L9.44747917,14.4450759 L4.03947917,10.3707034" id="Fill-8" sketch:type="MSShapeGroup"></path>
-            </g>
-            <rect id="Rectangle-1" sketch:type="MSShapeGroup" x="4" y="3" width="16" height="16"></rect>
-        </g>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px" height="24px"
+	 viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<path id="Fill-4" sketch:type="MSShapeGroup" fill="#FFFFFF" d="M10.5,11V12l8.5,0.7v-2.4L10.5,11"/>
+<path id="Fill-5" sketch:type="MSShapeGroup" fill="#FFFFFF" d="M8.7,8.7l0.9,0.5l3.4-5L11,3L8.7,8.7"/>
+<path id="Fill-6" sketch:type="MSShapeGroup" fill="#FFFFFF" d="M10.4,10.5l6.3-3.1l-1.1-2.1L9.9,9.6L10.4,10.5z"/>
+<path id="Fill-7" sketch:type="MSShapeGroup" fill="#FFFFFF" d="M8.7,14.3l0.9-0.5l3.4,5L11,20L8.7,14.3"/>
+<path id="Fill-8" sketch:type="MSShapeGroup" fill="#FFFFFF" d="M9.9,13.4l0.5-0.9l6.3,3.1l-1.1,2.1L9.9,13.4"/>
+<circle fill="#FFFFFF" cx="7.5" cy="11.5" r="1.5"/>
 </svg>

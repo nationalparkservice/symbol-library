@@ -30,6 +30,39 @@
     "release": "2.0.0"
   },
   {
+    "name": "Airfield (Black)",
+    "tags": [
+      "airfield",
+      "airstrip",
+      "plane",
+      "travel"
+    ],
+    "icon": "airfield-black",
+    "release": "2.4.0"
+  },
+  {
+    "name": "Airfield (White)",
+    "tags": [
+      "airfield",
+      "airstrip",
+      "plane",
+      "travel"
+    ],
+    "icon": "airfield-white",
+    "release": "2.4.0"
+  },
+  {
+    "name": "Airfield (Slate)",
+    "tags": [
+      "airfield",
+      "airstrip",
+      "plane",
+      "travel"
+    ],
+    "icon": "airfield-slate",
+    "release": "2.4.0"
+  },
+  {
     "name": "Airport (Black)",
     "tags": [
       "airport",
@@ -127,6 +160,39 @@
     ],
     "icon": "amphitheater-slate",
     "release": "1.0.0"
+  },
+  {
+    "name": "Aquatic Invasive Species Decontamination Station (Black)",
+    "tags": [
+      "invasive",
+      "regulatory",
+      "environment",
+      "water recreation"
+    ],
+    "icon": "aquatic-invasive-species-decontamination-station-black",
+    "release": "2.4.0"
+  },
+  {
+    "name": "Aquatic Invasive Species Decontamination Station (White)",
+    "tags": [
+      "invasive",
+      "regulatory",
+      "environment",
+      "water recreation"
+    ],
+    "icon": "aquatic-invasive-species-decontamination-station-white",
+    "release": "2.4.0"
+  },
+  {
+    "name": "Aquatic Invasive Species Decontamination Station (Slate)",
+    "tags": [
+      "invasive",
+      "regulatory",
+      "environment",
+      "water recreation"
+    ],
+    "icon": "aquatic-invasive-species-decontamination-station-slate",
+    "release": "2.4.0"
   },
   {
     "name": "ATM (Black)",
@@ -462,37 +528,67 @@
     "release": "1.0.0"
   },
   {
-    "name": "Cave (Black)",
+    "name": "Caving (Black)",
     "tags": [
       "cave",
       "cave entrance",
       "cavern",
       "grotto"
     ],
-    "icon": "cave-black",
+    "icon": "caving-black",
     "release": "2.2.0"
   },
   {
-    "name": "Cave (White)",
+    "name": "Caving (White)",
     "tags": [
       "cave",
       "cave entrance",
       "cavern",
       "grotto"
     ],
-    "icon": "cave-white",
+    "icon": "caving-white",
     "release": "2.2.0"
   },
   {
-    "name": "Cave (Slate)",
+    "name": "Caving (Slate)",
     "tags": [
       "cave",
       "cave entrance",
       "cavern",
       "grotto"
     ],
-    "icon": "cave-slate",
+    "icon": "caving-slate",
     "release": "2.2.0"
+  },
+  {
+    "name": "Construction (Black)",
+    "tags": [
+      "construction",
+      "road work",
+      "traffic control"
+    ],
+    "icon": "construction-black",
+    "release": "2.4.0"
+  },
+  {
+    "name": "Construction (White)",
+    "tags": [
+     "construction",
+      "road work",
+      "traffic control"
+    ],
+    "icon": "construction-white",
+    "release": "2.4.0"
+  },
+  {
+    "name": "Construction (Slate)",
+    "tags": [
+      "construction",
+      "road work",
+      "traffic control"
+    ],
+    "icon": "construction-slate",
+    "release": "2.4.0"
   },
   {
     "name": "Cross Country Ski Trail (Black)",
@@ -1072,6 +1168,39 @@
     ],
     "icon": "ice-skating-slate",
     "release": "1.0.0"
+  },
+  {
+    "name": "Incident (Black)",
+    "tags": [
+      "incident",
+      "hazard",
+      "caution",
+      "road condition"
+    ],
+    "icon": "incident-black",
+    "release": "2.4.0"
+  },
+  {
+    "name": "Incident (White)",
+    "tags": [
+      "incident",
+      "hazard",
+      "caution",
+      "road condition"
+    ],
+    "icon": "incident-white",
+    "release": "2.4.0"
+  },
+  {
+    "name": "Incident (Slate)",
+    "tags": [
+      "incident",
+      "hazard",
+      "caution",
+      "road condition"
+    ],
+    "icon": "incident-slate",
+    "release": "2.4.0"
   },
   {
     "name": "Information (Black)",
@@ -2046,30 +2175,30 @@
     "release": "1.0.0"
   },
   {
-    "name": "Souvenir (Black)",
+    "name": "Souvenir Shop (Black)",
     "tags": [
       "souvenir",
       "gift shop"
     ],
-    "icon": "souvenir-black",
+    "icon": "souvenir-shop-black",
     "release": "2.2.0"
   },
   {
-    "name": "Souvenir (White)",
+    "name": "Souvenir Shop (White)",
     "tags": [
       "souvenir",
       "gift shop"
     ],
-    "icon": "souvenir-white",
+    "icon": "souvenir-shop-white",
     "release": "2.2.0"
   },
   {
-    "name": "Souvenir (Slate)",
+    "name": "Souvenir Shop (Slate)",
     "tags": [
       "souvenir",
       "gift shop"
     ],
-    "icon": "souvenir-slate",
+    "icon": "souvenir-shop-slate",
     "release": "2.2.0"
   },
   {

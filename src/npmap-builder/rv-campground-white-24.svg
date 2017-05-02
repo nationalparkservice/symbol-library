@@ -1,29 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
-<g id="shadows">
-	<g opacity="0.2">
-		<path d="M5,13.7h10v-2.3l0.8-0.8h3.1v0.8h0.8v0.8h0.8v0.8h0.8v0.8l0.8,0.8V16h-0.8v-0.8h-0.8v-0.8h-2.3v0.8h-0.8V16h-6.2v-0.8
-			h-0.8v-0.8H8.1v0.8H7.3V16H5V13.7z M16.6,11.3v1.5h2.3v-0.8h-0.8v-0.8H16.6z"/>
-		<path d="M9.8,17.5H8.7c-0.3,0-0.6-0.3-0.6-0.6v-1.1c0-0.3,0.3-0.6,0.6-0.6h1.1c0.3,0,0.6,0.3,0.6,0.6v1.1
-			C10.4,17.3,10.1,17.5,9.8,17.5z M9.6,16H8.9v0.8h0.8V16z"/>
-		<path d="M19.8,17.5h-1.1c-0.3,0-0.6-0.3-0.6-0.6v-1.1c0-0.3,0.3-0.6,0.6-0.6h1.1c0.3,0,0.6,0.3,0.6,0.6v1.1
-			C20.5,17.3,20.2,17.5,19.8,17.5z M19.7,16h-0.8v0.8h0.8V16z"/>
-		<path d="M17.4,9V8.2l-0.8-0.8H5.8v0.8H5v4.6h9.3v-2.3H15V9.8h3.1V9H17.4z M6.5,11.3L7.3,9h3.9l0.8,2.3H6.5z M16.6,9h-2.3V8.2h2.3
-			V9z"/>
-	</g>
-</g>
-<g id="icons">
-	<g>
-		<path fill="#FFFFFF" d="M4,12.7h10v-2.3l0.8-0.8h3.1v0.8h0.8v0.8h0.8v0.8h0.8v0.8l0.8,0.8V15h-0.8v-0.8h-0.8v-0.8h-2.3v0.8h-0.8
-			V15h-6.2v-0.8H9.4v-0.8H7.1v0.8H6.3V15H4V12.7z M15.6,10.3v1.5h2.3v-0.8h-0.8v-0.8H15.6z"/>
-		<path fill="#FFFFFF" d="M8.8,16.5H7.7c-0.3,0-0.6-0.3-0.6-0.6v-1.1c0-0.3,0.3-0.6,0.6-0.6h1.1c0.3,0,0.6,0.3,0.6,0.6v1.1
-			C9.4,16.3,9.1,16.5,8.8,16.5z M8.6,15H7.9v0.8h0.8V15z"/>
-		<path fill="#FFFFFF" d="M18.8,16.5h-1.1c-0.3,0-0.6-0.3-0.6-0.6v-1.1c0-0.3,0.3-0.6,0.6-0.6h1.1c0.3,0,0.6,0.3,0.6,0.6v1.1
-			C19.5,16.3,19.2,16.5,18.8,16.5z M18.7,15h-0.8v0.8h0.8V15z"/>
-		<path fill="#FFFFFF" d="M16.4,8V7.2l-0.8-0.8H4.8v0.8H4v4.6h9.3V9.6H14V8.8h3.1V8H16.4z M5.5,10.3L6.3,8h3.9l0.8,2.3H5.5z M15.6,8
-			h-2.3V7.2h2.3V8z"/>
-	</g>
-</g>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<path fill="#FFFFFF" d="M4,13h10l0-2.6l0.8-0.8h3.1l3.1,4V15H4V13z M16,12h2v-1l-1-1h-1V12z"/>
+<path fill="#FFFFFF" d="M17,7l-1-1H5L4,7v5h9v-2l1-1h3V7z M5,10l1-2h4l1,2H5z M16,8h-3V7h3V8z"/>
+<circle fill="#FFFFFF" cx="18.5" cy="15.5" r="1.5"/>
+<circle fill="#FFFFFF" cx="8.5" cy="15.5" r="1.5"/>
 </svg>

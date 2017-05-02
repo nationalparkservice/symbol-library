@@ -1,31 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
-<g id="shadows-text-objects" display="none">
-	
-		<text transform="matrix(1 0 0 1 7.3632 18.4326)" display="inline" opacity="0.2" font-family="'FrutigerLTStd-Bold'" font-size="17">A</text>
-</g>
-<g id="letters-text-objects" display="none">
-	
-		<text transform="matrix(1 0 0 1 6.3633 17.4329)" display="inline" fill="#FFFFFF" font-family="'FrutigerLTStd-Bold'" font-size="17">A</text>
-</g>
-<g id="shadows-outlines">
-	<g opacity="0.2">
-		<path d="M12.14,6.568h2.686l4.658,11.865h-2.635l-1.021-2.72h-4.811l-1.037,2.72H7.516L12.14,6.568z M13.448,8.948h-0.034
-			l-1.717,4.895h3.468L13.448,8.948z"/>
-	</g>
-</g>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
 <g id="letters-outlines">
 	<g>
-		<path fill="#FFFFFF" d="M11.633,5.568h1.785l5.014,11.864h-1.853l-1.207-2.991H9.559l-1.207,2.991H6.567L11.633,5.568z
-			 M12.466,7.166l-2.362,5.881h4.725L12.466,7.166z"/>
+		<path fill="#FFFFFF" d="M11.6,5.6h1.8l5,11.9h-1.9l-1.2-3H9.6l-1.2,3H6.6L11.6,5.6z M12.5,7.2L10.1,13h4.7L12.5,7.2z"/>
 	</g>
 	<g>
-		<path fill="#FFFFFF" d="M11.14,5.568h2.686l4.658,11.865h-2.635l-1.021-2.72h-4.811l-1.037,2.72H6.516L11.14,5.568z M12.449,7.948
-			h-0.035l-1.717,4.895h3.468L12.449,7.948z"/>
+		<path fill="#FFFFFF" d="M11.1,5.6h2.7l4.7,11.9h-2.6l-1-2.7H10l-1,2.7H6.5L11.1,5.6z M12.4,7.9L12.4,7.9l-1.8,4.9h3.5L12.4,7.9z"
+			/>
 	</g>
-</g>
-<g id="guides_and_set-up" display="none">
 </g>
 </svg>

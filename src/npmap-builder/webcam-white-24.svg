@@ -1,12 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
-    <title>webcam-white-24</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="webcam" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="webcam-white-24" sketch:type="MSArtboardGroup" fill="#FFFFFF">
-            <path d="M13.9444444,15.9287153 L13.9444444,17.5454545 L17.5555556,17.5454545 L17.5555556,19 L7.44444444,19 L7.44444444,17.5454545 L11.0555556,17.5454545 L11.0555556,17.5454545 L11.0555556,15.9287153 C8.16090521,15.2672911 6,12.6604908 6,9.54545455 C6,5.93049982 8.91014913,3 12.5,3 C16.0898509,3 19,5.93049982 19,9.54545455 C19,12.6604908 16.8390948,15.2672911 13.9444444,15.9287153 L13.9444444,15.9287153 Z M12.5,11.7272727 C13.696617,11.7272727 14.6666667,10.7504395 14.6666667,9.54545455 C14.6666667,8.34046964 13.696617,7.36363636 12.5,7.36363636 C11.303383,7.36363636 10.3333333,8.34046964 10.3333333,9.54545455 C10.3333333,10.7504395 11.303383,11.7272727 12.5,11.7272727 Z M8.16666667,9.54545455 C8.16666667,7.13548473 10.1067661,5.18181818 12.5,5.18181818 C14.8932339,5.18181818 16.8333333,7.13548473 16.8333333,9.54545455 C16.8333333,11.9554244 14.8932339,13.9090909 12.5,13.9090909 C10.1067661,13.9090909 8.16666667,11.9554244 8.16666667,9.54545455 Z" id="Webcam" sketch:type="MSShapeGroup"></path>
-        </g>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px" height="24px"
+	 viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<ellipse fill="#FFFFFF" cx="12.5" cy="9.5" rx="2.2" ry="2.2"/>
+<path fill="#FFFFFF" d="M14,16c2.9-0.7,5-3.3,5-6.5C19,5.9,16.1,3,12.5,3S6,5.9,6,9.5c0,3.1,2.1,5.8,5,6.5v2H7.4v2h10.1v-2H14V16z
+	 M8,9.5C8,7.1,10.1,5,12.5,5S17,7.1,17,9.5S14.9,14,12.5,14S8,12,8,9.5z"/>
 </svg>

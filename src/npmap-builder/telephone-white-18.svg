@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 18 18" enable-background="new 0 0 18 18" xml:space="preserve">
-<g id="shadows">
-	<g opacity="0.2">
-		<path d="M10.546,2.75C9.935,2.816,7.658,3.835,7.593,9.075c-0.069,5.52,2.334,6.686,2.953,6.675v-3.545
-			c-0.509,0-0.657-0.629-0.776-1.773c-0.075-0.757-0.098-1.433,0-2.363c0.072-0.654,0.242-1.773,0.776-1.773V2.75z"/>
-		<polygon points="11.136,2.75 12.319,2.75 12.909,3.341 12.909,5.704 12.319,6.296 11.136,6.296 		"/>
-		<polygon points="11.136,12.205 12.319,12.205 12.909,12.796 12.909,15.159 12.319,15.75 11.136,15.75 		"/>
-		<rect x="7.591" y="2.75" fill="none" width="5.318" height="13"/>
-	</g>
-</g>
-<g id="icons">
-	<path fill="#FFFFFF" d="M9.796,2C9.185,2.066,6.908,3.085,6.843,8.325C6.774,13.845,9.177,15.01,9.796,15v-3.546
-		c-0.509,0-0.657-0.628-0.776-1.773c-0.075-0.757-0.098-1.433,0-2.363c0.072-0.654,0.242-1.773,0.776-1.773V2z"/>
-	<polygon fill="#FFFFFF" points="10.386,2 11.569,2 12.159,2.591 12.159,4.954 11.569,5.545 10.386,5.545 	"/>
-	<polygon fill="#FFFFFF" points="10.386,11.454 11.569,11.454 12.159,12.046 12.159,14.409 11.569,15 10.386,15 	"/>
-</g>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="18px" height="18px" viewBox="0 0 18 18" enable-background="new 0 0 18 18" xml:space="preserve">
+<path fill="#FFFFFF" d="M9.8,2c-0.6,0.1-2.9,1.1-3,6.3c-0.1,5.5,2.3,6.7,3,6.7v-3.5c-0.5,0-0.7-0.6-0.8-1.8C8.9,8.9,8.9,8.2,9,7.3
+	c0.1-0.7,0.2-1.8,0.8-1.8V2z"/>
+<polygon fill="#FFFFFF" points="10.4,2 11.6,2 12.2,2.6 12.2,5 11.6,5.5 10.4,5.5 "/>
+<polygon fill="#FFFFFF" points="10.4,11.5 11.6,11.5 12.2,12 12.2,14.4 11.6,15 10.4,15 "/>
 </svg>

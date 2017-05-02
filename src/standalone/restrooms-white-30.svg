@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Icons" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="30px" height="30px" viewBox="0 0 30 30" enable-background="new 0 0 30 30" xml:space="preserve">
+<g>
+	<rect fill="#FFFFFF" x="14" y="3" width="2" height="24"/>
+	<polygon fill="#FFFFFF" points="20,8 29,8 29,9 30,9 30,15 29,17 28,17 28,10 27,10 27,26 26,27 25,27 25,17 24,17 24,27 23,27 22,26 22,10 21,10 
+		21,17 20,17 19,15 19,9 20,9 	"/>
+	<polygon fill="#FFFFFF" points="8,8 3,8 0,14 0,15 1,15 4,9 4,11 1,19 3,19 3,26 5,27 5,19 6,19 6,27 8,26 8,19 10,19 7,11 7,9 10,15 11,15 11,14 
+			"/>
+	<path fill="#FFFFFF" d="M6,7H5C4.4,7,4,6.5,4,6V5c0-0.6,0.4-1,1-1h1c0.6,0,1,0.4,1,1v1C7,6.5,6.6,7,6,7z"/>
+	<path fill="#FFFFFF" d="M25,7h-1c-0.6,0-1-0.5-1-1V5c0-0.6,0.4-1,1-1h1c0.6,0,1,0.4,1,1v1C26,6.5,25.6,7,25,7z"/>
+</g>
+</svg>

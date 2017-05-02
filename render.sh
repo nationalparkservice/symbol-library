@@ -72,7 +72,7 @@ function build_sprite {
 
 function build_css_builder {
     # Takes a list of icon names, calculates the correct CSS background-
-    # positions for 24px icons, and creates an appropriate CSS file.
+    # positions for 22px icons, and creates an appropriate CSS file.
     # Assumes that the icon list matches what was passed to the last run
     # of the build_pngs function.
 
@@ -124,7 +124,7 @@ function build_css_standalone {
         # and if so, adjust dy and dy accordingly.
         # Otherwise just adjust dx.
         if [ $(($count * 3 % $tilex)) -eq 0 ]; then
-            dy=$(($dy - 24))
+            dy=$(($dy - 22))
             dx=0
         else
             dx=$(($dx - 54))
@@ -158,7 +158,7 @@ function build_positions_builder {
         count=$(($count + 1))
 
         echo "\"$icon-24\": { \"x\": $((-1 * dx)), \"y\": $((-1 * $dy)), \"width\": 24, \"height\": 24 }," >> $file
-        echo "\"$icon-18\": { \"x\": $((-1 * dx + 24)), \"y\": $((-1 * $dy)), \"width\": 18, \"height\": 18 }," >> $file
+        echo "\"$icon-18\": { \"x\": $((-1 * dx + 22)), \"y\": $((-1 * $dy)), \"width\": 18, \"height\": 18 }," >> $file
         echo -n "\"$icon-12\": { \"x\": $((-1 * dx + 42)), \"y\": $((-1 * $dy)), \"width\": 12, \"height\": 12 }" >> $file
 
         # Check if we need to add a new row yet,
@@ -193,18 +193,18 @@ function build_positions_standalone {
 
         count=$(($count + 1))
 
-        echo "\"$icon-32\": { \"x\": $((-1 * dx)), \"y\": $((-1 * $dy)), \"width\": 32, \"height\": 32 }," >> $file
-        echo "\"$icon-24\": { \"x\": $((-1 * dx + 32)), \"y\": $((-1 * $dy)), \"width\": 24, \"height\": 24 }," >> $file
-        echo -n "\"$icon-16\": { \"x\": $((-1 * dx + 56)), \"y\": $((-1 * $dy)), \"width\": 16, \"height\": 16 }" >> $file
+        echo "\"$icon-30\": { \"x\": $((-1 * dx)), \"y\": $((-1 * $dy)), \"width\": 30, \"height\": 30 }," >> $file
+        echo "\"$icon-22\": { \"x\": $((-1 * dx + 30)), \"y\": $((-1 * $dy)), \"width\": 22, \"height\": 22 }," >> $file
+        echo -n "\"$icon-14\": { \"x\": $((-1 * dx + 56)), \"y\": $((-1 * $dy)), \"width\": 14, \"height\": 14 }" >> $file
 
         # Check if we need to add a new row yet,
         # and if so, adjust dy and dy accordingly.
         # Otherwise just adjust dx.
         if [ $(($count * 3 % $tilex)) -eq 0 ]; then
-            dy=$(($dy - 32))
+            dy=$(($dy - 30))
             dx=0
         else
-            dx=$(($dx - 72))
+            dx=$(($dx - 70))
         fi
     done
 
@@ -224,9 +224,9 @@ iconsstandalone=$(grep '"icon":' www/standalone/npmap-symbol-library.json \
 svgsbuilder=$(for icon in $iconsbuilder; do echo -n $svgdirbuilder/${icon}-{24,18,12}.svg" "; done)
 pngsbuilder=$(for icon in $iconsbuilder; do echo -n $pngdirbuilder/${icon}-{24,18,12}.png" "; done)
 pngs2xbuilder=$(for icon in $iconsbuilder; do echo -n $pngdirbuilder/${icon}-{24,18,12}@2x.png" "; done)
-svgsstandalone=$(for icon in $iconsstandalone; do echo -n $svgdirstandalone/${icon}-{32,24,16}.svg" "; done)
-pngsstandalone=$(for icon in $iconsstandalone; do echo -n $pngdirstandalone/${icon}-{32,24,16}.png" "; done)
-pngs2xstandalone=$(for icon in $iconsstandalone; do echo -n $pngdirstandalone/${icon}-{32,24,16}@2x.png" "; done)
+svgsstandalone=$(for icon in $iconsstandalone; do echo -n $svgdirstandalone/${icon}-{30,22,14}.svg" "; done)
+pngsstandalone=$(for icon in $iconsstandalone; do echo -n $pngdirstandalone/${icon}-{30,22,14}.png" "; done)
+pngs2xstandalone=$(for icon in $iconsstandalone; do echo -n $pngdirstandalone/${icon}-{30,22,14}@2x.png" "; done)
 
 case $@ in
     png | pngs )
