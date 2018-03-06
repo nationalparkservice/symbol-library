@@ -2,7 +2,7 @@
 
 [![Circle CI](https://circleci.com/gh/nationalparkservice/npmap-symbol-library.svg?style=svg)](https://circleci.com/gh/nationalparkservice/npmap-symbol-library)
 
-National Park Service [map symbols](http://www.nps.gov/hfc/carto/map-symbols.cfm) optimized for the web. Read more about this project on the [NPMap website](http://www.nps.gov/npmap/tools/npmap-symbol-library/).
+National Park Service [map symbols](http://www.nps.gov/hfc/carto/map-symbols.cfm) optimized for the web. Read more about this project on the [NPS maps website](http://www.nps.gov/maps/tools/symbol-library/).
 
 ## New symbols
 
