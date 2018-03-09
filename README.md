@@ -2,11 +2,11 @@
 
 [![Circle CI](https://circleci.com/gh/nationalparkservice/npmap-symbol-library.svg?style=svg)](https://circleci.com/gh/nationalparkservice/npmap-symbol-library)
 
-National Park Service [map symbols](http://www.nps.gov/hfc/carto/map-symbols.cfm) optimized for the web. Read more about this project on the [NPS maps website](http://www.nps.gov/maps/tools/symbol-library/).
+National Park Service [map symbols](http://www.nps.gov/hfc/carto/map-symbols.cfm) optimized for the web. View the complete set and read more about this project and on the [NPS maps website](http://www.nps.gov/maps/tools/symbol-library/).
 
 ## New symbols
 
-Add requests for new symbols as an [issue](https://github.com/nationalparkservice/npmap-symbol-library/issues/new). Newly developed symbols will be bundled into periodic releases. A more detailed release checklist can be found [here](https://github.com/nationalparkservice/npmap-symbol-library/wiki/Symbol-Library-release-checklist).
+Add requests for new symbols as an [issue](https://github.com/nationalparkservice/npmap-symbol-library/issues/new). Starting in 2018, newly developed symbols will be added to the `src/standalone` directory and bundled into periodic releases. Symbol development for NPMap Builder will be temporarily suspended until that application is rewritten to pull symbols from the `standalone` directory. A more detailed release checklist can be found [here](https://github.com/nationalparkservice/npmap-symbol-library/wiki/Symbol-Library-release-checklist).
 
 ## Versioning
 
@@ -24,6 +24,7 @@ The Symbol Library uses a semantic versioning scheme:
 * 2.2.2
 * 2.2.3
 * 2.3.0
+* 2.4.0
 
 
 ## File structure
@@ -32,10 +33,7 @@ This repository was originally forked from Mapbox's [Maki](https://github.com/ma
 
 ### src
 
-Source [SVG](http://en.wikipedia.org/wiki/Scalable_Vector_Graphics) files are in the `src` subdirectory. To create pixel-perfect icons at different sizes, each icon is designed 6 times to support two different use cases:
-
-1. At 12, 18, and 24 pixels wide/tall for use in [NPMap Builder](https://github.com/nationalparkservice/npmap-builder/) (found in `/builder` directory)
-2. At 14, 22, and 30 pixels wide/tall for use in [Park Tiles](https://github.com/nationalparkservice/park-tiles/) and Park Mobile apps (found in `/standalone` directory)
+Source [SVG](http://en.wikipedia.org/wiki/Scalable_Vector_Graphics) files are in the `src` subdirectory. Each symbol is designed at three pixel-perfect sizes (max dimensions 14, 22, and 30 pixels square) and in black and white versions to support different use cases. These can be found in the `src/standalone` directory. In addition, a subset of 94 symbols are designed at 12, 18, and 24 pixels square for use in NPMap Builder.
 
 ### renders
 
