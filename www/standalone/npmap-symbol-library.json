@@ -174,6 +174,26 @@
     "release": "2.4.0"
   },
   {
+    "name": "Archery (Black)",
+    "tags": [
+      "archery",
+      "practice range",
+      "bow and arrow"
+    ],
+    "icon": "archery-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Archery (White)",
+    "tags": [
+      "archery",
+      "practice range",
+      "bow and arrow"
+    ],
+    "icon": "archery-white",
+    "release": "2.5.0"
+  },
+  {
     "name": "Art (Black)",
     "tags": [
       "art",
@@ -346,6 +366,28 @@
     "release": "2.4.0"
   },
   {
+    "name": "Automobiles (Black)",
+    "tags": [
+      "automobiles",
+      "autos",
+      "cars",
+      "vehicles"
+    ],
+    "icon": "automobiles-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Automobiles (White)",
+    "tags": [
+      "automobiles",
+      "autos",
+      "cars",
+      "vehicles"
+    ],
+    "icon": "automobiles-white",
+    "release": "2.5.0"
+  },
+  {
     "name": "Baby Changing Station (Black)",
     "tags": [
       "restroom",
@@ -386,6 +428,26 @@
     ],
     "icon": "backcountry-camping-permit-white",
     "release": "2.4.0"
+  },
+  {
+    "name": "Baseball (Black)",
+    "tags": [
+      "baseball",
+      "sport",
+      "softball"
+    ],
+    "icon": "baseball-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Baseball (White)",
+    "tags": [
+      "baseball",
+      "sport",
+      "softball"
+    ],
+    "icon": "baseball-white",
+    "release": "2.5.0"
   },
   {
     "name": "Beach Access (Black)",
@@ -550,6 +612,28 @@
     "release": "2.4.0"
   },
   {
+    "name": "Bear Viewing (Black)",
+    "tags": [
+      "bear viewing",
+      "wildlife",
+      "nature",
+      "bears"
+    ],
+    "icon": "bear-viewing-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Bear Viewing (White)",
+    "tags": [
+      "bear viewing",
+      "wildlife",
+      "nature",
+      "bears"
+    ],
+    "icon": "bear-viewing-white",
+    "release": "2.5.0"
+  },
+  {
     "name": "Benches/Seating (Black)",
     "tags": [
       "benches",
@@ -566,26 +650,6 @@
     ],
     "icon": "benches-seating-white",
     "release": "2.4.0"
-  },
-  {
-    "name": "Bike Trail (Black)",
-    "tags": [
-      "bike",
-      "cycling",
-      "trail"
-    ],
-    "icon": "bicycle-trail-black",
-    "release": "1.0.0"
-  },
-  {
-    "name": "Bike Trail (White)",
-    "tags": [
-      "bike",
-      "cycling",
-      "trail"
-    ],
-    "icon": "bicycle-trail-white",
-    "release": "1.0.0"
   },
   {
     "name": "Bike Rack (Black)",
@@ -654,6 +718,26 @@
     ],
     "icon": "bike-repairs-white",
     "release": "2.4.0"
+  },
+  {
+    "name": "Bike Trail (Black)",
+    "tags": [
+      "bike",
+      "cycling",
+      "trail"
+    ],
+    "icon": "bicycle-trail-black",
+    "release": "1.0.0"
+  },
+  {
+    "name": "Bike Trail (White)",
+    "tags": [
+      "bike",
+      "cycling",
+      "trail"
+    ],
+    "icon": "bicycle-trail-white",
+    "release": "1.0.0"
   },
   {
     "name": "Birding/Wildlife Viewing (Black)",
@@ -828,6 +912,26 @@
     "release": "2.4.0"
   },
   {
+    "name": "Bottles (Black)",
+    "tags": [
+      "bottles",
+      "recycling",
+      "waste"
+    ],
+    "icon": "bottles-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Bottles (White)",
+    "tags": [
+      "bottles",
+      "recycling",
+      "waste"
+    ],
+    "icon": "bottles-white",
+    "release": "2.5.0"
+  },
+  {
     "name": "Braille (Black)",
     "tags": [
       "braille",
@@ -846,6 +950,24 @@
     ],
     "icon": "braille-white",
     "release": "2.4.0"
+  },
+  {
+    "name": "Bridge (Black)",
+    "tags": [
+      "bridge",
+      "crossing"
+    ],
+    "icon": "bridge-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Bridge (White)",
+    "tags": [
+      "bridge",
+      "crossing"
+    ],
+    "icon": "bridge-white",
+    "release": "2.5.0"
   },
   {
     "name": "Brochure (Black)",
@@ -1030,6 +1152,26 @@
     "release": "1.0.0"
   },
   {
+    "name": "Cans or Bottles (Black)",
+    "tags": [
+      "cans or bottles",
+      "recycling",
+      "waste"
+    ],
+    "icon": "cans-or-bottles-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Cans or Bottles (White)",
+    "tags": [
+      "cans or bottles",
+      "recycling",
+      "waste"
+    ],
+    "icon": "cans-or-bottles-white",
+    "release": "2.5.0"
+  },
+  {
     "name": "Caving (Black)",
     "tags": [
       "cave",
@@ -1050,6 +1192,28 @@
     ],
     "icon": "caving-white",
     "release": "2.2.0"
+  },
+  {
+    "name": "Chair Lift/Ski Lift (Black)",
+    "tags": [
+      "chair lift",
+      "ski lift",
+      "skiing",
+      "winter recreation"
+    ],
+    "icon": "chair-lift-ski-lift-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Chair Lift/Ski Lift (White)",
+    "tags": [
+      "chair lift",
+      "ski lift",
+      "skiing",
+      "winter recreation"
+    ],
+    "icon": "chair-lift-ski-lift-white",
+    "release": "2.5.0"
   },
   {
     "name": "Chapel (Black)",
@@ -1132,6 +1296,24 @@
     "release": "2.4.0"
   },
   {
+    "name": "Community Garden (Black)",
+    "tags": [
+      "community garden",
+      "pea patch"
+    ],
+    "icon": "community-garden-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Community Garden (White)",
+    "tags": [
+      "community garden",
+      "pea patch"
+    ],
+    "icon": "community-garden-white",
+    "release": "2.5.0"
+  },
+  {
     "name": "Construction (Black)",
     "tags": [
       "construction",
@@ -1172,6 +1354,26 @@
     "release": "1.0.0"
   },
   {
+    "name": "Customs (Black)",
+    "tags": [
+      "customs",
+      "border control",
+      "passport clearance"
+    ],
+    "icon": "customs-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Customs (White)",
+    "tags": [
+      "customs",
+      "border control",
+      "passport clearance"
+    ],
+    "icon": "customs-white",
+    "release": "2.5.0"
+  },
+  {
     "name": "Dam (Black)",
     "tags": [
       "dam",
@@ -1192,6 +1394,28 @@
     ],
     "icon": "dam-white",
     "release": "2.2.0"
+  },
+  {
+    "name": "Deer Viewing (Black)",
+    "tags": [
+      "deer viewing",
+      "wildlife",
+      "nature",
+      "watching"
+    ],
+    "icon": "deer-viewing-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Deer Viewing (White)",
+    "tags": [
+      "deer viewing",
+      "wildlife",
+      "nature",
+      "watching"
+    ],
+    "icon": "deer-viewing-white",
+    "release": "2.5.0"
   },
   {
     "name": "Directions (Black)",
@@ -1294,6 +1518,28 @@
     "release": "1.0.0"
   },
   {
+    "name": "Driving Tour (Black)",
+    "tags": [
+      "driving tour",
+      "auto tour",
+      "car",
+      "self-guided"
+    ],
+    "icon": "driving-tour-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Driving Tour (White)",
+    "tags": [
+      "driving tour",
+      "auto tour",
+      "car",
+      "self-guided"
+    ],
+    "icon": "driving-tour-white",
+    "release": "2.5.0"
+  },
+  {
     "name": "Electric Car Charging (Black)",
     "tags": [
       "electric car charging",
@@ -1352,6 +1598,26 @@
     ],
     "icon": "elevator-white",
     "release": "2.4.0"
+  },
+  {
+    "name": "Emergencies (Black)",
+    "tags": [
+      "emergencies",
+      "urgency",
+      "accident"
+    ],
+    "icon": "emergencies-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Emergencies (White)",
+    "tags": [
+      "emergencies",
+      "urgency",
+      "accident"
+    ],
+    "icon": "emergencies-white",
+    "release": "2.5.0"
   },
   {
     "name": "Emergency Telephone (Black)",
@@ -1434,6 +1700,52 @@
     "release": "2.4.0"
   },
   {
+    "name": "Exercise/Fitness (Black)",
+    "tags": [
+      "exercise",
+      "fitness",
+      "wellness",
+      "training"
+    ],
+    "icon": "exercise-fitness-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Exercise/Fitness (White)",
+    "tags": [
+      "exercise",
+      "fitness",
+      "wellness",
+      "training"
+    ],
+    "icon": "exercise-fitness-white",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Falling Rocks (Black)",
+    "tags": [
+      "falling rocks",
+      "loose rocks",
+      "rockslide",
+      "caution",
+      "safety"
+    ],
+    "icon": "falling-rocks-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Falling Rocks (White)",
+    "tags": [
+      "falling rocks",
+      "loose rocks",
+      "rockslide",
+      "caution",
+      "safety"
+    ],
+    "icon": "falling-rocks-white",
+    "release": "2.5.0"
+  },
+  {
     "name": "Family Restroom (Black)",
     "tags": [
       "family restroom",
@@ -1452,6 +1764,26 @@
     ],
     "icon": "family-restroom-white",
     "release": "2.4.0"
+  },
+  {
+    "name": "Fire Extinguisher (Black)",
+    "tags": [
+      "fire extinguisher",
+      "safety equipment",
+      "emergencies"
+    ],
+    "icon": "fire-extinguisher-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Fire Extinguisher (White)",
+    "tags": [
+      "fire extinguisher",
+      "safety equipment",
+      "emergencies"
+    ],
+    "icon": "fire-extinguisher-white",
+    "release": "2.5.0"
   },
   {
     "name": "Fire Grate (Black)",
@@ -1490,6 +1822,28 @@
     ],
     "icon": "firewood-white",
     "release": "2.4.0"
+  },
+  {
+    "name": "Firewood Cutting (Black)",
+    "tags": [
+      "firewood cutting",
+      "fire ring",
+      "wood chopping",
+      "campfire"
+    ],
+    "icon": "firewood-cutting-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Firewood Cutting (White)",
+    "tags": [
+      "firewood cutting",
+      "fire ring",
+      "wood chopping",
+      "campfire"
+    ],
+    "icon": "firewood-cutting-white",
+    "release": "2.5.0"
   },
   {
     "name": "First Aid (Black)",
@@ -1546,6 +1900,46 @@
     ],
     "icon": "fish-cleaning-white",
     "release": "2.4.0"
+  },
+  {
+    "name": "Fish Hatchery (Black)",
+    "tags": [
+      "fish hatchery",
+      "fish nursery",
+      "fish breeding"
+    ],
+    "icon": "fish-hatchery-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Fish Hatchery (White)",
+    "tags": [
+      "fish hatchery",
+      "fish nursery",
+      "fish breeding"
+    ],
+    "icon": "fish-hatchery-white",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Fish Ladder (Black)",
+    "tags": [
+      "fish ladder",
+      "dam",
+      "wildlife"
+    ],
+    "icon": "fish-ladder-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Fish Ladder (White)",
+    "tags": [
+      "fish ladder",
+      "dam",
+      "wildlife"
+    ],
+    "icon": "fish-ladder-white",
+    "release": "2.5.0"
   },
   {
     "name": "Fishing (Black)",
@@ -1640,6 +2034,28 @@
     ],
     "icon": "floating-dump-station-white",
     "release": "2.4.0"
+  },
+  {
+    "name": "Flower Viewing (Black)",
+    "tags": [
+      "flower viewing",
+      "wildlife",
+      "nature",
+      "watching"
+    ],
+    "icon": "flower-viewing-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Flower Viewing (White)",
+    "tags": [
+      "flower viewing",
+      "wildlife",
+      "nature",
+      "watching"
+    ],
+    "icon": "flower-viewing-white",
+    "release": "2.5.0"
   },
   {
     "name": "Flush Toilets (Black)",
@@ -1864,6 +2280,24 @@
     "release": "2.4.0"
   },
   {
+    "name": "Hang Gliding (Black)",
+    "tags": [
+      "hang gliding",
+      "air sport"
+    ],
+    "icon": "hang-gliding-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Hang Gliding (White)",
+    "tags": [
+      "hang gliding",
+      "air sport"
+    ],
+    "icon": "hang-gliding-white",
+    "release": "2.5.0"
+  },
+  {
     "name": "Historic Feature (Black)",
     "tags": [
       "historic",
@@ -1886,6 +2320,26 @@
     ],
     "icon": "historic-feature-white",
     "release": "2.2.0"
+  },
+  {
+    "name": "Hold Hand Rail (Black)",
+    "tags": [
+      "hold hand rail",
+      "caution",
+      "safety"
+    ],
+    "icon": "hold-hand-rail-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Hold Hand Rail (White)",
+    "tags": [
+      "hold hand rail",
+      "caution",
+      "safety"
+    ],
+    "icon": "hold-hand-rail-white",
+    "release": "2.5.0"
   },
   {
     "name": "Horseback Riding (Black)",
@@ -1966,6 +2420,24 @@
     "release": "2.4.0"
   },
   {
+    "name": "Ice Fishing (Black)",
+    "tags": [
+      "ice fishing",
+      "winter recreation"
+    ],
+    "icon": "ice-fishing-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Ice Fishing (White)",
+    "tags": [
+      "ice fishing",
+      "winter recreation"
+    ],
+    "icon": "ice-fishing-white",
+    "release": "2.5.0"
+  },
+  {
     "name": "Ice Skating (Black)",
     "tags": [
       "ice skating",
@@ -1984,6 +2456,26 @@
     ],
     "icon": "ice-skating-white",
     "release": "1.0.0"
+  },
+  {
+    "name": "In-line Skating (Black)",
+    "tags": [
+      "in-line skating",
+      "roller blading",
+      "roller blades"
+    ],
+    "icon": "in-line-skating-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "In-line Skating (White)",
+    "tags": [
+      "in-line skating",
+      "roller blading",
+      "roller blades"
+    ],
+    "icon": "in-line-skating-white",
+    "release": "2.5.0"
   },
   {
     "name": "Incident (Black)",
@@ -2168,6 +2660,48 @@
     "release": "2.2.0"
   },
   {
+    "name": "Life Jackets (Black)",
+    "tags": [
+      "life jackets",
+      "water recreation",
+      "safety equipment"
+    ],
+    "icon": "life-jackets-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Life Jackets (White)",
+    "tags": [
+      "life jackets",
+      "water recreation",
+      "safety equipment"
+    ],
+    "icon": "life-jackets-white",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Lifeguard (Black)",
+    "tags": [
+      "lifeguard",
+      "water recreation",
+      "swimming",
+      "safety"
+    ],
+    "icon": "lifeguard-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Lifeguard (White)",
+    "tags": [
+      "lifeguard",
+      "water recreation",
+      "swimming",
+      "safety"
+    ],
+    "icon": "lifeguard-white",
+    "release": "2.5.0"
+  },
+  {
     "name": "Lighthouse (Black)",
     "tags": [
       "lighthouse",
@@ -2202,6 +2736,68 @@
     ],
     "icon": "litter-receptacle-white",
     "release": "1.0.0"
+  },
+  {
+    "name": "Live Audio Description (Black)",
+    "tags": [
+      "live audio description",
+      "accessibility"
+    ],
+    "icon": "live-audio-description-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Live Audio Description (White)",
+    "tags": [
+      "live audio description",
+      "accessibility"
+    ],
+    "icon": "live-audio-description-white",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Lock Bikes (Black)",
+    "tags": [
+      "lock bikes",
+      "theft prevention",
+      "bicycles",
+      "bike racks"
+    ],
+    "icon": "lock-bikes-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Lock Bikes (White)",
+    "tags": [
+      "lock bikes",
+      "theft prevention",
+      "bicycles",
+      "bike racks"
+    ],
+    "icon": "lock-bikes-white",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Lockers/Storage (Black)",
+    "tags": [
+      "lockers",
+      "storage",
+      "locked",
+      "theft prevention"
+    ],
+    "icon": "lockers-storage-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Lockers/Storage (White)",
+    "tags": [
+      "lockers",
+      "storage",
+      "locked",
+      "theft prevention"
+    ],
+    "icon": "lockers-storage-white",
+    "release": "2.5.0"
   },
   {
     "name": "Lodging (Black)",
@@ -2348,6 +2944,46 @@
     "release": "2.2.0"
   },
   {
+    "name": "Mens Restroom (Black)",
+    "tags": [
+      "mens restroom",
+      "bathroom",
+      "toilet"
+    ],
+    "icon": "mens-restroom-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Mens Restroom (White)",
+    "tags": [
+      "mens restroom",
+      "bathroom",
+      "toilet"
+    ],
+    "icon": "mens-restroom-white",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Metal Detecting (Black)",
+    "tags": [
+      "metal detecting",
+      "prospecting",
+      "beach combing"
+    ],
+    "icon": "metal-detecting-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Metal Detecting (White)",
+    "tags": [
+      "metal detecting",
+      "prospecting",
+      "beach combing"
+    ],
+    "icon": "metal-detecting-white",
+    "release": "2.5.0"
+  },
+  {
     "name": "Metro Station (Black)",
     "tags": [
       "metro station",
@@ -2390,6 +3026,30 @@
     ],
     "icon": "mobile-device-charging-white",
     "release": "2.4.0"
+  },
+  {
+    "name": "Monument (Black)",
+    "tags": [
+      "monument",
+      "statue",
+      "marker",
+      "stele",
+      "tribute"
+    ],
+    "icon": "monument-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Monument (White)",
+    "tags": [
+      "monument",
+      "statue",
+      "marker",
+      "stele",
+      "tribute"
+    ],
+    "icon": "monument-white",
+    "release": "2.5.0"
   },
   {
     "name": "Motor Bike Trail (Black)",
@@ -2472,6 +3132,30 @@
     "release": "2.4.0"
   },
   {
+    "name": "No Mobile Devices (Black)",
+    "tags": [
+      "no mobile devices",
+      "quiet",
+      "no cell phones",
+      "cellular",
+      "regulatory"
+    ],
+    "icon": "no-mobile-devices-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "No Mobile Devices (White)",
+    "tags": [
+      "no mobile devices",
+      "quiet",
+      "no cell phones",
+      "cellular",
+      "regulatory"
+    ],
+    "icon": "no-mobile-devices-white",
+    "release": "2.5.0"
+  },
+  {
     "name": "Open Captioning (OC) (Black)",
     "tags": [
       "open captioning",
@@ -2506,6 +3190,28 @@
     ],
     "icon": "open-to-the-public-white",
     "release": "2.4.0"
+  },
+  {
+    "name": "Paddle Boating (Black)",
+    "tags": [
+      "paddle boating",
+      "pedalo",
+      "water recreation",
+      "water access"
+    ],
+    "icon": "paddle-boating-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Paddle Boating (White)",
+    "tags": [
+      "paddle boating",
+      "pedalo",
+      "water recreation",
+      "water access"
+    ],
+    "icon": "paddle-boating-white",
+    "release": "2.5.0"
   },
   {
     "name": "Park Film (Black)",
@@ -2588,6 +3294,48 @@
     "release": "2.4.0"
   },
   {
+    "name": "Pedestrian Crossing (Black)",
+    "tags": [
+      "pedestrian crossing",
+      "road crossing",
+      "safety"
+    ],
+    "icon": "pedestrian-crossing-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Pedestrian Crossing (White)",
+    "tags": [
+      "pedestrian crossing",
+      "road crossing",
+      "safety"
+    ],
+    "icon": "pedestrian-crossing-white",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Personal Watercraft (Black)",
+    "tags": [
+      "personal watercraft",
+      "water recreation",
+      "water access",
+      "small craft"
+    ],
+    "icon": "personal-watercraft-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Personal Watercraft (White)",
+    "tags": [
+      "personal watercraft",
+      "water recreation",
+      "water access",
+      "small craft"
+    ],
+    "icon": "personal-watercraft-white",
+    "release": "2.5.0"
+  },
+  {
     "name": "Pets Off Leash (Black)",
     "tags": [
       "pets off leash",
@@ -2668,6 +3416,26 @@
     ],
     "icon": "picnic-area-white",
     "release": "1.0.0"
+  },
+  {
+    "name": "Picnic Shelter (Black)",
+    "tags": [
+      "picnic shelter",
+      "site",
+      "covered"
+    ],
+    "icon": "picnic-shelter-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Picnic Shelter (White)",
+    "tags": [
+      "picnic shelter",
+      "site",
+      "covered"
+    ],
+    "icon": "picnic-shelter-white",
+    "release": "2.5.0"
   },
   {
     "name": "Pit Toilet (Black)",
@@ -2790,6 +3558,52 @@
     "release": "2.4.0"
   },
   {
+    "name": "Quagga Mussel Decontamination Station (Black)",
+    "tags": [
+      "quagga mussel decontamination station",
+      "invasive",
+      "regulatory",
+      "environment",
+      "water recreation"
+    ],
+    "icon": "quagga-mussel-decontamination-station-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Quagga Mussel Decontamination Station (White)",
+    "tags": [
+      "quagga mussel decontamination station",
+      "invasive",
+      "regulatory",
+      "environment",
+      "water recreation"
+    ],
+    "icon": "quagga-mussel-decontamination-station-white",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Quiet (Black)",
+    "tags": [
+      "quiet",
+      "courtesy",
+      "regulatory",
+      "low voices"
+    ],
+    "icon": "quiet-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Quiet (White)",
+    "tags": [
+      "quiet",
+      "courtesy",
+      "regulatory",
+      "low voices"
+    ],
+    "icon": "quiet-white",
+    "release": "2.5.0"
+  },
+  {
     "name": "Radiator Water (Black)",
     "tags": [
       "radiator water",
@@ -2808,6 +3622,26 @@
     ],
     "icon": "radiator-water-white",
     "release": "1.0.0"
+  },
+  {
+    "name": "Radios (Black)",
+    "tags": [
+      "radios",
+      "audio",
+      "equipment"
+    ],
+    "icon": "radios-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Radios (White)",
+    "tags": [
+      "radios",
+      "audio",
+      "equipment"
+    ],
+    "icon": "radios-white",
+    "release": "2.5.0"
   },
   {
     "name": "Rail Station (Black)",
@@ -2830,6 +3664,42 @@
     "release": "2.4.0"
   },
   {
+    "name": "Railroad Crossing (Black)",
+    "tags": [
+      "railroad",
+      "crossing",
+      "rr xing"
+    ],
+    "icon": "rr-xing-black",
+    "release": "2.0.0"
+  },
+  {
+    "name": "Railroad Crossing (White)",
+    "tags": [
+      "railroad",
+      "crossing",
+      "rr xing"
+    ],
+    "icon": "rr-xing-white",
+    "release": "2.0.0"
+  },
+  {
+    "name": "Ranger Station (Black)",
+    "tags": [
+      "ranger station"
+    ],
+    "icon": "ranger-station-black",
+    "release": "1.0.0"
+  },
+  {
+    "name": "Ranger Station (White)",
+    "tags": [
+      "ranger station"
+    ],
+    "icon": "ranger-station-white",
+    "release": "1.0.0"
+  },
+  {
     "name": "Ranger-Led Events (Black)",
     "tags": [
       "ranger led event",
@@ -2850,20 +3720,26 @@
     "release": "2.4.0"
   },
   {
-    "name": "Ranger Station (Black)",
+    "name": "Rattlesnakes (Black)",
     "tags": [
-      "ranger station"
+      "rattlesnakes",
+      "caution",
+      "safety",
+      "wildlife"
     ],
-    "icon": "ranger-station-black",
-    "release": "1.0.0"
+    "icon": "rattlesnakes-black",
+    "release": "2.5.0"
   },
   {
-    "name": "Ranger Station (White)",
+    "name": "Rattlesnakes (White)",
     "tags": [
-      "ranger station"
+      "rattlesnakes",
+      "caution",
+      "safety",
+      "wildlife"
     ],
-    "icon": "ranger-station-white",
-    "release": "1.0.0"
+    "icon": "rattlesnakes-white",
+    "release": "2.5.0"
   },
   {
     "name": "Recycling (Black)",
@@ -2946,6 +3822,50 @@
     "release": "1.0.0"
   },
   {
+    "name": "River Rafting (Black)",
+    "tags": [
+      "river rafting",
+      "water recreation",
+      "water access",
+      "whitewater"
+    ],
+    "icon": "river-rafting-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "River Rafting (White)",
+    "tags": [
+      "river rafting",
+      "water recreation",
+      "water access",
+      "whitewater"
+    ],
+    "icon": "river-rafting-white",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Rock Collecting (Black)",
+    "tags": [
+      "rock collecting",
+      "prospecting",
+      "mineral",
+      "rockhounding"
+    ],
+    "icon": "rock-collecting-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Rock Collecting (White)",
+    "tags": [
+      "rock collecting",
+      "prospecting",
+      "mineral",
+      "rockhounding"
+    ],
+    "icon": "rock-collecting-white",
+    "release": "2.5.0"
+  },
+  {
     "name": "Rowboating (Black)",
     "tags": [
       "rowboating",
@@ -2968,26 +3888,6 @@
     "release": "2.4.0"
   },
   {
-    "name": "Railroad Crossing (Black)",
-    "tags": [
-      "railroad",
-      "crossing",
-      "rr xing"
-    ],
-    "icon": "rr-xing-black",
-    "release": "2.0.0"
-  },
-  {
-    "name": "Railroad Crossing (White)",
-    "tags": [
-      "railroad",
-      "crossing",
-      "rr xing"
-    ],
-    "icon": "rr-xing-white",
-    "release": "2.0.0"
-  },
-  {
     "name": "RV Campground (Black)",
     "tags": [
       "rv campground",
@@ -3004,6 +3904,50 @@
     ],
     "icon": "rv-campground-white",
     "release": "1.0.0"
+  },
+  {
+    "name": "RV Trailer Hookup (Black)",
+    "tags": [
+      "rv trailer hookup",
+      "camping",
+      "utilities"
+    ],
+    "icon": "rv-trailer-hookup-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "RV Trailer Hookup (White)",
+    "tags": [
+      "rv trailer hookup",
+      "camping",
+      "utilities"
+    ],
+    "icon": "rv-trailer-hookup-white",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Safety/Caution/Alerts (Black)",
+    "tags": [
+      "safety",
+      "caution",
+      "alerts",
+      "emergencies",
+      "notification"
+    ],
+    "icon": "safety-caution-alerts-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Safety/Caution/Alerts (White)",
+    "tags": [
+      "safety",
+      "caution",
+      "alerts",
+      "emergencies",
+      "notification"
+    ],
+    "icon": "safety-caution-alerts-white",
+    "release": "2.5.0"
   },
   {
     "name": "Sailing (Black)",
@@ -3266,6 +4210,66 @@
     "release": "2.4.0"
   },
   {
+    "name": "Silence Mobile Devices (Black)",
+    "tags": [
+      "silence mobile devices",
+      "quiet",
+      "silence cell phones",
+      "cellular",
+      "regulatory"
+    ],
+    "icon": "silence-mobile-devices-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Silence Mobile Devices (White)",
+    "tags": [
+      "silence mobile devices",
+      "quiet",
+      "silence cell phones",
+      "cellular",
+      "regulatory"
+    ],
+    "icon": "silence-mobile-devices-white",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Skateboarding (Black)",
+    "tags": [
+      "skateboarding",
+      "skating"
+    ],
+    "icon": "skateboarding-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Skateboarding (White)",
+    "tags": [
+      "skateboarding",
+      "skating"
+    ],
+    "icon": "skateboarding-white",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Ski Jumping (Black)",
+    "tags": [
+      "ski jumping",
+      "winter recreation"
+    ],
+    "icon": "ski-jumping-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Ski Jumping (White)",
+    "tags": [
+      "ski jumping",
+      "winter recreation"
+    ],
+    "icon": "ski-jumping-white",
+    "release": "2.5.0"
+  },
+  {
     "name": "Sledding (Black)",
     "tags": [
       "sledding",
@@ -3282,6 +4286,84 @@
     ],
     "icon": "sledding-white",
     "release": "1.0.0"
+  },
+  {
+    "name": "Sleeping Shelter (Black)",
+    "tags": [
+      "sleeping shelter"
+    ],
+    "icon": "sleeping-shelter-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Sleeping Shelter (White)",
+    "tags": [
+      "sleeping shelter"
+    ],
+    "icon": "sleeping-shelter-white",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Slippery Ramp (Black)",
+    "tags": [
+      "slippery ramp",
+      "caution",
+      "safety"
+    ],
+    "icon": "slippery-ramp-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Slippery Ramp (White)",
+    "tags": [
+      "slippery ramp",
+      "caution",
+      "safety"
+    ],
+    "icon": "slippery-ramp-white",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Slippery Steps (Black)",
+    "tags": [
+      "slippery steps",
+      "caution",
+      "safety"
+    ],
+    "icon": "slippery-steps-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Slippery Steps (White)",
+    "tags": [
+      "slippery steps",
+      "caution",
+      "safety"
+    ],
+    "icon": "slippery-steps-white",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Smoking Area (Black)",
+    "tags": [
+      "smoking area",
+      "smoking permitted",
+      "regulatory",
+      "cigarettes"
+    ],
+    "icon": "smoking-area-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Smoking Area (White)",
+    "tags": [
+      "smoking area",
+      "smoking permitted",
+      "regulatory",
+      "cigarettes"
+    ],
+    "icon": "smoking-area-white",
+    "release": "2.5.0"
   },
   {
     "name": "Snack Bar (Black)",
@@ -3344,6 +4426,24 @@
     ],
     "icon": "snow-shoeing-white",
     "release": "2.4.0"
+  },
+  {
+    "name": "Snowboarding (Black)",
+    "tags": [
+      "snowboarding",
+      "winter recreation"
+    ],
+    "icon": "snowboarding-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Snowboarding (White)",
+    "tags": [
+      "snowboarding",
+      "winter recreation"
+    ],
+    "icon": "snowboarding-white",
+    "release": "2.5.0"
   },
   {
     "name": "Snowmobile Trail (Black)",
@@ -3482,6 +4582,72 @@
     "release": "2.0.0"
   },
   {
+    "name": "Stay Back From Edge - Cliff (Black)",
+    "tags": [
+      "stay back from cliff edge",
+      "caution",
+      "safety"
+    ],
+    "icon": "stay-back-from-edge-cliff-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Stay Back From Edge - Cliff (White)",
+    "tags": [
+      "stay back from cliff edge",
+      "caution",
+      "safety"
+    ],
+    "icon": "stay-back-from-edge-cliff-white",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Stay Back From Edge - Shore (Black)",
+    "tags": [
+      "stay back from shore edge",
+      "caution",
+      "safety",
+      "tides",
+      "currents"
+    ],
+    "icon": "stay-back-from-edge-shore-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Stay Back From Edge - Shore (White)",
+    "tags": [
+      "stay back from shore edge",
+      "caution",
+      "safety",
+      "tides",
+      "currents"
+    ],
+    "icon": "stay-back-from-edge-shore-white",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Stay on Trail (Black)",
+    "tags": [
+      "stay on trail",
+      "caution",
+      "safety",
+      "hiking"
+    ],
+    "icon": "stay-on-trail-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Stay on Trail (White)",
+    "tags": [
+      "stay on trail",
+      "caution",
+      "safety",
+      "hiking"
+    ],
+    "icon": "stay-on-trail-white",
+    "release": "2.5.0"
+  },
+  {
     "name": "Store (Black)",
     "tags": [
       "store",
@@ -3502,6 +4668,62 @@
     ],
     "icon": "store-white",
     "release": "1.0.0"
+  },
+  {
+    "name": "Strollers (Black)",
+    "tags": [
+      "strollers",
+      "child's carriage"
+    ],
+    "icon": "strollers-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Strollers (White)",
+    "tags": [
+      "strollers",
+      "child's carriage"
+    ],
+    "icon": "strollers-white",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Sunny (Black)",
+    "tags": [
+      "sunny",
+      "weather",
+      "conditions"
+    ],
+    "icon": "sunny-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Sunny (White)",
+    "tags": [
+      "sunny",
+      "weather",
+      "conditions"
+    ],
+    "icon": "sunny-white",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Surfing (Black)",
+    "tags": [
+      "surfing",
+      "water recreation"
+    ],
+    "icon": "surfing-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Surfing (White)",
+    "tags": [
+      "surfing",
+      "water recreation"
+    ],
+    "icon": "surfing-white",
+    "release": "2.5.0"
   },
   {
     "name": "Swimming (Black)",
@@ -3544,6 +4766,22 @@
     "release": "2.4.0"
   },
   {
+    "name": "Technical Rock Climb (Black)",
+    "tags": [
+      "technical rock climb"
+    ],
+    "icon": "technical-rock-climb-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Technical Rock Climb (White)",
+    "tags": [
+      "technical rock climb"
+    ],
+    "icon": "technical-rock-climb-white",
+    "release": "2.5.0"
+  },
+  {
     "name": "Telephone (Black)",
     "tags": [
       "telephone",
@@ -3564,6 +4802,44 @@
     "release": "1.0.0"
   },
   {
+    "name": "Tennis (Black)",
+    "tags": [
+      "tennis",
+      "sports",
+      "racket"
+    ],
+    "icon": "tennis-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Tennis (White)",
+    "tags": [
+      "tennis",
+      "sports",
+      "racket"
+    ],
+    "icon": "tennis-white",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Text Telephone (TTY) Service (Black)",
+    "tags": [
+      "text telephone service",
+      "accessibility"
+    ],
+    "icon": "text-telephone-service-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Text Telephone (TTY) Service (White)",
+    "tags": [
+      "text telephone service",
+      "accessibility"
+    ],
+    "icon": "text-telephone-service-white",
+    "release": "2.5.0"
+  },
+  {
     "name": "Theater (Black)",
     "tags": [
       "cinema",
@@ -3582,6 +4858,28 @@
     ],
     "icon": "theater-white",
     "release": "2.2.0"
+  },
+  {
+    "name": "Things To Do (Black)",
+    "tags": [
+      "things to do",
+      "activities",
+      "checklist",
+      "events"
+    ],
+    "icon": "things-to-do-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Things To Do (White)",
+    "tags": [
+      "things to do",
+      "activities",
+      "checklist",
+      "events"
+    ],
+    "icon": "things-to-do-white",
+    "release": "2.5.0"
   },
   {
     "name": "Ticket Sales (Black)",
@@ -3630,6 +4928,28 @@
     "release": "2.4.0"
   },
   {
+    "name": "Tornado Shelter (Black)",
+    "tags": [
+      "tornado shelter",
+      "weather",
+      "safety",
+      "emergency"
+    ],
+    "icon": "tornado-shelter-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Tornado Shelter (White)",
+    "tags": [
+      "tornado shelter",
+      "weather",
+      "safety",
+      "emergency"
+    ],
+    "icon": "tornado-shelter-white",
+    "release": "2.5.0"
+  },
+  {
     "name": "Towing (Black)",
     "tags": [
       "towing",
@@ -3654,6 +4974,24 @@
     "release": "2.4.0"
   },
   {
+    "name": "Trailer Site (Black)",
+    "tags": [
+      "trailer site",
+      "camping"
+    ],
+    "icon": "trailer-site-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Trailer Site (White)",
+    "tags": [
+      "trailer site",
+      "camping"
+    ],
+    "icon": "trailer-site-white",
+    "release": "2.5.0"
+  },
+  {
     "name": "Trailhead (Black)",
     "tags": [
       "trailhead",
@@ -3661,6 +4999,16 @@
       "trail"
     ],
     "icon": "trailhead-black",
+    "release": "1.0.0"
+  },
+  {
+    "name": "Trailhead (White)",
+    "tags": [
+      "trailhead",
+      "recreation",
+      "trail"
+    ],
+    "icon": "trailhead-white",
     "release": "1.0.0"
   },
   {
@@ -3686,14 +5034,28 @@
     "release": "2.4.0"
   },
   {
-    "name": "Trailhead (White)",
+    "name": "Tramway (Black)",
     "tags": [
-      "trailhead",
-      "recreation",
-      "trail"
+      "tramway",
+      "aerial",
+      "sky tram",
+      "cable car",
+      "ropeway"
     ],
-    "icon": "trailhead-white",
-    "release": "1.0.0"
+    "icon": "tramway-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Tramway (White)",
+    "tags": [
+      "tramway",
+      "aerial",
+      "sky tram",
+      "cable car",
+      "ropeway"
+    ],
+    "icon": "tramway-white",
+    "release": "2.5.0"
   },
   {
     "name": "Trash Dumpster (Black)",
@@ -3718,6 +5080,30 @@
     "release": "2.2.0"
   },
   {
+    "name": "Trucks (Black)",
+    "tags": [
+      "trucks",
+      "vehicles",
+      "freight",
+      "caution",
+      "safety"
+    ],
+    "icon": "trucks-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Trucks (White)",
+    "tags": [
+      "trucks",
+      "vehicles",
+      "freight",
+      "caution",
+      "safety"
+    ],
+    "icon": "trucks-white",
+    "release": "2.5.0"
+  },
+  {
     "name": "Tunnel (Black)",
     "tags": [
       "tunnel",
@@ -3734,6 +5120,26 @@
     ],
     "icon": "tunnel-white",
     "release": "2.1.0"
+  },
+  {
+    "name": "Uneven Walkways (Black)",
+    "tags": [
+      "uneven walkways",
+      "caution",
+      "safety"
+    ],
+    "icon": "uneven-walkways-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Uneven Walkways (White)",
+    "tags": [
+      "uneven walkways",
+      "caution",
+      "safety"
+    ],
+    "icon": "uneven-walkways-white",
+    "release": "2.5.0"
   },
   {
     "name": "Vehicle Ferry (Black)",
@@ -3776,6 +5182,28 @@
     "release": "2.4.0"
   },
   {
+    "name": "Viewing Area (Black)",
+    "tags": [
+      "viewing area",
+      "wildlife",
+      "nature",
+      "watching"
+    ],
+    "icon": "viewing-area-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Viewing Area (White)",
+    "tags": [
+      "viewing area",
+      "wildlife",
+      "nature",
+      "watching"
+    ],
+    "icon": "viewing-area-white",
+    "release": "2.5.0"
+  },
+  {
     "name": "Visitor Center (Black)",
     "tags": [
       "visitor center",
@@ -3796,6 +5224,42 @@
     "release": "1.0.0"
   },
   {
+    "name": "Volleyball (Black)",
+    "tags": [
+      "volleyball",
+      "sports"
+    ],
+    "icon": "volleyball-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Volleyball (White)",
+    "tags": [
+      "volleyball",
+      "sports"
+    ],
+    "icon": "volleyball-white",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Volume Control Telephone (Black)",
+    "tags": [
+      "volume control telephone",
+      "accessibility"
+    ],
+    "icon": "volume-control-telephone-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Volume Control Telephone (White)",
+    "tags": [
+      "volume control telephone",
+      "accessibility"
+    ],
+    "icon": "volume-control-telephone-white",
+    "release": "2.5.0"
+  },
+  {
     "name": "Wading (Black)",
     "tags": [
       "wading",
@@ -3814,6 +5278,66 @@
     ],
     "icon": "wading-white",
     "release": "2.4.0"
+  },
+  {
+    "name": "Walk on Boardwalk (Black)",
+    "tags": [
+      "walk on boardwalk",
+      "safety",
+      "regulatory"
+    ],
+    "icon": "walk-on-boardwalk-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Walk on Boardwalk (White)",
+    "tags": [
+      "walk on boardwalk",
+      "safety",
+      "regulatory"
+    ],
+    "icon": "walk-on-boardwalk-white",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Walking (Black)",
+    "tags": [
+      "walking",
+      "stroll",
+      "light hiking"
+    ],
+    "icon": "walking-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Walking (White)",
+    "tags": [
+      "walking",
+      "stroll",
+      "light hiking"
+    ],
+    "icon": "walking-white",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Watch for Falling Ice (Black)",
+    "tags": [
+      "watch for falling ice",
+      "caution",
+      "safety"
+    ],
+    "icon": "watch-for-falling-ice-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Watch for Falling Ice (White)",
+    "tags": [
+      "watch for falling ice",
+      "caution",
+      "safety"
+    ],
+    "icon": "watch-for-falling-ice-white",
+    "release": "2.5.0"
   },
   {
     "name": "Water Hookup (Black)",
@@ -3876,6 +5400,24 @@
     ],
     "icon": "waterfowl-white",
     "release": "2.4.0"
+  },
+  {
+    "name": "Waterskiing (Black)",
+    "tags": [
+      "waterskiing",
+      "water recreation"
+    ],
+    "icon": "waterskiing-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Waterskiing (White)",
+    "tags": [
+      "waterskiing",
+      "water recreation"
+    ],
+    "icon": "waterskiing-white",
+    "release": "2.5.0"
   },
   {
     "name": "Webcam (Black)",
@@ -3956,6 +5498,28 @@
     "release": "2.2.0"
   },
   {
+    "name": "Wilderness (Black)",
+    "tags": [
+      "wilderness",
+      "back country",
+      "wild",
+      "nature"
+    ],
+    "icon": "wilderness-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Wilderness (White)",
+    "tags": [
+      "wilderness",
+      "back country",
+      "wild",
+      "nature"
+    ],
+    "icon": "wilderness-white",
+    "release": "2.5.0"
+  },
+  {
     "name": "Wind Surfing (Black)",
     "tags": [
       "wind surfing",
@@ -3992,6 +5556,66 @@
     ],
     "icon": "wine-white",
     "release": "2.4.0"
+  },
+  {
+    "name": "Winter Recreation Area (Black)",
+    "tags": [
+      "winter recreation area",
+      "snow",
+      "ice"
+    ],
+    "icon": "winter-recreation-area-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Winter Recreation Area (White)",
+    "tags": [
+      "winter recreation area",
+      "snow",
+      "ice"
+    ],
+    "icon": "winter-recreation-area-white",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Womens Restroom (Black)",
+    "tags": [
+      "womens restroom",
+      "bathroom",
+      "toilet"
+    ],
+    "icon": "womens-restroom-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Womens Restroom (White)",
+    "tags": [
+      "womens restroom",
+      "bathroom",
+      "toilet"
+    ],
+    "icon": "womens-restroom-white",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Wood Gathering (Black)",
+    "tags": [
+      "wood gathering",
+      "campfire",
+      "fire ring"
+    ],
+    "icon": "wood-gathering-black",
+    "release": "2.5.0"
+  },
+  {
+    "name": "Wood Gathering (White)",
+    "tags": [
+      "wood gathering",
+      "campfire",
+      "fire ring"
+    ],
+    "icon": "wood-gathering-white",
+    "release": "2.5.0"
   },
   {
     "name": "Young Scientist Program (Black)",
