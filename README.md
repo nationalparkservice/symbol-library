@@ -25,6 +25,7 @@ The Symbol Library uses a semantic versioning scheme:
 * 2.2.3
 * 2.3.0
 * 2.4.0
+* 2.5.0
 
 
 ## File structure
