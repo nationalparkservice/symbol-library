@@ -29,7 +29,7 @@ test('NPMap Symbol Library', function (t) {
     t.equal(typeof f.icon, 'string', 'icon property');
     t.equal(typeof f.release, 'string', 'release property');
     t.equal(typeof f.tags, 'object', 'tags property');
-    [16, 24, 32].forEach(function (size) {
+    [14, 22, 30].forEach(function (size) {
       t.doesNotThrow(function () {
         fs.statSync(__dirname + '/../src/standalone/' + f.icon + '-' + size + '.svg');
         fs.statSync(__dirname + '/../renders/standalone/' + f.icon + '-' + size + '.png');
