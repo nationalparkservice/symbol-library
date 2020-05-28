@@ -1,8 +1,5 @@
 # Below is the entire set
 
-<div style="background-color:red;width:50%;float:left;">Hello</div>
-<div style="background-color:purple;width:50%;">Goodbye</div>
-
 ![aed-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/aed-black-22.svg)&nbsp;aed<br>
 ![airfield-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/airfield-black-22.svg)&nbsp;airfield<br>
 ![airport-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/airport-black-22.svg)&nbsp;airport<br>
