@@ -1,3 +1,3 @@
 Setting up a new folder.
 
-<iframe src="https://www.nps.gov/npmap/dev/insidenps/symbol-library/page-selector.html" title="View NPMap Symbols"></iframe>
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
