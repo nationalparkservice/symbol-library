@@ -1,3 +1,3 @@
 Setting up a new folder.
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Horn of Dagoth](https://www.nps.gov/npmap/dev/symbols/pictograph/aed-black-22.svg)
