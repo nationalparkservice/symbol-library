@@ -1,7 +1,5 @@
 # NPMap Symbol Library
 
-[![Circle CI](https://circleci.com/gh/nationalparkservice/npmap-symbol-library.svg?style=svg)](https://circleci.com/gh/nationalparkservice/npmap-symbol-library)
-
 National Park Service [map symbols](http://www.nps.gov/hfc/carto/map-symbols.cfm) optimized for the web.
 
 ![aed-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/aed-black-22.svg)&nbsp;aed<br>
