@@ -3,6 +3,7 @@
 National Park Service [map symbols](http://www.nps.gov/hfc/carto/map-symbols.cfm) optimized for the web.
 
 ![aed-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/aed-black-22.svg)&nbsp;aed<br>
+![airboat-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/airboat-black-22.svg)&nbsp;airboat<br>
 ![airfield-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/airfield-black-22.svg)&nbsp;airfield<br>
 ![airport-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/airport-black-22.svg)&nbsp;airport<br>
 ![alcohol-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/alcohol-black-22.svg)&nbsp;alcohol<br>
@@ -46,6 +47,7 @@ National Park Service [map symbols](http://www.nps.gov/hfc/carto/map-symbols.cfm
 ![bottle-filling-station-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/bottle-filling-station-black-22.svg)&nbsp;bottle-filling-station<br>
 ![bottles-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/bottles-black-22.svg)&nbsp;bottles<br>
 ![braille-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/braille-black-22.svg)&nbsp;braille<br>
+![breastfeeding-station-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/breastfeeding-station-black-22.svg)&nbsp;breastfeeding-station<br>
 ![bridge-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/bridge-black-22.svg)&nbsp;bridge<br>
 ![brochure-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/brochure-black-22.svg)&nbsp;brochure<br>
 ![bus-stop-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/bus-stop-black-22.svg)&nbsp;bus-stop<br>
@@ -56,8 +58,10 @@ National Park Service [map symbols](http://www.nps.gov/hfc/carto/map-symbols.cfm
 ![campsite-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/campsite-black-22.svg)&nbsp;campsite<br>
 ![cannon-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/cannon-black-22.svg)&nbsp;cannon<br>
 ![canoe-access-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/canoe-access-black-22.svg)&nbsp;canoe-access<br>
+![canoe-portaging-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/canoe-portaging-black-22.svg)&nbsp;canoe-portaging<br>
 ![cans-or-bottles-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/cans-or-bottles-black-22.svg)&nbsp;cans-or-bottles<br>
 ![caving-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/caving-black-22.svg)&nbsp;caving<br>
+![cellular-signal-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/cellular-signal-black-22.svg)&nbsp;cellular-signal<br>
 ![chair-lift-ski-lift-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/chair-lift-ski-lift-black-22.svg)&nbsp;chair-lift-ski-lift<br>
 ![chapel-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/chapel-black-22.svg)&nbsp;chapel<br>
 ![climbing-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/climbing-black-22.svg)&nbsp;climbing<br>
@@ -108,6 +112,7 @@ National Park Service [map symbols](http://www.nps.gov/hfc/carto/map-symbols.cfm
 ![gasoline-diesel-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/gasoline-diesel-black-22.svg)&nbsp;gasoline-diesel<br>
 ![gas-station-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/gas-station-black-22.svg)&nbsp;gas-station<br>
 ![generators-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/generators-black-22.svg)&nbsp;generators<br>
+![geyser-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/geyser-black-22.svg)&nbsp;geyser<br>
 ![golfing-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/golfing-black-22.svg)&nbsp;golfing<br>
 ![grill-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/grill-black-22.svg)&nbsp;grill<br>
 ![guided-tours-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/guided-tours-black-22.svg)&nbsp;guided-tours<br>
@@ -117,6 +122,7 @@ National Park Service [map symbols](http://www.nps.gov/hfc/carto/map-symbols.cfm
 ![hold-hand-rail-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/hold-hand-rail-black-22.svg)&nbsp;hold-hand-rail<br>
 ![horseback-riding-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/horseback-riding-black-22.svg)&nbsp;horseback-riding<br>
 ![hospital-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/hospital-black-22.svg)&nbsp;hospital<br>
+![hunting-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/hunting-black-22.svg)&nbsp;hunting<br>
 ![ice-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/ice-black-22.svg)&nbsp;ice<br>
 ![ice-cream-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/ice-cream-black-22.svg)&nbsp;ice-cream<br>
 ![ice-fishing-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/ice-fishing-black-22.svg)&nbsp;ice-fishing<br>
@@ -136,6 +142,7 @@ National Park Service [map symbols](http://www.nps.gov/hfc/carto/map-symbols.cfm
 ![lighthouse-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/lighthouse-black-22.svg)&nbsp;lighthouse<br>
 ![litter-receptacle-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/litter-receptacle-black-22.svg)&nbsp;litter-receptacle<br>
 ![live-audio-description-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/live-audio-description-black-22.svg)&nbsp;live-audio-description<br>
+![lock-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/lock-black-22.svg)&nbsp;lock<br>
 ![lock-bikes-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/lock-bikes-black-22.svg)&nbsp;lock-bikes<br>
 ![lockers-storage-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/lockers-storage-black-22.svg)&nbsp;lockers-storage<br>
 ![lodging-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/lodging-black-22.svg)&nbsp;lodging<br>
@@ -205,6 +212,7 @@ National Park Service [map symbols](http://www.nps.gov/hfc/carto/map-symbols.cfm
 ![shelter-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/shelter-black-22.svg)&nbsp;shelter<br>
 ![shipwreck-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/shipwreck-black-22.svg)&nbsp;shipwreck<br>
 ![showers-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/showers-black-22.svg)&nbsp;showers<br>
+![shuttle-service-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/shuttle-service-black-22.svg)&nbsp;shuttle-service<br>
 ![sign-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/sign-black-22.svg)&nbsp;sign<br>
 ![sign-language-interpretation-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/sign-language-interpretation-black-22.svg)&nbsp;sign-language-interpretation<br>
 ![silence-mobile-devices-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/silence-mobile-devices-black-22.svg)&nbsp;silence-mobile-devices<br>
@@ -232,8 +240,10 @@ National Park Service [map symbols](http://www.nps.gov/hfc/carto/map-symbols.cfm
 ![store-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/store-black-22.svg)&nbsp;store<br>
 ![strollers-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/strollers-black-22.svg)&nbsp;strollers<br>
 ![sunny-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/sunny-black-22.svg)&nbsp;sunny<br>
+![supplies-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/supplies-black-22.svg)&nbsp;supplies<br>
 ![surfing-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/surfing-black-22.svg)&nbsp;surfing<br>
 ![swimming-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/swimming-black-22.svg)&nbsp;swimming<br>
+![table-service-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/table-service-black-22.svg)&nbsp;table-service<br>
 ![tactile-exhibit-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/tactile-exhibit-black-22.svg)&nbsp;tactile-exhibit<br>
 ![technical-rock-climb-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/technical-rock-climb-black-22.svg)&nbsp;technical-rock-climb<br>
 ![telephone-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/telephone-black-22.svg)&nbsp;telephone<br>
@@ -248,13 +258,16 @@ National Park Service [map symbols](http://www.nps.gov/hfc/carto/map-symbols.cfm
 ![trailer-site-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/trailer-site-black-22.svg)&nbsp;trailer-site<br>
 ![trailhead-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/trailhead-black-22.svg)&nbsp;trailhead<br>
 ![trailhead-information-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/trailhead-information-black-22.svg)&nbsp;trailhead-information<br>
+![tram-tour-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/tram-tour-black-22.svg)&nbsp;tram-tour<br>
 ![tramway-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/tramway-black-22.svg)&nbsp;tramway<br>
 ![trash-dumpster-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/trash-dumpster-black-22.svg)&nbsp;trash-dumpster<br>
 ![trucks-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/trucks-black-22.svg)&nbsp;trucks<br>
 ![tunnel-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/tunnel-black-22.svg)&nbsp;tunnel<br>
 ![uneven-walkways-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/uneven-walkways-black-22.svg)&nbsp;uneven-walkways<br>
+![utv-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/utv-black-22.svg)&nbsp;utv<br>
 ![vehicle-ferry-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/vehicle-ferry-black-22.svg)&nbsp;vehicle-ferry<br>
 ![vending-machine-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/vending-machine-black-22.svg)&nbsp;vending-machine<br>
+![video-surveillance-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/video-surveillance-black-22.svg)&nbsp;video-surveillance<br>
 ![viewing-area-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/viewing-area-black-22.svg)&nbsp;viewing-area<br>
 ![visitor-center-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/visitor-center-black-22.svg)&nbsp;visitor-center<br>
 ![volleyball-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/volleyball-black-22.svg)&nbsp;volleyball<br>
