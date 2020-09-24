@@ -38,6 +38,7 @@ National Park Service [map symbols](http://www.nps.gov/hfc/carto/map-symbols.cfm
 ![bike-rental-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/bike-rental-black-22.svg)&nbsp;bike-rental<br>
 ![bike-repairs-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/bike-repairs-black-22.svg)&nbsp;bike-repairs<br>
 ![birding-wildlife-viewing-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/birding-wildlife-viewing-black-22.svg)&nbsp;birding-wildlife-viewing<br>
+![boating-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/boating-black-22.svg)&nbsp;boating<br>
 ![boating-permit-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/boating-permit-black-22.svg)&nbsp;boating-permit<br>
 ![boat-launch-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/boat-launch-black-22.svg)&nbsp;boat-launch<br>
 ![boat-tour-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/boat-tour-black-22.svg)&nbsp;boat-tour<br>
