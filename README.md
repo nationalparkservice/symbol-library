@@ -75,6 +75,7 @@ National Park Service [map symbols](http://www.nps.gov/hfc/carto/map-symbols.cfm
 ![deer-viewing-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/deer-viewing-black-22.svg)&nbsp;deer-viewing<br>
 ![directions-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/directions-black-22.svg)&nbsp;directions<br>
 ![diving-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/diving-black-22.svg)&nbsp;diving<br>
+![dog-sledding-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/dog-sledding-black-22.svg)&nbsp;dog-sledding<br>
 ![dot-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/dot-black-22.svg)&nbsp;dot<br>
 ![downhill-skiing-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/downhill-skiing-black-22.svg)&nbsp;downhill-skiing<br>
 ![drinking-water-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/drinking-water-black-22.svg)&nbsp;drinking-water<br>
@@ -250,6 +251,7 @@ National Park Service [map symbols](http://www.nps.gov/hfc/carto/map-symbols.cfm
 ![tennis-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/tennis-black-22.svg)&nbsp;tennis<br>
 ![text-telephone-service-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/text-telephone-service-black-22.svg)&nbsp;text-telephone-service<br>
 ![theater-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/theater-black-22.svg)&nbsp;theater<br>
+![theatre-arts-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/theatre-arts-black-22.svg)&nbsp;theatre-arts<br>
 ![things-to-do-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/things-to-do-black-22.svg)&nbsp;things-to-do<br>
 ![ticket-sales-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/ticket-sales-black-22.svg)&nbsp;ticket-sales<br>
 ![tidepooling-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/tidepooling-black-22.svg)&nbsp;tidepooling<br>
@@ -262,6 +264,7 @@ National Park Service [map symbols](http://www.nps.gov/hfc/carto/map-symbols.cfm
 ![tramway-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/tramway-black-22.svg)&nbsp;tramway<br>
 ![trash-dumpster-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/trash-dumpster-black-22.svg)&nbsp;trash-dumpster<br>
 ![trucks-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/trucks-black-22.svg)&nbsp;trucks<br>
+![tubing-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/tubing-black-22.svg)&nbsp;tubing<br>
 ![tunnel-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/tunnel-black-22.svg)&nbsp;tunnel<br>
 ![uneven-walkways-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/uneven-walkways-black-22.svg)&nbsp;uneven-walkways<br>
 ![utv-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/utv-black-22.svg)&nbsp;utv<br>
