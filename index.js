@@ -6,6 +6,7 @@ const path = require('path');
 const ratios = [1, 2, 4];
 const inputPath = '/src/shielded/';
 const outputPath = '/renders/shielded/';
+const spriteName = 'symbol-library';
 
 ratios.forEach(function(pxRatio) {
   console.log(path.join(__dirname, inputPath, '*.svg'));
@@ -17,8 +18,8 @@ ratios.forEach(function(pxRatio) {
         id: path.basename(f).replace('.svg', '')
       };
     });
-  let pngPath = path.resolve(path.join(__dirname, outputPath, '/sprite@' + pxRatio + '.png'));
-  let jsonPath = path.resolve(path.join(__dirname, outputPath, '/sprite@' + pxRatio + '.json'));
+  let pngPath = path.resolve(path.join(__dirname, outputPath, '/' + spriteName + '@' + pxRatio + 'x.png'));
+  let jsonPath = path.resolve(path.join(__dirname, outputPath, '/' + spriteName + '@' + pxRatio + 'x.json'));
 
   // Pass `true` in the layout parameter to generate a data layout
   // suitable for exporting to a JSON sprite manifest file.

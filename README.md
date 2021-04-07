@@ -36,7 +36,7 @@ Source [SVG](http://en.wikipedia.org/wiki/Scalable_Vector_Graphics) files are in
 
 ### renders
 
-Sprite renders of all of the SVGs are in the `renders` directory. High-resolution (aka Retina) versions of each icon are present as well, named using the common `@2x` and `@4x` conventions.
+Sprite renders of all of the SVGs are in the `renders` directory. High-resolution (aka Retina) versions of each icon are present as well, named using the common `@1x`, `@2x`, and `@4x` conventions.
 
 ### index.js
 
