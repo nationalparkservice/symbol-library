@@ -52,7 +52,7 @@ National Park Service [map symbols](https://www.nps.gov/carto/app/#!/maps/symbol
 ![bridge-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/bridge-black-22.svg)&nbsp;bridge<br>
 ![brochure-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/brochure-black-22.svg)&nbsp;brochure<br>
 ![building-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/building-black-22.svg)&nbsp;building<br>
-![building-footprint-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/building-footprint-black-22.svg)&nbsp;building-footprint<br>
+![building-footprint-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/master/src/standalone/building-footprint-black-22.svg)&nbsp;building-footprint<br>
 ![buoy-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/buoy-black-22.svg)&nbsp;buoy<br>
 ![bus-stop-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/bus-stop-black-22.svg)&nbsp;bus-stop<br>
 ![cabin-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/cabin-black-22.svg)&nbsp;cabin<br>
