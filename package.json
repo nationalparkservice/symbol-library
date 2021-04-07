@@ -1,15 +1,18 @@
 {
   "author": "National Park Service",
-  "name": "npmap-symbol-library",
+  "name": "symbol-library",
   "description": "National Park Service map symbols optimized for the web.",
-  "version": "2.5.0",
-  "homepage": "http://www.nps.gov/npmap/tools/npmap-symbol-library/",
+  "version": "3.0.0",
+  "homepage": "https://www.nps.gov/maps/tools/symbol-library/",
   "scripts": {
     "test": "tap test/*.js"
   },
   "main": "index.js",
   "repository": "npmap-symbol-library",
+  "dependencies": {
+    "@mapbox/spritezero": "7.0.1"
+  },
   "devDependencies": {
-    "tap": "~0.4.9"
+    "tap": "15.0.2"
   }
 }
