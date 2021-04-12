@@ -8,11 +8,11 @@
     "test": "tap test/*.js"
   },
   "main": "index.js",
-  "repository": "npmap-symbol-library",
+  "repository": "symbol-library",
   "dependencies": {
-    "@mapbox/spritezero": "7.0.1"
   },
   "devDependencies": {
+    "@mapbox/spritezero": "7.0.1",
     "tap": "15.0.2"
   }
 }
