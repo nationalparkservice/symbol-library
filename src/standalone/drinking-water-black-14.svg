@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Icons" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="14px" height="14px" viewBox="0 0 14 14" style="enable-background:new 0 0 14 14;" xml:space="preserve">
-<polygon  points="2,0 3,0 3,2 5,13 10,13 12,2 12,0 13,0 11,14 4,14 "/>
-<path  d="M4,0c0,0,0.9,1,1.9,1S7,1,7.5,0C8,1,8,1,9,1s2-1,2-1v2c0,0-1,1-2,1S7.8,2.3,7.5,2C7.2,2.3,7,3,6,3S4,2,4,2V0z"/>
+	 width="14px" height="14px" viewBox="0 0 14 14" enable-background="new 0 0 14 14" xml:space="preserve">
+<path fill="#231F20" d="M11.5,0v0.3c-0.2,0.1-0.3,0.3-0.5,0.3c-0.2,0.1-0.5,0.2-0.8,0.2S9.7,0.7,9.4,0.6C9.1,0.5,8.8,0.1,8.5,0.1
+	S7.9,0.5,7.6,0.6C7.4,0.7,7.1,0.8,6.8,0.8S6.3,0.7,6,0.6S5.4,0.1,5.1,0.1S4.5,0.5,4.2,0.6C4,0.7,3.7,0.8,3.4,0.8S2.9,0.7,2.6,0.6
+	c0,0-0.1,0-0.1-0.1V0h-1v0.2l0.2,1.2L3.5,14h7l1.8-12.5l0.2-1.1V0H11.5z M11.5,2l-2,11h-5l-2-11V1.7c0,0,0.1,0,0.1,0.1
+	C2.8,1.9,3.1,2,3.4,2S4,1.9,4.2,1.8c0.3-0.1,0.6-0.5,0.9-0.5S5.7,1.7,6,1.8C6.2,1.9,6.5,2,6.8,2s0.6-0.1,0.8-0.2
+	c0.3-0.1,0.6-0.5,0.9-0.5s0.6,0.4,0.9,0.5C9.6,1.9,9.9,2,10.2,2s0.6-0.1,0.8-0.2s0.3-0.2,0.5-0.3V2z"/>
 </svg>
