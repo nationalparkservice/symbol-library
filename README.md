@@ -26,7 +26,7 @@ National Park Service [map symbols](http://www.nps.gov/hfc/carto/map-symbols.cfm
 ![baseball-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/baseball-black-22.svg)&nbsp;baseball<br>
 ![beach-access-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/beach-access-black-22.svg)&nbsp;beach-access<br>
 ![bear-box-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/bear-box-black-22.svg)&nbsp;bear-box<br>
-![bear-cannister-rentals-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/bear-cannister-rentals-black-22.svg)&nbsp;bear-cannister-rentals<br>
+![bear-canister-rentals-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/bear-canister-rentals-black-22.svg)&nbsp;bear-canister-rentals<br>
 ![bear-spray-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/bear-spray-black-22.svg)&nbsp;bear-spray<br>
 ![bear-spray-purchase-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/bear-spray-purchase-black-22.svg)&nbsp;bear-spray-purchase<br>
 ![bear-spray-rental-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/gh-pages/src/standalone/bear-spray-rental-black-22.svg)&nbsp;bear-spray-rental<br>
