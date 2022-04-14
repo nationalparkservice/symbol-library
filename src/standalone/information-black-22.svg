@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Icons" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="22px" height="22px" viewBox="0 0 22 22" style="enable-background:new 0 0 22 22;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#231F20;}
-</style>
-<rect x="11" y="3" class="st0" width="3" height="3"/>
-<polygon class="st0" points="14.1,8 9.6,8 8,9.6 9.6,9.6 8.1,19 11.1,19 14.1,16 11.6,15.9 12.7,9.6 "/>
+<!-- Generator: Adobe Illustrator 26.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Icons" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="22px" height="22px"
+	 viewBox="0 0 22 22" enable-background="new 0 0 22 22" xml:space="preserve">
+<path fill="#231F20" d="M11,3h3v3h-3V3z M14.1,8H9.6L8,9.6h1.6L8.1,19h3l3-3l-2.5-0.1l1.1-6.3L14.1,8z"/>
 </svg>
