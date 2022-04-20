@@ -301,8 +301,8 @@ National Park Service [map symbols](https://www.nps.gov/carto/app/#!/maps/symbol
 ![wine-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/master/src/standalone/wine-black-22.svg)&nbsp;wine<br>
 ![winter-recreation-area-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/master/src/standalone/winter-recreation-area-black-22.svg)&nbsp;winter-recreation-area<br>
 ![womens-restroom-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/master/src/standalone/womens-restroom-black-22.svg)&nbsp;womens-restroom<br>
-![wood-gathering-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/master/src/standalone/wood-gathering-black-22.svg)&nbsp;wood-gathering<br>
-![young-scientist-program-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/master/src/standalone/young-scientist-program-black-22.svg)&nbsp;young-scientist-program<br>
+![wood-gathering-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/master/src/standalone/wood-gathering-black-22.svg)&nbsp;wood-gathering<br><br>
+![young-scientist-program-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/master/src/standalone/young-scientist-program-black-22.svg)&nbsp;young-scientist-program<br><br>
 ![zebra-mussel-decontamination-station-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/master/src/standalone/zebra-mussel-decontamination-station-black-22.svg)&nbsp;zebra-mussel-decontamination-station<br>
 
 
