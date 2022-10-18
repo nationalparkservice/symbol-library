@@ -308,7 +308,7 @@ National Park Service [map symbols](https://www.nps.gov/carto/app/#!/maps/symbol
 
 ## New symbols
 
-Development on new symbol artwork is ongoing, we have a completely revised procedure in place start April 2021.
+Development on new symbol artwork is ongoing. We revised our procedure in April 2021.
 
 ## Versioning
 
