@@ -1,2 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 27 27" height="27" width="27"><title>campground-white-22.svg</title><rect fill="none" x="0" y="0" width="27" height="27"></rect><rect x="0" y="0" width="27" height="27" rx="4" ry="4" fill="#231f20"></rect><path fill="#ffffff" transform="translate(2 2)" d="M17,21L9.4,5.8L2,21H0v1h19v-1H17z M5,21l4.5-8.5L14,21H5z M20,18L20,18L12.3,2.9l-0.8,1.8L19,19h1.5L20,18z
-	 M15.5,0l-0.8,1.7L22,16v-3L15.5,0z"></path></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.9.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 27 27" enable-background="new 0 0 27 27" xml:space="preserve">
+<rect fill="none" width="27" height="27"/>
+<path fill="#231F20" d="M4,0h19c2.2,0,4,1.8,4,4v19c0,2.2-1.8,4-4,4H4c-2.2,0-4-1.8-4-4V4C0,1.8,1.8,0,4,0z"/>
+<path fill="#FFFFFF" d="M8.7,21.6l4.9-9.4l4.9,9.4H8.7z M22.7,21.6L13.6,4.1L4.4,21.6H2.5v1.3h22v-1.3H22.7z"/>
+</svg>
