@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18" height="18" width="18"><title>pets-on-leash-white-14.svg</title><rect fill="none" x="0" y="0" width="18" height="18"></rect><rect x="0" y="0" width="18" height="18" rx="4" ry="4" fill="#231f20"></rect><path fill="#ffffff" transform="translate(2 2)" d="M10,7V6.5L9,6H2V5H1l1,2v6l2,1v-1v-2l2,3l1-1l-2-3h4v3l2,1v-1V7H10z M10,2V1H9v4h1v0.5L11,6h3V4L10,2z"></path></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.9.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 18 18" enable-background="new 0 0 18 18" xml:space="preserve">
+<rect fill="none" width="18" height="18"/>
+<path fill="#231F20" d="M4,0h10c2.2,0,4,1.8,4,4v10c0,2.2-1.8,4-4,4H4c-2.2,0-4-1.8-4-4V4C0,1.8,1.8,0,4,0z"/>
+<polygon fill="#FFFFFF" points="10.1,7.1 2,3.3 2,2.5 10.4,6.5 "/>
+<polygon fill="#FFFFFF" points="10.1,7.1 2,3.3 2,2.5 10.4,6.5 "/>
+<path fill="#FFFFFF" d="M7.3,11.4h3.5v3.2c0,0.5,0.4,0.9,0.9,0.9s0.9-0.4,0.9-0.9v-3.2c0.4,0,0.4-0.2,0.4-0.4V8.6l-3-1.4H3.8L3,6.7
+	c-0.3-0.1-0.6,0-0.8,0.2c-0.1,0.3,0,0.6,0.3,0.8l1.3,0.7v6.1c0,0.5,0.4,0.9,0.9,0.9s0.9-0.4,0.9-0.9v-2.4L7.3,15
+	c0.3,0.4,0.8,0.6,1.3,0.3C9,15,9.2,14.5,8.9,14L7.3,11.4z"/>
+<path fill="#FFFFFF" d="M7.3,11.4h3.5v3.2c0,0.5,0.4,0.9,0.9,0.9s0.9-0.4,0.9-0.9v-3.2c0.4,0,0.4-0.2,0.4-0.4V8.6l-3-1.4H3.8L3,6.7
+	c-0.3-0.1-0.6,0-0.8,0.2c-0.1,0.3,0,0.6,0.3,0.8l1.3,0.7v6.1c0,0.5,0.4,0.9,0.9,0.9s0.9-0.4,0.9-0.9v-2.4L7.3,15
+	c0.3,0.4,0.8,0.6,1.3,0.3C9,15,9.2,14.5,8.9,14L7.3,11.4z"/>
+<polygon fill="#FFFFFF" points="10.4,6.5 13,7.8 13,7.3 15.2,7.3 16,5.6 10.4,2.9 "/>
+<polygon fill="#FFFFFF" points="10.4,6.5 13,7.8 13,7.3 15.2,7.3 16,5.6 10.4,2.9 "/>
+</svg>
