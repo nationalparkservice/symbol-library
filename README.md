@@ -14,6 +14,10 @@ National Park Service [map symbols](https://www.nps.gov/carto/app/#!/maps/symbol
   <img alt="Airfield 22px symbol" src="https://raw.githubusercontent.com/nationalparkservice/symbol-library/master/src/standalone/airfield-black-22.svg">
 </picture>&nbsp;airfield<br>
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nationalparkservice/symbol-library/master/src/standalone/aed-white-22.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nationalparkservice/symbol-library/master/src/standalone/aed-black-22.svg"><img alt="aed 22px symbol" src="https://raw.githubusercontent.com/nationalparkservice/symbol-library/master/src/standalone/aed-black-22.svg"></picture>&nbsp;aed<br>
+![image](https://github.com/nationalparkservice/symbol-library/assets/11392872/647fab56-67bd-4633-a02f-5603f69c76ef)
+
+
 ![aed-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/master/src/standalone/aed-black-22.svg)&nbsp;aed<br>
 ![airboat-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/master/src/standalone/airboat-black-22.svg)&nbsp;airboat<br>
 ![airfield-black-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/master/src/standalone/airfield-black-22.svg)&nbsp;airfield<br>
