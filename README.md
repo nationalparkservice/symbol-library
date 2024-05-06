@@ -2,8 +2,8 @@
 
 National Park Service [map symbols](https://www.nps.gov/carto/app/#!/maps/symbols) optimized for the web.
 
-![aed-22](https://raw.githubusercontent.com/nationalparkservice/symbol-library/master/src/standalone/aed-white-22.svg#gh-dark-mode-only)
-![aed-22](https://raw.githubusercontent.com/nationalparkservice/symbol-library/master/src/standalone/aed-black-22.svg#gh-light-mode-only)&nbsp;aed<br>
+!https://raw.githubusercontent.com/nationalparkservice/symbol-library/master/src/standalone/aed-white-22.svg#gh-dark-mode-only
+!https://raw.githubusercontent.com/nationalparkservice/symbol-library/master/src/standalone/aed-black-22.svg#gh-light-mode-only&nbsp;aed<br>
 
 ![airboat-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/master/src/standalone/airboat-white-22.svg#gh-dark-mode-only)
 ![airboat-22.svg](https://raw.githubusercontent.com/nationalparkservice/symbol-library/master/src/standalone/airboat-black-22.svg#gh-light-mode-only)&nbsp;airboat<br>
